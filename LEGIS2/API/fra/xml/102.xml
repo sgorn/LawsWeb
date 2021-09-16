@@ -1,0 +1,720 @@
+<Standard><Heading level="2">
+  <TitleText>Fonctions de la commande de la boîte de vitesses (norme 102)</TitleText>
+  <HistoricalNote>
+    <ul>
+      <li>[DORS/97-421, art. 3]</li>
+    </ul>
+  </HistoricalNote>
+</Heading>
+<Section>
+  <Label>102.</Label>
+  <Subsection>
+    <Label>(1)</Label>
+    <Text>En ce qui concerne toute boîte de vitesses automatique dont est muni un véhicule :</Text>
+    <Paragraph>
+      <Label>
+        <Emphasis style="italic">a</Emphasis>
+        )</Label>
+      <Text>les positions de la commande doivent être dans une séquence de manoeuvre telle que :</Text>
+      <Subparagraph>
+        <Label>(i)</Label>
+        <Text>tout mouvement entre une position de marche avant et une position de marche arrière passe par un point mort,</Text>
+      </Subparagraph>
+      <Subparagraph>
+        <Label>(ii)</Label>
+        <Text>dans le cas d'une commande montée sur la colonne de direction, tout mouvement du point mort à une position de marche avant s'effectue uniquement dans le sens des aiguilles d'une montre,</Text>
+      </Subparagraph>
+      <Subparagraph>
+        <Label>(iii)</Label>
+        <Text>la position de stationnement, le cas échéant, se trouve à l'extrémité du sélecteur et soit adjacente à la position de marche arrière;</Text>
+      </Subparagraph>
+    </Paragraph>
+    <Paragraph>
+      <Label>
+        <Emphasis style="italic">b</Emphasis>
+        )</Label>
+      <Text>une position de marche avant, dans le cas des véhicules munis d'une boîte de vitesses à plus d'un rapport de marche avant, donne un plus grand freinage moteur que le rapport de boîte de vitesses le plus élevé, aux vitesses inférieures à 40 km/h.</Text>
+    </Paragraph>
+  </Subsection>
+  <Subsection>
+    <Label>(2)</Label>
+    <Text>Dans le cas des véhicules munis d'une boîte de vitesses automatique, le réglage du commutateur d'allumage dans la position de démarrage du moteur ne doit pas faire démarrer un moteur utilisé pour la propulsion du véhicule si la commande de la boîte de vitesses se trouve en position de marche avant ou arrière.</Text>
+  </Subsection>
+  <Subsection>
+    <Label>(2.1)</Label>
+    <Text>Dans le cas de voitures de tourisme, de véhicules à trois roues, de véhicules de tourisme à usages multiples et de camions qui ont un PNBV d'au plus 4 536 kg et sont munis d'une boîte de vitesses avec position de stationnement, la commande de la boîte de vitesses ne doit pouvoir passer de la position de stationnement à la position de marche avant ou arrière — pendant qu'un moteur utilisé pour la propulsion du véhicule est en service — tant que la pédale des freins de service n'est pas actionnée ou que les freins de service ne sont pas appliqués d'une autre façon.</Text>
+  </Subsection>
+  <Subsection>
+    <Label>(3)</Label>
+    <Text>Sous réserve du paragraphe (5), lorsque la commande de la boîte de vitesses comprend une position de stationnement, l'identification des positions de la commande et de la position choisie doit être affichée à au moins un endroit et à la vue du conducteur dans l'un ou l'autre des cas suivants :</Text>
+    <Paragraph>
+      <Label>
+        <Emphasis style="italic">a</Emphasis>
+        )</Label>
+      <Text>le commutateur d'allumage est dans la position qui permet d'enclencher la boîte de vitesses;</Text>
+    </Paragraph>
+    <Paragraph>
+      <Label>
+        <Emphasis style="italic">b</Emphasis>
+        )</Label>
+      <Text>la boîte de vitesses n'est pas à la position de stationnement.</Text>
+    </Paragraph>
+  </Subsection>
+  <Subsection>
+    <Label>(4)</Label>
+    <Text>Sous réserve du paragraphe (5), si la séquence de la commande de la boîte de vitesses ne comprend pas de position de stationnement, l'identification des positions de la commande et de la position choisie doit être affichée à au moins un endroit à la vue du conducteur lorsque le commutateur d'allumage est dans la position qui permet la mise en marche du moteur.</Text>
+  </Subsection>
+  <Subsection>
+    <Label>(5)</Label>
+    <Text>Il n'est pas nécessaire que l'identification des positions de la commande soit affichée lorsque le commutateur d'allumage est dans la position de démarrage du véhicule.</Text>
+  </Subsection>
+  <Subsection>
+    <Label>(6)</Label>
+    <Text>Dans le cas des véhicules munis d'une boîte de vitesses manuelle, l'identification des positions de la commande et de la séquence de manoeuvre doit être affichée en permanence à la vue du conducteur.</Text>
+  </Subsection>
+  <Subsection>
+    <Label>(7)</Label>
+    <Text>Dans le cas de voitures de tourisme, de véhicules à trois roues, de véhicules de tourisme à usages multiples et de camions qui ont un PNBV d'au plus 4 536 kg et sont munis d'une boîte de vitesses manuelle, le réglage du commutateur d'allumage dans la position de démarrage du moteur ne doit pas faire démarrer un moteur utilisé pour la propulsion du véhicule tant qu'il n'y a pas débrayage ou que la chaîne cinématique n'est pas désactivée d'une autre façon.</Text>
+  </Subsection>
+  <Subsection>
+    <Label>(8)</Label>
+    <Text>Dans le présent article,
+      <DefinedTermFr>chaîne cinématique</DefinedTermFr>
+      s'entend de l'ensemble des organes qui transmettent la force motrice depuis le moteur jusqu'aux roues motrices.</Text>
+  </Subsection>
+  <HistoricalNote>
+    <ul>
+      <li>DORS/95-164, art. 4;</li>
+      <li>DORS/97-421, art. 4 et 22(F);</li>
+      <li>DORS/2003-189, art. 1;</li>
+      <li>DORS/2003-272, art. 34;</li>
+      <li>DORS/2006-94, art. 4(A);</li>
+      <li>DORS/2007-246, art. 2.</li>
+    </ul>
+  </HistoricalNote>
+</Section>
+<Heading level="2">
+  <TitleText>Dégivrage et désembuage du pare-brise</TitleText>
+</Heading>
+<Section>
+  <Label>103.</Label>
+  <Subsection>
+    <Label>(1)</Label>
+    <Text>Dans le présent article,</Text>
+    <Definition generate-in-text="no">
+      <Text>
+        <DefinedTermFr>charge de route</DefinedTermFr>
+        La puissance requise pour déplacer le véhicule à sa masse à vide plus 180 kg sur une surface plane, propre, sèche et lisse, en béton de ciment portland, ou sur toute autre surface ayant le même coefficient de frottement, à une vitesse donnée, dans une atmosphère immobile, à 20 °C et à une pression barométrique normalisée de 101,3 kPa, compte tenu du frottement dû aux mouvements de translation et de rotation et de la résistance de l'air. (
+        <DefinedTermEn>road load</DefinedTermEn>
+        )</Text>
+    </Definition>
+    <Definition generate-in-text="no">
+      <Text>
+        <DefinedTermFr>dégivrer</DefinedTermFr>
+        signifie faire fondre le givre ou la glace sur la surface intérieure ou extérieure d'un vitrage; (
+        <DefinedTermEn>defrost</DefinedTermEn>
+        )</Text>
+    </Definition>
+    <Definition generate-in-text="no">
+      <Text>
+        <DefinedTermFr>désembuer</DefinedTermFr>
+        signifie faire disparaître la buée de la surface intérieure d'un vitrage; (
+        <DefinedTermEn>defog</DefinedTermEn>
+        )</Text>
+    </Definition>
+    <Definition generate-in-text="no">
+      <Text>
+        <DefinedTermFr>pare-brise tout entier</DefinedTermFr>
+        désigne la zone A mentionnée à l'article 104 de la présente annexe; (
+        <DefinedTermEn>entire windshield</DefinedTermEn>
+        )</Text>
+    </Definition>
+    <Definition generate-in-text="no">
+      <Text>
+        <DefinedTermFr>zone critique</DefinedTermFr>
+        désigne la zone C mentionnée à l'article 104 de la présente annexe. (
+        <DefinedTermEn>critical area</DefinedTermEn>
+        )</Text>
+    </Definition>
+  </Subsection>
+  <Subsection>
+    <Label>(2)</Label>
+    <Text>Sous réserve du paragraphe (2.1), tout véhicule doit être équipé d'un système de dégivrage et de désembuage du pare-brise.</Text>
+  </Subsection>
+  <Subsection>
+    <Label>(2.1)</Label>
+    <Text>S'il est muni d'un pare-brise, tout véhicule à trois roues doit être équipé d'un système de dégivrage et de désembuage du pare-brise.</Text>
+  </Subsection>
+  <Subsection>
+    <Label>(3)</Label>
+    <Text>Dans le cas d'une voiture de tourisme ou d'un véhicule à trois roues, le système de dégivrage et de désembuage du pare-brise doit :</Text>
+    <Paragraph>
+      <Label>
+        <Emphasis style="italic">a</Emphasis>
+        )</Label>
+      <Text>satisfaire aux dispositions de l'article 3 de la Pratique recommandée J902 de la SAE «
+        <Language xml:lang="en">Passenger Car Windshield Defrosting Systems</Language>
+        » (août 1964), lorsqu'il est soumis à l'essai conformément à l'alinéa
+        <Emphasis style="italic">b</Emphasis>
+        ), sauf que les zones intitulées dans cet article « zone critique » et « pare-brise tout entier » auront la définition qui leur est donnée au paragraphe (1) du présent article; et</Text>
+    </Paragraph>
+    <Paragraph>
+      <Label>
+        <Emphasis style="italic">b</Emphasis>
+        )</Label>
+      <Text>être soumis à l'essai conformément aux parties applicables des paragraphes 4.1 à 4.4.7 de la Pratique recommandée J902 (août 1964) de la SAE ou de la Pratique recommandée J902
+        <Emphasis style="italic">a</Emphasis>
+        (mars 1967) de la SAE.</Text>
+    </Paragraph>
+  </Subsection>
+  <Subsection>
+    <Label>(4)</Label>
+    <Text>Par dérogation aux dispositions prévues au paragraphe (3) relatives aux conditions d'essai du système de dégivrage et de désembuage du pare-brise d'une voiture de tourisme ou d'un véhicule à trois roues, les conditions suivantes s'appliquent :</Text>
+    <Paragraph>
+      <Label>
+        <Emphasis style="italic">a</Emphasis>
+        )</Label>
+      <Text>pour les voitures de tourisme ou les véhicules à trois roues qui sont munis d'un circuit de chauffage autre que du type échangeur de chaleur qui utilise le liquide de refroidissement du moteur comme moyen de fournir la chaleur à l'échangeur de chaleur, la marche à suivre, pendant tout l'essai, est celle qui est précisée par le fabricant du véhicule pour un démarrage par temps froid, sauf que l'utilisation d'une source externe de puissance ou de chaleur au véhicule n'est pas permise;</Text>
+    </Paragraph>
+    <Paragraph>
+      <Label>
+        <Emphasis style="italic">b</Emphasis>
+        )</Label>
+      <Text>pour les autres voitures de tourisme et véhicules à trois roues :</Text>
+      <Subparagraph>
+        <Label>(i)</Label>
+        <Text>soit, pendant tout l'essai, la vitesse de rotation du moteur ne doit pas dépasser 1 500 tours par minute au point mort ou la vitesse de rotation et la charge du moteur ne doivent pas dépasser la vitesse et la charge à 40 km/h (25 milles par heure) dans le rapport de transmission recommandé par le fabricant pour la charge de route,</Text>
+      </Subparagraph>
+      <Subparagraph>
+        <Label>(ii)</Label>
+        <Text>soit, doivent être suivies, pendant les 5 premières minutes de l'essai, la procédure de réchauffage recommandée par le fabricant du véhicule pour un démarrage par temps froid et, pendant les 35 dernières minutes de l'essai, la procédure visée au sous-alinéa (i);</Text>
+      </Subparagraph>
+    </Paragraph>
+    <Paragraph>
+      <Label>
+        <Emphasis style="italic">c</Emphasis>
+        )</Label>
+      <Text>le changement de l'atmosphère ambiante 90 fois par heure n'est pas requis;</Text>
+    </Paragraph>
+    <Paragraph>
+      <Label>
+        <Emphasis style="italic">d</Emphasis>
+        )</Label>
+      <Text>les essuie-glaces peuvent être utilisés pendant l'épreuve si leur fonctionnement ne nécessite aucune intervention manuelle;</Text>
+    </Paragraph>
+    <Paragraph>
+      <Label>
+        <Emphasis style="italic">e</Emphasis>
+        )</Label>
+      <Text>une ou deux glaces peuvent être baissées de 25 mm au total;</Text>
+    </Paragraph>
+    <Paragraph>
+      <Label>
+        <Emphasis style="italic">f</Emphasis>
+        )</Label>
+      <Text>le ventilateur du dégivreur peut être mis en marche à n'importe quel moment;</Text>
+    </Paragraph>
+    <Paragraph>
+      <Label>
+        <Emphasis style="italic">g</Emphasis>
+        )</Label>
+      <Text>la vitesse du vent ne doit pas dépasser 3 km/h;</Text>
+    </Paragraph>
+    <Paragraph>
+      <Label>
+        <Emphasis style="italic">h</Emphasis>
+        )</Label>
+      <Text>la température de la chambre d'essai et la vitesse du vent sont mesurées après que le moteur ait été mis en marche, au point extrême de l'avant du véhicule ou à un point placé à 91,4 cm (36 po) de la base du pare-brise, si ce dernier point est situé plus à l'avant, à mi-distance entre l'extrémité supérieure et l'extrémité inférieure du pare-brise, sur l'axe du véhicule.</Text>
+    </Paragraph>
+  </Subsection>
+  <HistoricalNote>
+    <ul>
+      <li>DORS/97-264, art. 1;</li>
+      <li>DORS/2003-272, art. 8;</li>
+      <li>DORS/2008-104, art. 9.</li>
+    </ul>
+  </HistoricalNote>
+</Section>
+<Heading level="2">
+  <TitleText>Système essuie-glace et lave-glace</TitleText>
+</Heading>
+<Section>
+  <Label>104.</Label>
+  <Subsection>
+    <Label>(1)</Label>
+    <Text>Dans le présent article,</Text>
+    <Definition generate-in-text="no">
+      <Text>
+        <DefinedTermFr>espace d'épaules</DefinedTermFr>
+        désigne l'espage d'épaules prévu à l'avant, ou dimension W3, définie dans la partie E, «
+        <Language xml:lang="en">Ground Vehicle Practice</Language>
+        », des
+        <Language xml:lang="en">Aerospace-Automotive Drawing Standards</Language>
+        (septembre 1963) de la SAE; (
+        <DefinedTermEn>shoulder room dimension</DefinedTermEn>
+        )</Text>
+    </Definition>
+    <Definition generate-in-text="no">
+      <Text>
+        <DefinedTermFr>largeur hors tout</DefinedTermFr>
+        désigne la largeur maximale de la carrosserie, ou dimension W116, définie dans la partie E, «
+        <Language xml:lang="en">Ground Vehicle Practice</Language>
+        », des
+        <Language xml:lang="en">Aerospace-Automotive Drawing Standards</Language>
+        (septembre 1963) de la SAE; (
+        <DefinedTermEn>overall width</DefinedTermEn>
+        )</Text>
+    </Definition>
+    <Definition generate-in-text="no">
+      <Text>
+        <DefinedTermFr>ligne de référence longitudinale</DefinedTermFr>
+        désigne</Text>
+      <Paragraph>
+        <Label>
+          <Emphasis style="italic">a</Emphasis>
+          )</Label>
+        <Text>dans un véhicule à banquette avant, une ligne parallèle à l'axe longitudinal du véhicule, située à une distance du centre du volant, vers l'extérieur, égale aux 15 centièmes de la différence entre la moitié de l'espace d'épaules et la distance entre l'axe longitudinal et le centre du volant, comme il est indiqué sur la figure 2 de la Pratique recommandée J903
+          <Emphasis style="italic">a</Emphasis>
+          (mai 1966) de la SAE, et</Text>
+      </Paragraph>
+      <Paragraph>
+        <Label>
+          <Emphasis style="italic">b</Emphasis>
+          )</Label>
+        <Text>dans un véhicule à sièges avant individuels,</Text>
+        <Subparagraph>
+          <Label>(i)</Label>
+          <Text>une ligne parallèle à l'axe longitudinal du véhicule passant par le centre de la place assise désignée du conducteur, ou</Text>
+        </Subparagraph>
+        <Subparagraph>
+          <Label>(ii)</Label>
+          <Text>une ligne parallèle à l'axe longitudinal du véhicule située de manière que le centre géométrique des 95 pour cent du contour de portée visuelle se trouve sur l'axe longitudinal de la place assise désignée du conducteur; (
+            <DefinedTermEn>plan view reference line</DefinedTermEn>
+            )</Text>
+        </Subparagraph>
+      </Paragraph>
+    </Definition>
+    <Definition generate-in-text="no">
+      <Text>
+        <DefinedTermFr>ligne de référence de la surface vitrée</DefinedTermFr>
+        L'intersection de la surface vitrée et d'un plan horizontal passant à 635 mm au-dessus du point de référence de position assise, comme l'indique la figure 1 de la pratique recommandée J903
+        <Emphasis style="italic">a</Emphasis>
+        de la SAE (mai 1966). (
+        <DefinedTermEn>glazing surface reference line</DefinedTermEn>
+        )</Text>
+    </Definition>
+    <Definition generate-in-text="no">
+      <Text>
+        <DefinedTermFr>ouverture de jour</DefinedTermFr>
+        désigne l'ouverture libre maximale de la surface vitrée, définie au paragraphe 2.3.12 de la partie E, «
+        <Language xml:lang="en">Ground Vehicle Practice</Language>
+        », des
+        <Language xml:lang="en">Aerospace-Automotive Drawing Standards</Language>
+        (septembre 1963) de la SAE; (
+        <DefinedTermEn>daylight opening</DefinedTermEn>
+        )</Text>
+    </Definition>
+    <Definition generate-in-text="no">
+      <Text>
+        <DefinedTermFr>zones A, B et C</DefinedTermFr>
+        désigne les zones ainsi identifiées dans la colonne I des tableaux I, II, III et IV du présent article, établies selon les indications des figures 1 et 2 de la Pratique recommandée J903
+        <Emphasis style="italic">a</Emphasis>
+        de la SAE, «
+        <Language xml:lang="en">Passenger Car Windshield Wiper Systems</Language>
+        », (mai 1966), et à l'aide des angles indiqués dans les colonnes III à VI des tableaux précités; (
+        <DefinedTermEn>areas A, B and C</DefinedTermEn>
+        )</Text>
+    </Definition>
+    <Definition generate-in-text="no">
+      <Text>
+        <DefinedTermFr>95 pour cent du contour de portée visuelle</DefinedTermFr>
+        désigne le 95<Sup>e</Sup>percentile de limite tangentielle de visibilité, défini dans la Pratique recommandée J941
+        <Emphasis style="italic">a</Emphasis>
+        de la SAE, «
+        <Language xml:lang="en">Passenger Car Driver's Eye Range</Language>
+        » (août 1967). (
+        <DefinedTermEn>95 per cent eye range contour</DefinedTermEn>
+        )</Text>
+    </Definition>
+  </Subsection>
+  <Subsection>
+    <Label>(2)</Label>
+    <Text>Pour l'application du présent article, dans le cadre de toute norme ou pratique recommandée de la SAE, les mentions «
+      <Language xml:lang="en">manikin H-point</Language>
+      », «
+      <Language xml:lang="en">manikin H-point with seat in rearmost position</Language>
+      » et «
+      <Language xml:lang="en">H-point</Language>
+      » valent la mention « point de référence de position assise ».</Text>
+  </Subsection>
+  <Subsection>
+    <Label>(3)</Label>
+    <Text>Sous réserve du paragraphe (3.1), tout véhicule doit être muni d'un système essuie-glace mécanisé qui a au moins deux fréquences ou vitesses et qui a, indépendamment de la vitesse de rotation et de la charge du moteur, les caractéristiques suivantes :</Text>
+    <Paragraph>
+      <Label>
+        <Emphasis style="italic">a</Emphasis>
+        )</Label>
+      <Text>une fréquence ou vitesse d'au moins 45 cycles à la minute;</Text>
+    </Paragraph>
+    <Paragraph>
+      <Label>
+        <Emphasis style="italic">b</Emphasis>
+        )</Label>
+      <Text>une différence d'au moins 15 cycles à la minute entre la fréquence ou la vitesse la plus élevée et l'une des vitesses ou fréquences inférieures;</Text>
+    </Paragraph>
+    <Paragraph>
+      <Label>
+        <Emphasis style="italic">c</Emphasis>
+        )</Label>
+      <Text>la fréquence ou vitesse inférieure mentionnée à l'alinéa
+        <Emphasis style="italic">b</Emphasis>
+        ) étant d'au moins 20 cycles à la minute.</Text>
+    </Paragraph>
+  </Subsection>
+  <Subsection>
+    <Label>(3.1)</Label>
+    <Text>S'il est muni d'un pare-brise, tout véhicule à trois roues doit être équipé d'un système essuie-glace qui est conforme aux exigences du paragraphe (3).</Text>
+  </Subsection>
+  <Subsection>
+    <Label>(4)</Label>
+    <Text>La conformité du système essuie-glace aux dispositions du paragraphe (3) doit être établie par des essais effectués dans les conditions spécifiées aux paragraphes 4.1.1 et 4.1.2 de la Pratique recommandée J903
+      <Emphasis style="italic">a</Emphasis>
+      (mai 1966) de la SAE.</Text>
+  </Subsection>
+  <Subsection>
+    <Label>(5)</Label>
+    <Text>Dans le cas d'une voiture de tourisme ou d'un véhicule à trois roues, le système essuie-glace, lorsqu'il est mis à l'essai mouillé selon la pratique recommandée J903a de la SAE (mai 1966), doit balayer le pourcentage des zones A, B et C du pare-brise qui, à la fois :</Text>
+    <Paragraph>
+      <Label>
+        <Emphasis style="italic">a</Emphasis>
+        )</Label>
+      <Text>est spécifié dans la colonne II des tableaux I, II, III ou IV du présent article, selon le cas; et</Text>
+    </Paragraph>
+    <Paragraph>
+      <Label>
+        <Emphasis style="italic">b</Emphasis>
+        )</Label>
+      <Text>se trouve dans la zone délimitée par une ligne tracée sur la surface vitrée à 25 mm des limites de l'ouverture de jour.</Text>
+    </Paragraph>
+  </Subsection>
+  <Subsection>
+    <Label>(6)</Label>
+    <Text>Sous réserve du paragraphe (7), tout véhicule doit être muni d'un système lave-glace conforme aux dispositions de la pratique recommandée J942 de la SAE,
+      <Language xml:lang="en">
+        <XRefExternal reference-type="other">Passenger Car Windshield Washer Systems</XRefExternal>
+      </Language>
+      (novembre 1965), sauf que les mots «
+      <Language xml:lang="en">the effective wipe pattern defined in SAE J903, paragraph 3.1.2</Language>
+      » (la forme réelle de la zone définie au paragraphe 3.1.2 de la pratique recommandée J903 de la SAE) à l'alinéa 3.1 de la pratique recommandée J942 de la SAE doivent être remplacés :</Text>
+    <Paragraph>
+      <Label>
+        <Emphasis style="italic">a</Emphasis>
+        )</Label>
+      <Text>dans le cas d'une voiture de tourisme ou d'un véhicule à trois roues, par les mots «
+        <Language xml:lang="en">the areas established in accordance with the definition of areas A, B and C in subsection (1) of Canada Motor Vehicle Safety Standard No. 104</Language>
+        » (les zones établies conformément à la définition des zones A, B et C au paragraphe (1) de la norme de sécurité des véhicules automobiles du Canada n<Sup>o</Sup>104);</Text>
+    </Paragraph>
+    <Paragraph>
+      <Label>
+        <Emphasis style="italic">b</Emphasis>
+        )</Label>
+      <Text>dans le cas d'un véhicule de tourisme à usages multiples, d'un camion ou d'un autobus, par les mots «
+        <Language xml:lang="en">the pattern designed by the manufacturer for the windshield wiping system on the exterior surface of the windshield glazing</Language>
+        » (la forme établie par le fabricant pour la zone de balayage de la surface externe du pare-brise).</Text>
+    </Paragraph>
+  </Subsection>
+  <Subsection>
+    <Label>(7)</Label>
+    <Text>S'il est muni d'un pare-brise, tout véhicule à trois roues doit être équipé d'un système lave-glace qui est conforme aux exigences du paragraphe (6).</Text>
+  </Subsection>
+  <Subsection>
+    <Label/>
+    <Text/>
+    <TableGroup pointsize="10" spanlanguages="yes" spanmarginalnotecol="yes" topmarginspacing="4">
+      <Caption position="over" justification="center">
+      TABLEAU I
+      </Caption>
+      <table frame="topbot">
+        <title justification="center">VOITURES DE TOURISME ET VÉHICULES À TROIS ROUES D'UNE LARGEUR HORS TOUT DE MOINS DE 1 520 MM</title>
+        <tgroup cols="6" align="left" keep-together="yes">
+          <colspec colname="1" colwidth="83.46*" htmlwidth="18%"/>
+          <colspec colname="2" colwidth="100.21*" htmlwidth="21%"/>
+          <colspec colname="3" colwidth="71.85*" htmlwidth="15%"/>
+          <colspec colname="4" colwidth="76.47*" htmlwidth="16%"/>
+          <colspec colname="5" colwidth="67.77*" htmlwidth="14%"/>
+          <colspec colname="6" colwidth="68.32*" htmlwidth="15%"/>
+          <thead>
+            <row topdouble="yes" topmarginspacing="4">
+              <entry colname="1" colsep="0" rowsep="1" valign="top" id="t3851h0">Colonne I</entry>
+              <entry colname="2" colsep="0" rowsep="1" valign="top" id="t3851h1">Colonne II</entry>
+              <entry colname="3" colsep="0" rowsep="1" align="center" valign="top" id="t3851h2">Colonne III</entry>
+              <entry colname="4" colsep="0" rowsep="1" align="center" valign="top" id="t3851h3">Colonne IV</entry>
+              <entry colname="5" colsep="0" rowsep="1" align="center" valign="top" id="t3851h4">Colonne V</entry>
+              <entry colname="6" colsep="0" rowsep="1" align="center" valign="top" id="t3851h5">Colonne VI</entry>
+            </row>
+            <row>
+              <entry morerows="1" colsep="0" rowsep="1" valign="bottom" id="t3851h6" headers="t3851h0">Zone</entry>
+              <entry morerows="1" colsep="0" rowsep="1" valign="bottom" id="t3851h7" headers="t3851h1">Pourcentage minimal devant être balayé</entry>
+              <entry namest="3" nameend="6" colsep="0" rowsep="1" align="center" id="t3851h8" headers="t3851h2 t3851h3 t3851h4 t3851h5">Angle, en degrés</entry>
+            </row>
+            <row>
+              <entry colsep="0" rowsep="1" align="center" id="t3851h9" headers="t3851h2 t3851h8">Gauche</entry>
+              <entry colsep="0" rowsep="1" align="center" id="t3851h10" headers="t3851h3 t3851h8">Droite</entry>
+              <entry colsep="0" rowsep="1" align="center" id="t3851h11" headers="t3851h4 t3851h8">Haut</entry>
+              <entry colsep="0" rowsep="1" align="center" id="t3851h12" headers="t3851h5 t3851h8">Bas</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry rowheader="yes" colsep="0" rowsep="0" id="t3851h13" headers="t3851h0 t3851h6">A
+                <LeaderRightJustified leader="dot"/>
+              </entry>
+              <entry colsep="0" rowsep="0" headers="t3851h0 t3851h6 t3851h13 t3851h1 t3851h7">80</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3851h0 t3851h6 t3851h13 t3851h2 t3851h8 t3851h9">16</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3851h0 t3851h6 t3851h13 t3851h3 t3851h8 t3851h10">49</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3851h0 t3851h6 t3851h13 t3851h4 t3851h8 t3851h11">7</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3851h0 t3851h6 t3851h13 t3851h5 t3851h8 t3851h12">5</entry>
+            </row>
+            <row>
+              <entry rowheader="yes" colsep="0" rowsep="0" id="t3851h19" headers="t3851h0 t3851h6">B
+                <LeaderRightJustified leader="dot"/>
+              </entry>
+              <entry colsep="0" rowsep="0" headers="t3851h0 t3851h6 t3851h19 t3851h1 t3851h7">94</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3851h0 t3851h6 t3851h19 t3851h2 t3851h8 t3851h9">13</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3851h0 t3851h6 t3851h19 t3851h3 t3851h8 t3851h10">46</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3851h0 t3851h6 t3851h19 t3851h4 t3851h8 t3851h11">4</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3851h0 t3851h6 t3851h19 t3851h5 t3851h8 t3851h12">3</entry>
+            </row>
+            <row>
+              <entry rowheader="yes" colsep="0" rowsep="0" id="t3851h25" headers="t3851h0 t3851h6">C
+                <LeaderRightJustified leader="dot"/>
+              </entry>
+              <entry colsep="0" rowsep="0" headers="t3851h0 t3851h6 t3851h25 t3851h1 t3851h7">99</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3851h0 t3851h6 t3851h25 t3851h2 t3851h8 t3851h9">7</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3851h0 t3851h6 t3851h25 t3851h3 t3851h8 t3851h10">15</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3851h0 t3851h6 t3851h25 t3851h4 t3851h8 t3851h11">3</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3851h0 t3851h6 t3851h25 t3851h5 t3851h8 t3851h12">1</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </TableGroup>
+    <TableGroup pointsize="10" spanlanguages="yes" spanmarginalnotecol="yes" topmarginspacing="4">
+      <Caption position="over" justification="center">
+      TABLEAU II
+      </Caption>
+      <table frame="topbot">
+        <title justification="center">VOITURES DE TOURISME ET VÉHICULES À TROIS ROUES D'UNE LARGEUR HORS TOUT ÉGALE OU SUPÉRIEURE À 1 520 MM MAIS INFÉRIEURE À 1 630 MM</title>
+        <tgroup cols="6" align="left" keep-together="yes">
+          <colspec colname="1" colwidth="83.76*" htmlwidth="18%"/>
+          <colspec colname="2" colwidth="99.61*" htmlwidth="21%"/>
+          <colspec colname="3" colwidth="72.20*" htmlwidth="15%"/>
+          <colspec colname="4" colwidth="76.27*" htmlwidth="16%"/>
+          <colspec colname="5" colwidth="67.84*" htmlwidth="14%"/>
+          <colspec colname="6" colwidth="68.39*" htmlwidth="15%"/>
+          <thead>
+            <row topdouble="yes" topmarginspacing="4">
+              <entry colname="1" colsep="0" rowsep="1" valign="top" id="t3852h0">Colonne I</entry>
+              <entry colname="2" colsep="0" rowsep="1" valign="top" id="t3852h1">Colonne II</entry>
+              <entry colname="3" colsep="0" rowsep="1" align="center" valign="top" id="t3852h2">Colonne III</entry>
+              <entry colname="4" colsep="0" rowsep="1" align="center" valign="top" id="t3852h3">Colonne IV</entry>
+              <entry colname="5" colsep="0" rowsep="1" align="center" valign="top" id="t3852h4">Colonne V</entry>
+              <entry colname="6" colsep="0" rowsep="1" align="center" valign="top" id="t3852h5">Colonne VI</entry>
+            </row>
+            <row>
+              <entry morerows="1" colsep="0" rowsep="1" valign="bottom" id="t3852h6" headers="t3852h0">Zone</entry>
+              <entry morerows="1" colsep="0" rowsep="1" valign="bottom" id="t3852h7" headers="t3852h1">Pourcentage minimal devant être balayé</entry>
+              <entry namest="3" nameend="6" colsep="0" rowsep="1" align="center" id="t3852h8" headers="t3852h2 t3852h3 t3852h4 t3852h5">Angle, en degrés</entry>
+            </row>
+            <row>
+              <entry colsep="0" rowsep="1" align="center" id="t3852h9" headers="t3852h2 t3852h8">Gauche</entry>
+              <entry colsep="0" rowsep="1" align="center" id="t3852h10" headers="t3852h3 t3852h8">Droite</entry>
+              <entry colsep="0" rowsep="1" align="center" id="t3852h11" headers="t3852h4 t3852h8">Haut</entry>
+              <entry colsep="0" rowsep="1" align="center" id="t3852h12" headers="t3852h5 t3852h8">Bas</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry rowheader="yes" colsep="0" rowsep="0" id="t3852h13" headers="t3852h0 t3852h6">A
+                <LeaderRightJustified leader="dot"/>
+              </entry>
+              <entry colsep="0" rowsep="0" headers="t3852h0 t3852h6 t3852h13 t3852h1 t3852h7">80</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3852h0 t3852h6 t3852h13 t3852h2 t3852h8 t3852h9">17</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3852h0 t3852h6 t3852h13 t3852h3 t3852h8 t3852h10">51</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3852h0 t3852h6 t3852h13 t3852h4 t3852h8 t3852h11">8</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3852h0 t3852h6 t3852h13 t3852h5 t3852h8 t3852h12">5</entry>
+            </row>
+            <row>
+              <entry rowheader="yes" colsep="0" rowsep="0" id="t3852h19" headers="t3852h0 t3852h6">B
+                <LeaderRightJustified leader="dot"/>
+              </entry>
+              <entry colsep="0" rowsep="0" headers="t3852h0 t3852h6 t3852h19 t3852h1 t3852h7">94</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3852h0 t3852h6 t3852h19 t3852h2 t3852h8 t3852h9">13</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3852h0 t3852h6 t3852h19 t3852h3 t3852h8 t3852h10">49</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3852h0 t3852h6 t3852h19 t3852h4 t3852h8 t3852h11">4</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3852h0 t3852h6 t3852h19 t3852h5 t3852h8 t3852h12">3</entry>
+            </row>
+            <row>
+              <entry rowheader="yes" colsep="0" rowsep="0" id="t3852h25" headers="t3852h0 t3852h6">C
+                <LeaderRightJustified leader="dot"/>
+              </entry>
+              <entry colsep="0" rowsep="0" headers="t3852h0 t3852h6 t3852h25 t3852h1 t3852h7">99</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3852h0 t3852h6 t3852h25 t3852h2 t3852h8 t3852h9">7</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3852h0 t3852h6 t3852h25 t3852h3 t3852h8 t3852h10">15</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3852h0 t3852h6 t3852h25 t3852h4 t3852h8 t3852h11">3</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3852h0 t3852h6 t3852h25 t3852h5 t3852h8 t3852h12">1</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </TableGroup>
+    <TableGroup pointsize="10" spanlanguages="yes" spanmarginalnotecol="yes" topmarginspacing="4">
+      <Caption position="over" justification="center">
+      TABLEAU III
+      </Caption>
+      <table frame="topbot">
+        <title justification="center">VOITURES DE TOURISME ET VÉHICULES À TROIS ROUES D'UNE LARGEUR HORS TOUT ÉGALE OU SUPÉRIEURE À 1 630 MM MAIS INFÉRIEURE À 1 730 MM</title>
+        <tgroup cols="6" align="left" keep-together="yes">
+          <colspec colname="1" colwidth="83.46*" htmlwidth="18%"/>
+          <colspec colname="2" colwidth="99.91*" htmlwidth="21%"/>
+          <colspec colname="3" colwidth="71.92*" htmlwidth="15%"/>
+          <colspec colname="4" colwidth="76.55*" htmlwidth="16%"/>
+          <colspec colname="5" colwidth="67.84*" htmlwidth="14%"/>
+          <colspec colname="6" colwidth="68.39*" htmlwidth="15%"/>
+          <thead>
+            <row topdouble="yes" topmarginspacing="4">
+              <entry colname="1" colsep="0" rowsep="1" valign="top" id="t3853h0">Colonne I</entry>
+              <entry colname="2" colsep="0" rowsep="1" valign="top" id="t3853h1">Colonne II</entry>
+              <entry colname="3" colsep="0" rowsep="1" align="center" valign="top" id="t3853h2">Colonne III</entry>
+              <entry colname="4" colsep="0" rowsep="1" align="center" valign="top" id="t3853h3">Colonne IV</entry>
+              <entry colname="5" colsep="0" rowsep="1" align="center" valign="top" id="t3853h4">Colonne V</entry>
+              <entry colname="6" colsep="0" rowsep="1" align="center" valign="top" id="t3853h5">Colonne VI</entry>
+            </row>
+            <row>
+              <entry morerows="1" colsep="0" rowsep="1" valign="bottom" id="t3853h6" headers="t3853h0">Zone</entry>
+              <entry morerows="1" colsep="0" rowsep="1" valign="bottom" id="t3853h7" headers="t3853h1">Pourcentage minimal devant être balayé</entry>
+              <entry namest="3" nameend="6" colsep="0" rowsep="1" align="center" id="t3853h8" headers="t3853h2 t3853h3 t3853h4 t3853h5">Angle, en degrés</entry>
+            </row>
+            <row>
+              <entry colsep="0" rowsep="1" align="center" id="t3853h9" headers="t3853h2 t3853h8">Gauche</entry>
+              <entry colsep="0" rowsep="1" align="center" id="t3853h10" headers="t3853h3 t3853h8">Droite</entry>
+              <entry colsep="0" rowsep="1" align="center" id="t3853h11" headers="t3853h4 t3853h8">Haut</entry>
+              <entry colsep="0" rowsep="1" align="center" id="t3853h12" headers="t3853h5 t3853h8">Bas</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry rowheader="yes" colsep="0" rowsep="0" id="t3853h13" headers="t3853h0 t3853h6">A
+                <LeaderRightJustified leader="dot"/>
+              </entry>
+              <entry colsep="0" rowsep="0" headers="t3853h0 t3853h6 t3853h13 t3853h1 t3853h7">80</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3853h0 t3853h6 t3853h13 t3853h2 t3853h8 t3853h9">17</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3853h0 t3853h6 t3853h13 t3853h3 t3853h8 t3853h10">53</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3853h0 t3853h6 t3853h13 t3853h4 t3853h8 t3853h11">9</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3853h0 t3853h6 t3853h13 t3853h5 t3853h8 t3853h12">5</entry>
+            </row>
+            <row>
+              <entry rowheader="yes" colsep="0" rowsep="0" id="t3853h19" headers="t3853h0 t3853h6">B
+                <LeaderRightJustified leader="dot"/>
+              </entry>
+              <entry colsep="0" rowsep="0" headers="t3853h0 t3853h6 t3853h19 t3853h1 t3853h7">94</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3853h0 t3853h6 t3853h19 t3853h2 t3853h8 t3853h9">14</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3853h0 t3853h6 t3853h19 t3853h3 t3853h8 t3853h10">51</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3853h0 t3853h6 t3853h19 t3853h4 t3853h8 t3853h11">5</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3853h0 t3853h6 t3853h19 t3853h5 t3853h8 t3853h12">3</entry>
+            </row>
+            <row>
+              <entry rowheader="yes" colsep="0" rowsep="0" id="t3853h25" headers="t3853h0 t3853h6">C
+                <LeaderRightJustified leader="dot"/>
+              </entry>
+              <entry colsep="0" rowsep="0" headers="t3853h0 t3853h6 t3853h25 t3853h1 t3853h7">99</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3853h0 t3853h6 t3853h25 t3853h2 t3853h8 t3853h9">8</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3853h0 t3853h6 t3853h25 t3853h3 t3853h8 t3853h10">15</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3853h0 t3853h6 t3853h25 t3853h4 t3853h8 t3853h11">4</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3853h0 t3853h6 t3853h25 t3853h5 t3853h8 t3853h12">1</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </TableGroup>
+    <TableGroup pointsize="10" spanlanguages="yes" spanmarginalnotecol="yes" topmarginspacing="4">
+      <Caption position="over" justification="center">
+      TABLEAU IV
+      </Caption>
+      <table frame="topbot">
+        <title justification="center">VOITURES DE TOURISME ET VÉHICULES À TROIS ROUES D'UNE LARGEUR HORS TOUT DE 1 730 MM OU PLUS</title>
+        <tgroup cols="6" align="left" keep-together="yes">
+          <colspec colname="1" colwidth="83.46*" htmlwidth="18%"/>
+          <colspec colname="2" colwidth="100.50*" htmlwidth="21%"/>
+          <colspec colname="3" colwidth="71.77*" htmlwidth="15%"/>
+          <colspec colname="4" colwidth="76.39*" htmlwidth="16%"/>
+          <colspec colname="5" colwidth="67.70*" htmlwidth="14%"/>
+          <colspec colname="6" colwidth="68.25*" htmlwidth="15%"/>
+          <thead>
+            <row topdouble="yes" topmarginspacing="4">
+              <entry colname="1" colsep="0" rowsep="1" valign="top" id="t3854h0">Colonne I</entry>
+              <entry colname="2" colsep="0" rowsep="1" valign="top" id="t3854h1">Colonne II</entry>
+              <entry colname="3" colsep="0" rowsep="1" align="center" valign="top" id="t3854h2">Colonne III</entry>
+              <entry colname="4" colsep="0" rowsep="1" align="center" valign="top" id="t3854h3">Colonne IV</entry>
+              <entry colname="5" colsep="0" rowsep="1" align="center" valign="top" id="t3854h4">Colonne V</entry>
+              <entry colname="6" colsep="0" rowsep="1" align="center" valign="top" id="t3854h5">Colonne VI</entry>
+            </row>
+            <row>
+              <entry morerows="1" colsep="0" rowsep="1" valign="bottom" id="t3854h6" headers="t3854h0">Zone</entry>
+              <entry morerows="1" colsep="0" rowsep="1" valign="bottom" id="t3854h7" headers="t3854h1">Pourcentage minimal devant être balayé</entry>
+              <entry namest="3" nameend="6" colsep="0" rowsep="1" align="center" id="t3854h8" headers="t3854h2 t3854h3 t3854h4 t3854h5">Angle, en degrés</entry>
+            </row>
+            <row>
+              <entry colsep="0" rowsep="1" align="center" id="t3854h9" headers="t3854h2 t3854h8">Gauche</entry>
+              <entry colsep="0" rowsep="1" align="center" id="t3854h10" headers="t3854h3 t3854h8">Droite</entry>
+              <entry colsep="0" rowsep="1" align="center" id="t3854h11" headers="t3854h4 t3854h8">Haut</entry>
+              <entry colsep="0" rowsep="1" align="center" id="t3854h12" headers="t3854h5 t3854h8">Bas</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry rowheader="yes" colsep="0" rowsep="0" id="t3854h13" headers="t3854h0 t3854h6">A
+                <LeaderRightJustified leader="dot"/>
+              </entry>
+              <entry colsep="0" rowsep="0" headers="t3854h0 t3854h6 t3854h13 t3854h1 t3854h7">80</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3854h0 t3854h6 t3854h13 t3854h2 t3854h8 t3854h9">18</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3854h0 t3854h6 t3854h13 t3854h3 t3854h8 t3854h10">56</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3854h0 t3854h6 t3854h13 t3854h4 t3854h8 t3854h11">10</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3854h0 t3854h6 t3854h13 t3854h5 t3854h8 t3854h12">5</entry>
+            </row>
+            <row>
+              <entry rowheader="yes" colsep="0" rowsep="0" id="t3854h19" headers="t3854h0 t3854h6">B
+                <LeaderRightJustified leader="dot"/>
+              </entry>
+              <entry colsep="0" rowsep="0" headers="t3854h0 t3854h6 t3854h19 t3854h1 t3854h7">94</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3854h0 t3854h6 t3854h19 t3854h2 t3854h8 t3854h9">14</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3854h0 t3854h6 t3854h19 t3854h3 t3854h8 t3854h10">53</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3854h0 t3854h6 t3854h19 t3854h4 t3854h8 t3854h11">5</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3854h0 t3854h6 t3854h19 t3854h5 t3854h8 t3854h12">3</entry>
+            </row>
+            <row>
+              <entry rowheader="yes" colsep="0" rowsep="0" id="t3854h25" headers="t3854h0 t3854h6">C
+                <LeaderRightJustified leader="dot"/>
+              </entry>
+              <entry colsep="0" rowsep="0" headers="t3854h0 t3854h6 t3854h25 t3854h1 t3854h7">99</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3854h0 t3854h6 t3854h25 t3854h2 t3854h8 t3854h9">10</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3854h0 t3854h6 t3854h25 t3854h3 t3854h8 t3854h10">15</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3854h0 t3854h6 t3854h25 t3854h4 t3854h8 t3854h11">5</entry>
+              <entry colsep="0" rowsep="0" align="center" headers="t3854h0 t3854h6 t3854h25 t3854h5 t3854h8 t3854h12">1</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </TableGroup>
+  </Subsection>
+  <HistoricalNote>
+    <ul>
+      <li>DORS/94-670, art. 2(F);</li>
+      <li>DORS/97-264, art. 2;</li>
+      <li>DORS/2002-55, art. 21;</li>
+      <li>DORS/2003-272, art. 9;</li>
+      <li>DORS/2006-94, art. 4(A);</li>
+      <li>DORS/2008-104, art. 10.</li>
+    </ul>
+  </HistoricalNote>
+</Section></Standard>

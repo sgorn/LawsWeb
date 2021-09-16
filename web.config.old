@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <system.webServer>
+        <directoryBrowse enabled="false" />
+        <staticContent>
+            <remove fileExtension=".woff" />
+            <mimeMap fileExtension=".inc" mimeType="text/plain" />
+            <mimeMap fileExtension=".woff" mimeType="application/x-woff" />
+        </staticContent>
+        <httpErrors>
+            <remove statusCode="404" subStatusCode="-1" />
+            <error statusCode="404" prefixLanguageFilePath="" path="/404-en-fr.html" responseMode="ExecuteURL" />
+        </httpErrors>
+        <handlers>
+            <add name="SVC file" path="*.svc" verb="*" modules="IsapiModule" scriptProcessor="C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_isapi.dll" resourceType="File" preCondition="classicMode,runtimeVersionv4.0,bitness32" />
+        </handlers>
+    </system.webServer>
+    <system.web>
+        <identity impersonate="true" />
+        <machineKey decryptionKey="7F6E3369E247733A404E615CA1D66721A84AAC580AABABDD" validationKey="A966AD7AFF958DA3ED2A12D580EBECC8697F487E93A19FEE5973185F7F56F26DD6681BFD012A1541A93E99D85EF7F9CD65F3F9ACC086D10FEFB10A8200051792" />
+    </system.web>
+</configuration>

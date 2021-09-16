@@ -1,0 +1,6 @@
+<div class='docContents'>
+<h2>Hyperliens vers les sites Web des cours provinciales et territoriales</h2>
+<h3>Règles des cours provinciales et territoriales établies en vertu des articles 482, 482.1 et 745.64 du <cite class="XRefExternalAct">Code criminel</cite></h3>
+<p>Ces règles de cour sont à jour au 18 septembre 2019. À compter du 19 septembre 2019, le ministère de la Justice Canada ne publie plus sur le Site web de la législation (Justice) les règles établies, par les tribunaux provinciaux et territoriaux, conformément aux articles 482 et 482.1 du <cite class="XRefExternalAct">Code criminel</cite>. De plus, la  <cite class="XRefExternalAct">Loi sur les textes réglementaires</cite> ne s’applique plus aux règles qui sont établies pour l’application des articles 745.6 à 745.63 du <cite class="XRefExternalAct">Code criminel</cite>. Pour plus d’information, veuillez consulter les <a href="/fra/Court/">hyperliens vers les sites web d’information juridique</a>.<p/>
+<p>Si vous désirez consulter les versions antérieures de ces règles publiées sur le Site web de la législation (Justice), veuillez cliquer sur l’hyperlien suivant : <a href='PITIndex.html'>versions antérieures</a>.</p>
+</div>
