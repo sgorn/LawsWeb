@@ -6,18 +6,7 @@ on:
       - main
   workflow_dispatch:
 
-#Job creates a runner
 jobs:
-  build:
-    runs-on: windows-latest
-    
-  LawsWeb-Deploy-Job:
-    name: Running job to deploy to Azure resource
-    runs-on: windows-latest
-    
-    steps:
-      - uses: actions/checkout@v2
-
   deploy:
     runs-on: windows-latest
     environment:
