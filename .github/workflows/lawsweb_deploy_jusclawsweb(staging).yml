@@ -14,14 +14,6 @@ jobs:
   LawsWeb-Deploy-Job:
     name: Running job to deploy to Azure resource
     runs-on: windows-latest
-    
-    #Git hub actions
-    steps:
-      - name: Upload artifact for deployment job
-        uses: actions/upload-artifact@v2
-        with:
-          name: ASP-app
-          path: '/published/**'
 
   deploy:
     runs-on: windows-latest
