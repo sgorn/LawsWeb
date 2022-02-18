@@ -1,7 +1,7 @@
 # Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
 # More GitHub Actions for Azure: https://github.com/Azure/actions
 
-name: Build and deploy ASP app to Azure Web App - jusclawsweb
+name: Deploy LawsWeb to Azure Web App - jusclawsweb
 
 on:
   push:
@@ -9,16 +9,14 @@ on:
       - main
   workflow_dispatch:
 
+#Job creates a runner
 jobs:
-  build:
+  LawsWeb-Deploy-Job:
+    name: Running job to deploy to Azure resource
     runs-on: windows-latest
-
+    
+    #Git hub actions
     steps:
-      - uses: actions/checkout@v2
-
-      - name: Publish to folder
-        run: msbuild /nologo /verbosity:m /t:Build /t:pipelinePreDeployCopyAllFilesToOneFolder /p:_PackageTempDir="\published\"
-
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v2
         with:
@@ -27,7 +25,6 @@ jobs:
 
   deploy:
     runs-on: windows-latest
-    needs: build
     environment:
       name: 'staging'
       url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
