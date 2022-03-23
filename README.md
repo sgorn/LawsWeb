@@ -1,2 +1,2 @@
-# LawsWeb-GIT
+# LawsWeb
 Justice laws site repository.
