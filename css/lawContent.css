@@ -346,6 +346,9 @@ margin:0;
 font-weight:normal;
 }
 
+figcaption p.Topic { font-size:18pt; margin:0; font-weight:bold; } /* listcaption to support old html markup that was fixed in April 2021 but site was not regenerated*/
+figcaption p.Part {margin:0; margin-top:2em; margin-bottom:0.5em; font-size:12pt; font-weight:bold;}
+
 div.continued { border-bottom:1px solid black; }
 
 span.HTitleText1 { font-size:20pt; display:block; margin:0; font-weight:bold; }
