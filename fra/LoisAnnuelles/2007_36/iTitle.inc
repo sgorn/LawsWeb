@@ -1,0 +1,1 @@
+Loi modifiant la Loi sur la faillite et l’insolvabilité, la Loi sur les arrangements avec les créanciers des compagnies, la Loi sur le Programme de protection des salariés et le chapitre 47 des Lois du Canada (2005)

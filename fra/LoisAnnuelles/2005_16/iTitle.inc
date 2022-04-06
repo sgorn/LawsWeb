@@ -1,0 +1,1 @@
+Loi modifiant la Loi sur le Parlement du Canada, la Loi sur les traitements et d’autres lois en conséquence

@@ -1,0 +1,11 @@
+<nav role="navigation">
+<ul class="TocIndent">
+<li><a title="Page 1" href="#">
+Loi modifiant la Loi sur les aliments et drogues (lentilles cornéennes qui ne corrigent pas la vue)</a><ul class="TocIndent"><li><span class='sectionRange'>1 - </span><a href="#h-1"><span class="HTitleText1">LOI SUR LES ALIMENTS ET DROGUES</span></a>
+</li>
+<li><span class='sectionRange'>2 - </span><a href="#h-2"><span class="HTitleText1">ENTRÉE EN VIGUEUR</span></a>
+</li></ul>
+</li></ul>
+
+</nav>
+

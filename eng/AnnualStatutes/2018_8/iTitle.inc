@@ -1,0 +1,1 @@
+An Act to amend the Canada Business Corporations Act, the Canada Cooperatives Act, the Canada Not-for-profit Corporations Act and the Competition Act

@@ -1,0 +1,1 @@
+An Act to amend the Employment Insurance Act and the Employment Insurance (Fishing) Regulations

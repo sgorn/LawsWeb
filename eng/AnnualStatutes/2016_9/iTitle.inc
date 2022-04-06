@@ -1,0 +1,1 @@
+An Act to amend the Food and Drugs Act, the Hazardous Products Act, the Radiation Emitting Devices Act, the Canadian Environmental Protection Act, 1999, the Pest Control Products Act and the Canada Consumer Product Safety Act and to make related amendments to another Act

@@ -1,0 +1,21 @@
+<nav>
+<ul class="TocIndent">
+<li><a title="Page 1" href="#">
+An Act to amend the Federal Public Sector Labour Relations Act and other Acts</a><ul class="TocIndent"><li><span class='sectionRange'>1 - </span><a href="#h-1"><span class="HTitleText1"><cite class="XRefExternalAct">Federal Public Sector Labour Relations Act</cite></span></a>
+<ul class="TocIndent"><li>
+<span class='sectionRange'>1 - </span><a href="#h-2"><span class="HTitleText2">Amendments to the Act</span></a>
+</li>
+<li><span class='sectionRange'>27 - </span><a href="#h-3"><span class="HTitleText2">Transitional Provisions</span></a>
+</li></ul>
+</li><li><span class='sectionRange'>28 - </span><a href="#h-4"><span class="HTitleText1">Amendments to the <cite class="XRefExternalAct">Public Sector Equitable Compensation Act</cite></span></a>
+</li>
+<li><span class='sectionRange'>30 - </span><a href="#h-5"><span class="HTitleText1">Amendments to the <cite class="XRefExternalAct">Economic Action Plan 2013 Act, No 2</cite></span></a>
+</li>
+<li><span class='sectionRange'>34 - </span><a href="#h-6"><span class="HTitleText1">Amendments to the <cite class="XRefExternalAct">Economic Action Plan 2014 Act, No. 1</cite></span></a>
+</li>
+<li><span class='sectionRange'>36 - </span><a href="#h-7"><span class="HTitleText1">Amendment to the <cite class="XRefExternalAct">Economic Action Plan 2015 Act, No. 1</cite></span></a>
+</li></ul>
+</li></ul>
+
+</nav>
+

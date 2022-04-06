@@ -1,0 +1,1 @@
+An Act to amend the Canada Labour Code (bereavement leave)

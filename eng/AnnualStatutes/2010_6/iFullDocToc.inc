@@ -1,0 +1,15 @@
+<nav role="navigation">
+<ul class="TocIndent">
+<li><a title="Page 1" href="#">
+First Nations Certainty of Land Title Act</a><ul class="TocIndent"><li><span class='sectionRange'>1 - </span><a href="#h-1"><span class="HTitleText1">SHORT TITLE</span></a>
+</li>
+<li><span class='sectionRange'>2 - </span><a href="#h-2"><span class="HTitleText1"><cite class="XRefExternalAct">FIRST NATIONS COMMERCIAL AND INDUSTRIAL DEVELOPMENT ACT</cite></span></a>
+</li>
+<li><span class='sectionRange'>9 - </span><a href="#h-3"><span class="HTitleText1">CONSEQUENTIAL AMENDMENT TO THE CANADA LANDS SURVEYS ACT</span></a>
+</li>
+<li><span class='sectionRange'>10 - </span><a href="#h-4"><span class="HTitleText1">COMING INTO FORCE</span></a>
+</li></ul>
+</li></ul>
+
+</nav>
+

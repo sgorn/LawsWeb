@@ -1,0 +1,1 @@
+An Act to amend the Parliament of Canada Act (Ethics Commissioner and Senate Ethics Officer) and other Acts in consequence

@@ -1,0 +1,1 @@
+An Act to amend the Employment Insurance Act (additional regular benefits), the Canada Recovery Benefits Act (restriction on eligibility) and another Act in response to COVID-19

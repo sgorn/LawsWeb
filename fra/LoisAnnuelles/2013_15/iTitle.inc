@@ -1,0 +1,1 @@
+Loi empêchant les participants à des émeutes ou des attroupements illégaux de dissimuler leur identité

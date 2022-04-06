@@ -1,0 +1,1 @@
+An Act to amend the Members of Parliament Retiring Allowances Act and the Parliament of Canada Act

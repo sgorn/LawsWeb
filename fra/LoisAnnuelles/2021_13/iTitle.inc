@@ -1,0 +1,1 @@
+Loi modifiant la Loi sur la citoyenneté (appel à l’action numéro 94 de la Commission de vérité et réconciliation du Canada)

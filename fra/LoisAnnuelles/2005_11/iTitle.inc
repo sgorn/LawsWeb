@@ -1,0 +1,1 @@
+Loi modifiant la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces et édictant la Loi concernant l’octroi d’une aide financière à l’égard d’équipements diagnostiques et médicaux

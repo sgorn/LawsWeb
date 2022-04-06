@@ -1,0 +1,1 @@
+Loi sur les mesures de réinsertion et d’indemnisation des militaires et vétérans des Forces canadiennes

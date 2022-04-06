@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="fr" xml:lang="fr">
+<head>
+    <meta charset="utf-8" />
+
+	<!-- Web Experience Toolkit (WET) / Bo�te � outils de l'exp�rience Web (BOEW)
+	Terms and conditions of use: http://tbs-sct.ircan.gc.ca/projects/gcwwwtemplates/wiki/Terms
+	Conditions r�gissant l'utilisation : http://tbs-sct.ircan.gc.ca/projects/gcwwwtemplates/wiki/Conditions
+	-->
+
+	<!-- Title begins / D�but du titre -->
+	<title>Foire aux questions</title>
+	<!-- Title ends / Fin du titre -->
+	
+	<!-- Favicon (optional) begins / D�but du favicon (optionnel) -->
+	 <link rel="shortcut icon" href="/images/favicon.ico" />
+	<!-- Favicon (optional) ends / Find du favicon (optionnel) -->
+	
+	<!-- Meta-data begins / Début des métadonnées -->
+	<meta name="dcterms.description" content="Lois codifiés Règlements codifiés" />
+	<meta name="description" content="Lois codifiés Règlements codifiés" />
+	<meta name="keywords" content="Lois codifiés Règlements codifiés" />
+	<meta name="dcterms.creator" title="Ministère de la Justice" content="Ministère de la Justice" />
+	<meta name="dcterms.title" content="Lois codifiés Règlements codifiés" />
+	<meta name="dcterms.issued" title="W3CDTF" content="2011-01-31" />
+	<meta name="dcterms.modified" title="W3CDTF" content="2012-01-30" />
+	<meta name="dcterms.subject" title="scheme" content="Lois codifiés Règlements codifiés" />
+	<meta name="dcterms.language" title="ISO639-2" content="fra" />
+	<!-- Meta-data ends / Fin des métadonnées -->
+
+	<!-- WET scripts/CSS begin / D�but des scripts/CSS de la BOEW --><!--[if IE 6]><![endif]-->
+	<link href="/css/base.css" rel="stylesheet" type="text/css" />
+	<!--[if IE 8]><link href="/css/base-ie8.css" rel="stylesheet" type="text/css" /><![endif]-->
+	<!--[if IE 7]><link href="/css/base-ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
+	<!--[if lte IE 6]><link href="/css/base-ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+
+	<link href="/css/main.css" rel="stylesheet" type="text/css" />
+ <link href="/css/sm-pe-base.css" rel="stylesheet" type="text/css" />
+	<link href="/css/sm-pe-theme-clf2-nsi2.css" rel="stylesheet" type="text/css" />
+<!-- clf2-nsi2 theme begins / D�but du th�me clf2-nsi2 -->
+	<link href="/css/theme-clf2-nsi2.css" rel="stylesheet" type="text/css" />
+	<!--[if IE 7]><link href="/css/theme-clf2-nsi2-ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
+	<!--[if lte IE 6]><link href="/css/theme-clf2-nsi2-ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+<!-- clf2-nsi2 theme ends / Fin du th�me clf2-nsi2 -->
+	<!-- WET scripts/CSS end / Fin des scripts/CSS de la BOEW -->
+
+	<!-- Progressive enhancement begins / D�but de l'am�lioration progressive -->
+	<script src="/js/lib/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/pe-ap.js" type="text/javascript" id="progressive"></script>
+	<script type="text/javascript">
+	    /* <![CDATA[ */
+	var params = {
+		searchTermHighlighting: { minLength: "2", lookWithin: ".searchable", defaultTerms: "" } 
+	};
+	PE.progress(params);
+	/* ]]> */
+	</script>
+	<!-- Progressive enhancement ends / Fin de l'am�lioration progressive -->
+	<!-- Custom scripts/CSS begin / D�but des scripts/CSS personnalis�s -->
+	<link rel="stylesheet" type="text/css" href="/css/institution.css" />
+    <link rel="stylesheet" type="text/css" href="/css/browse.css" />
+    <link rel="stylesheet" type="text/css" href="/css/commonView.css" />
+    <link rel="stylesheet" type="text/css" href="/css/lawContent.css" />
+	<link rel="stylesheet" type="text/css" href="/css/privlaw.css" />
+    <!-- Custom scripts/CSS end / Fin des scripts/CSS personnalis�s -->
+
+<!-- WET print CSS begins / D�but du CSS de la BOEW pour l'impression -->
+	<link href="/css/pf-if.css" rel="stylesheet" media="print" type="text/css" />
+<!-- clf2-nsi2 theme begins / D�but du th�me clf2-nsi2 -->
+	<link href="/css/pf-if-theme-clf2-nsi2.css" rel="stylesheet" media="print" type="text/css" />
+<!-- clf2-nsi2 theme ends / Fin du th�me clf2-nsi2 -->
+	<!-- WET print CSS ends / Fin du CSS de la BOEW pour l'impression -->
+</head>
+<body>
+<!-- Two column layout begins / D�but de la mise en page de deux colonnes -->
+<div id="cn-body-inner-2col">
+<!--#include virtual="/includes/cn-banner-f.inc" -->
+<!-- Breadcrumb begins / D�but du fil d'Ariane -->
+			<div id="cn-bcrumb">
+				<h2>fil d'Ariane</h2>
+				<ol>
+					<li><a class="breadcrumbs" href="/fra/">Page principale</a>&#x00A0;&gt;&#x00A0;</li>
+					<li>FAQ</li>
+				</ol>
+			</div>
+			<!-- Breadcrumb ends / Fin du fil d'Ariane -->	
+		</nav>
+<!-- clf2-nsi2 theme ends / Fin du th�me clf2-nsi2 -->
+	</header>
+	</div>
+	</div>
+	<!-- Header ends / Fin de l'en-t�te -->	
+
+<div id="cn-cols"><!-- Main content begins / Début du contenu principal -->
+	<div id="cn-centre-col-gap"></div>
+	<div id="cn-centre-col" role="main">
+		<div id="cn-centre-col-inner">
+
+			
+<!-- CONTENT TITLE BEGINS | DEBUT DU TITRE DU CONTENU -->
+<h1 id="cn-cont">Foire aux questions</h1>
+
+	<!-- CONTENT TITLE ENDS | FIN DU TITRE DU CONTENU -->
+
+		<div class="lineSeparator">
+		</div>
+<div id="search-term-highlighting-form"></div> 
+<div class="searchable">
+
+
+<div role="navigation">
+<nav>
+	<h2><a id="FAQGeneral" class="anchor">G&eacute;n&eacute;ral</a></h2>
+
+
+
+	<ul>
+
+		<li><a id="l_g1" href="#g1">Qu&rsquo;entend-on par lois et r&egrave;glements codifi&eacute;s?</a></li>
+
+        <li><a id="l_g9" href="#g9">Les lois et r&egrave;glements ont-ils un caract&egrave;re officiel?</a></li>
+
+		<li><a id="l_g5_5" href="#g5_5">&Agrave; quelle fr&eacute;quence le site des lois et r&egrave;glements est-il mis &agrave; jour?</a></li>
+
+		<li><a id="l_g6" href="#g6">Quel est le niveau de mise &agrave; jour des lois et r&egrave;glements?</a></li>
+
+		<li><a id="l_g6-1" href="#g6-1">Qu’entend-on par date de la derni&egrave;re modification?</a></li>
+
+		<li><a id="l_g6-2" href="#g6-2">Sous quel format les dates sont-elles présentées dans le Site Web de la législation (Justice)?</a></li>
+		
+		<li><a id="l_g10" href="#g10">Pourquoi certaines dispositions sont-elles ombr&eacute;es?</a></li>
+
+		<li><a id="l_g2" href="#g2">Que sont les r&eacute;f&eacute;rences qui se trouvent &agrave; la fin de certains articles et annexes?</a></li>
+
+		<li><a id="l_g2_01" href="#g2_01">Quelle est l&rsquo;utilit&eacute; des crochets dans un texte l&eacute;gislatif?</a></li>
+
+		<li><a id="l_g2_1" href="#g2_1">Qu&rsquo;entend-on par &laquo; modifications non en vigueur &raquo;?</a></li>
+
+		<li><a id="l_g4" href="#g4">Comment puis-je consulter les versions antérieures des lois et règlements codifiés?</a></li>
+
+		<li><a id="l_g5" href="#g5">Jusqu&rsquo;&agrave;&nbsp;quelle date peut-on remonter en effectuant une recherche dans les versions ant&eacute;rieures des lois et des r&egrave;glements?</a></li>
+
+		<li><a id="l_g7" href="#g7">Que sont les lois annuelles?</a></li>
+
+		<li><a id="l_g8" href="#g8">O&ugrave; puis-je trouver les lois annuelles datant d&rsquo;avant 2001?</a></li>
+
+		<li><a id="l_g11" href="#g11">O&ugrave; puis-je trouver les textes des lois de cr&eacute;dits? </a></li>
+		
+		<li><a id="l_g3" href="#g3">Comment imprimer un document?</a></li>
+
+		<li><a id="l_g3-2" href="#g3-2">Que se passe-t-il sur le champ exposé « En surbrillance sur la page »?</a></li>
+
+		<li><a id="l_g3-1" href="#g3-1">Comment puis-je sauvegarder une loi ou un règlement actuel en version XML?</a></li>
+	</ul>
+	<h2><a id="FAQsearch" class="anchor">Recherche</a></h2>
+	<ul>
+
+		<li><a id="l_s1" href="#s1">Comment effectuer une recherche dans la base de donn&eacute;es?</a></li>
+
+		<li><a id="l_s3" href="#s3">Comment effectuer une recherche dans une loi, un r&egrave;glement ou une loi annuelle en particulier?</a></li>
+
+		<li><a id="l_s3-1" href="#s3-1">Comment puis-je rechercher les versions antérieures des lois et règlements codifiés?</a></li>
+		
+		<li><a id="l_s2" href="#s2">Quelle est la diff&eacute;rence entre &laquo;&nbsp;r&eacute;sultats seulement&nbsp;&raquo; et &laquo;&nbsp;r&eacute;sultats en contexte&nbsp;&raquo;?</a></li>
+
+	</ul>
+	<h2><a id="FAQNav" class="anchor">Navigation</a></h2>
+	<ul>
+
+		<li><a id="l_n01" href="#n01">Qu’est-ce que l’onglet Table des mati&egrave;res?</a></li>
+		
+		<li><a id="l_n1" href="#n1">Comment puis-je passer de la version anglaise &agrave; la version fran&ccedil;aise d&rsquo;un document?</a></li>
+
+		<li><a id="l_n2" href="#n2">Puis-je voir une version bilingue d&rsquo;une loi codifi&eacute;e ou d&rsquo;un r&egrave;glement codifi&eacute; c&ocirc;te-&agrave;-c&ocirc;te?</a></li>
+		
+		<li><a id="l_n02" href="#n02">Comment puis-je voir une liste des dispositions et naviguer facilement vers elles dans les documents <abbr title="Format de document portable">PDF</abbr> de la l&eacute;gislation codifi&eacute;e?</a></li>
+
+		<li><a id="l_n3" href="#n3">Comment puis-je trouver un r&egrave;glement pris en vertu d&rsquo;une loi sp&eacute;cifique?</a></li>
+
+
+		<li><a id="l_n5" href="#n5">Où se trouvent maintenant les &laquo; Autres documents &raquo; qui étaient précédemment disponibles dans le menu de gauche?</a></li>
+
+		<li><a id="l_n6" href="#n6">Comment cr&eacute;er des liens stables avec une loi ou un r&egrave;glement sur mon site Web?</a></li>
+
+		<li><a id="l_n7" href="#n6">Qu’entend-on par « Fil d’Ariane » et quelle est son utilisation?</a></li>
+
+	</ul>
+</nav>
+</div>
+
+		<div class="lineSeparator">
+
+	</div>
+<section>
+	<h2><a id="FAQGeneralSection" class="anchor">G&eacute;n&eacute;ral</a></h2>
+
+	<ul>
+
+		<li>
+
+			<h3 id="g1" class="FaqTitle">Qu&rsquo;entend-on par lois et r&egrave;glements codifi&eacute;s?</h3>
+
+			<p>Lorsque le gouvernement f&eacute;d&eacute;ral veut apporter des changements aux textes l&eacute;gislatifs canadiens, il cr&eacute;e des lois et des r&egrave;glements modificatifs. Ceux-ci ont pour but de modifier les documents l&eacute;gislatifs existants. Si par exemple le gouvernement d&eacute;sire ajouter une nouvelle infraction au <i>Code criminel</i>, il ne r&eacute;crira pas le document en entier ou ne cr&eacute;era pas un nouveau Code s&eacute;par&eacute;, mais il optera plut&ocirc;t pour une loi modificative qui aura pour but d&rsquo;ajouter de nouveaux articles ou de modifier les articles existants du <i>Code criminel</i>. Une loi ou un r&egrave;glement codifi&eacute; comprend toutes les modifications (suppressions, remplacements et ajouts) qui leur ont &eacute;t&eacute; apport&eacute;es depuis leur premi&egrave;re publication.</p>
+
+			<p>Le Site Web de la législation (Justice) fournit une codification des lois et r&egrave;glements f&eacute;d&eacute;raux comme une fa&ccedil;on pratique pour le public de visionner l&rsquo;&eacute;tat d&rsquo;un document l&eacute;gislatif sans avoir &agrave; effectuer les recherches et assembler les dispositions modificatives.</p>
+
+        </li>
+
+
+
+	      <li><h3 id="g9" class="FaqTitle">Les lois et r&egrave;glements ont-ils un caract&egrave;re officiel?</h3>
+
+	        <p>Oui. &Agrave; partir du 1<sup>er</sup> juin 2009, les codifications des lois et des r&egrave;glements sur le Site Web de la législation (Justice) sont officielles et font ainsi preuve de leur contenu. Le caract&egrave;re officiel des codifications des lois et des r&egrave;glements r&eacute;sulte de l&rsquo;entr&eacute;e en vigueur, le 1<sup>er</sup> juin 2009, de modifications &agrave; la <i>Loi sur la r&eacute;vision des lois</i>, dont le titre est devenu <i>Loi sur la r&eacute;vision et la codification des textes l&eacute;gislatifs</i>.  Plus d&rsquo;informations sont disponibles au lien suivant : <a href="http://laws.justice.gc.ca/fr/note">Note importante</a>.</p>
+
+	      </li>
+
+
+
+              <li><h3 id="g5_5" class="FaqTitle"> &Agrave; quelle fr&eacute;quence le site des lois et r&egrave;glements est-il mis &agrave; jour?</h3>
+
+                <p>
+
+
+
+Le site des lois et r&egrave;glements est g&eacute;n&eacute;ralement mis &agrave; jour une fois par semaine.</p>
+
+
+
+              </li>
+
+
+
+	      <li><h3 id="g6" class="FaqTitle">Quel est le niveau de mise à jour des lois et règlements?</h3>
+
+                <p>
+
+Chaque loi et r&egrave;glement dans la base de donn&eacute;es ont leur propre date de codification. Celle-ci est indiqu&eacute;e &agrave; l&rsquo;ent&ecirc;te de chaque document. En g&eacute;n&eacute;ral, la majorit&eacute; des lois sont &agrave; jour &agrave; la m&ecirc;me date ainsi que les r&egrave;glements, mais le syst&egrave;me de mise &agrave; jour permet aux documents d&rsquo;&ecirc;tre &agrave; jour &agrave; diff&eacute;rentes dates.</p>
+
+              </li>
+
+
+
+	      <li><h3 id="g6-1" class="FaqTitle">Qu’entend-on par date de la dernière modification?</h3>
+
+                <p>
+
+La date de la dernière modification, affichée à l’entête des lois et règlements et à la page couverture du <abbr title="Format de document portable">PDF</abbr>, s’il y a lieu, indique la date à laquelle la loi ou le règlement a été modifié la dernière fois. Cette date diffère de celle indiquée sous « à jour » et ne change que lorsque la modification s’applique.</p>
+
+              </li>
+
+
+	      <li><h3 id="g6-2" class="FaqTitle">Sous quel format les dates sont-elles présentées dans le Site Web de la législation (Justice)?</h3>
+
+                <p>
+Les dates sont présentées sous le format « année-mois-jour ». </p>
+
+              </li>
+
+	      <li><h3 id="g10" class="FaqTitle">Pourquoi certaines dispositions sont-elles ombr&eacute;es?</h3>
+
+<p>
+Une nouvelle caractéristique a été ajoutée aux codifications des lois et des règlements dans le Site Web de la législation (Justice) : les <em><span class="underLine">dispositions originales des lois et des règlements qui ne sont toujours pas en vigueur</span></em> figureront en ombré. À l’entrée en vigueur de ces dispositions, l’ombré sera enlevé. Cette présentation permettra de facilement reconnaître les dispositions originales qui sont en vigueur et celles qui ne le sont pas.
+</p>
+
+<p>
+
+Cette caract&eacute;ristique ne s&rsquo;applique toutefois qu&rsquo;&agrave; compter du 25 novembre 2009, elle est donc inop&eacute;rante quant aux recherches relatives aux versions ant&eacute;rieures &agrave; cette date.
+
+</p>
+
+              </li>
+
+	      <li><h3 id="g2" class="FaqTitle">Que sont les r&eacute;f&eacute;rences qui se trouvent &agrave; la fin de certains articles et annexes?</h3>
+
+
+
+            <p>Ce sont des r&eacute;f&eacute;rences aux lois et r&egrave;glements modificatifs qui permettent au lecteur de retracer l&rsquo;&eacute;volution de la disposition.
+
+	    </p>
+
+	    </li>
+
+            </ul>
+
+            <ul>
+
+		    <li><h3 id="g2_01" class="FaqTitle">Quelle est l&rsquo;utilit&eacute; des crochets dans un texte l&eacute;gislatif?</h3>
+
+
+
+                <p>
+
+Dans la majorit&eacute; des cas, ils servent &agrave; indiquer des passages qui ne font pas partie du texte. Par exemple, les dates d&rsquo;entr&eacute;e en vigueur.</p>
+
+
+
+              </li>
+
+
+
+              <li><h3 id="g2_1" class="FaqTitle">Qu&rsquo;entend-on par &laquo; modifications non en vigueur &raquo;?</h3>
+
+
+
+                <p>
+
+Ce sont des modifications qui, bien que faisant partie d&rsquo;une loi qui a re&ccedil;u la sanction royale ou d&rsquo;un r&egrave;glement modificatif, ne sont pas en vigueur. Elles ne sont donc pas encore codifi&eacute;es. On peut les consulter en cliquant sur le lien &laquo; Modifications non en vigueur &raquo; qui se trouve, le cas &eacute;ch&eacute;ant, dans la table des mati&egrave;res.</p>
+
+<p>
+On peut aussi accéder au lien « Modifications non en vigueur » lorsqu’on parcourt le texte d’une loi ou d’un règlement dans <a href="/fra/AideGenerale/index.html#viewDoc">Affichage du document</a>.</p>
+              </li>
+
+
+
+	      <li><h3 id="g4" class="FaqTitle">Comment puis-je consulter les versions antérieures des lois et règlements codifiés?</h3>
+
+
+
+	      <p>
+	      Le lien <strong>Versions antérieures</strong>, présenté à l’entête des lois et règlements codifiés, conduit à la liste des textes complets disponibles des versions antérieures, lorsqu’elles existent. Vous pouvez cliquer sur le lien des dates à choisir pour voir la législation en vigueur à ces dates.  
+</p>
+<p>
+	      Pour voir les versions antérieures d’articles et d’annexes modifiés individuellement, cliquez sur le lien <strong>Version précédente</strong> situé à la suite de l’article ou de l’annexe dans la version codifiée courante. Une nouvelle page s’ouvrira avec le contenu de la version précédente; vous aurez aussi l’option de vous promener entre les différentes versions en utilisant les liens <strong>Version précédente</strong> et <strong>Version suivante</strong>. La date d’entrée en vigueur de cet article ou annexe apparaît en haut de la page.
+	      </p>
+
+
+
+              </li>
+
+
+
+              <li><h3 id="g5" class="FaqTitle">Jusqu&rsquo;&agrave; quelle date peut-on remonter en effectuant une recherche dans les versions ant&eacute;rieures des lois et des r&egrave;glements?</h3>
+
+
+
+               <p>On peut remonter jusqu&rsquo;au 1er janvier 2003 pour les lois et jusqu&rsquo;au 22 mars 2006 pour les r&egrave;glements.</p>
+
+
+
+               <p>En ce qui concerne la Loi de l&rsquo;imp&ocirc;t sur le revenu et le R&egrave;glement de l&rsquo;imp&ocirc;t sur le revenu, on peut remonter jusqu&rsquo;au 31 ao&ucirc;t 2004.</p>
+
+              </li>
+
+
+
+              <li><h3 id="g7" class="FaqTitle">Que sont les lois annuelles?</h3>
+
+                <p>
+
+On entend par lois annuelles celles qui sont publi&eacute;es, telles qu&rsquo;elles ont &eacute;t&eacute; adopt&eacute;es par le Parlement, dans le recueil annuel des lois du Canada. Elles sont inclues sur le pr&eacute;sent site en forme unilingue. Les versions officielles et bilingues sont disponibles au lien suivant : <a href="http://www.gazette.gc.ca/rp-pr/p3/index-fra.html">Gazette du Canada&nbsp;Partie&nbsp;III</a>.
+
+</p>
+
+              </li>
+
+
+
+              <li><h3 id="g8" class="FaqTitle">O&ugrave; puis-je trouver les lois annuelles datant d&rsquo;avant 2001?</h3>
+
+                <p>
+
+Les lois annuelles datant d&rsquo;avant 2001 ne font pas partie du Site Web de la législation (Justice). Les lois datant de 1998 jusqu&rsquo;&agrave; pr&eacute;sent sont disponibles au lien suivant :&nbsp; <a href="http://www.gazette.gc.ca/rp-pr/p3/index-fra.html">Gazette du Canada&nbsp;Partie&nbsp;III</a>.</p>
+
+              </li>
+
+
+	      <li><h3 id="g11" class="FaqTitle">O&ugrave; puis-je trouver les textes des lois de cr&eacute;dits? </a>
+                <p>
+Les lois de cr&eacute;dits ne sont pas incluses dans la base de donn&eacute;es de codification de la l&eacute;gislation f&eacute;d&eacute;rale. Les textes des lois de cr&eacute;dits de 1999-2000 &agrave; ce jour sont disponibles sur le site Web du Secr&eacute;tariat du Conseil du Tr&eacute;sor du Canada &agrave; l&rsquo;adresse suivante :
+</p>
+<p><a href="http://www.tbs-sct.gc.ca/est-pre/index-fra.asp">http://www.tbs-sct.gc.ca/est-pre/index-fra.asp</a></p>
+</li>
+
+	      <li><h3 id="g3" class="FaqTitle">Comment imprimer un document?</h3>
+
+                <p>
+		Pour imprimer un document en version <strong><abbr title="Format de document portable">PDF</abbr></strong>, cliquez sur le lien <abbr title="Format de document portable">PDF</abbr> fourni à cet effet.</p>
+<p>
+On peut imprimer n’importe quelle page du Site Web de la législation (Justice) en utilisant l’option d’impression disponible sur le navigateur internet utilisé. Le site Web supprime automatiquement les menus et les parties spécifiques au site Web dans le but d’imprimer une copie papier en format HTML. Pour des directives d’impression plus détaillées, veuillez vous référer à la page <a href="/fra/Printing">Impression</a>.
+</p>
+
+</li>
+
+<li><h3 id="g3-2" class="FaqTitle">Que se passe-t-il sur le champ exposé « En surbrillance sur la page »?</h3>
+
+                <p>
+		Le champ « <strong>En surbrillance sur la page</strong> », lorsqu’il existe, peut être utilisé pour mettre en surbrillance l’occurrence recherchée et indique également le nombre d’occurrences.</p>
+
+</li>
+
+	      <li><h3 id="g3-1" class="FaqTitle">Comment puis-je sauvegarder une loi ou un règlement actuel en version XML?</h3>
+
+                <p>
+		Un lien XML (Langage extensible de balisage) d’une loi ou d’un règlement codifié est disponible en haut de page à la table des matières des lois et règlements. Cliquez sur le bouton de droite de la souris sur le lien XML et choisissez <strong>Enregistrer la cible sous</strong> pour sauvegarder le dossier dans votre ordinateur.
+Cliquer le lien XML ouvrira le dossier XML à la page internet.
+	</p>
+
+</li>
+
+            </ul>
+
+
+
+	<h2><a id="FAQsearchSection" class="anchor">Recherche</a></h2>
+
+
+
+            <ul>
+
+              <li><h3 id="s1" class="FaqTitle">Comment effectuer une recherche dans la base de donn&eacute;es?</h3>
+
+                <p>
+		Une recherche peut être effectuée en utilisant les pages <strong>Recherche de base</strong> ou <strong>Recherche avancée</strong> retrouvées sur le menu de gauche. Le moteur de recherche offre une variété de techniques de recherches expliquées dans les pages <a href="/fra/AideRecherche/">Aide à la recherche</a>.</p>
+
+              </li>
+
+
+
+              <li><h3 id="s3" class="FaqTitle">Comment effectuer une recherche dans une loi, un r&egrave;glement ou une loi annuelle en particulier?</h3>
+
+<p>
+		À l’entête de la page Table des matières de chaque loi, règlement ou loi annuelle, on trouvera l’option d’effectuer une recherche dans le document choisi. 
+		
+</p>
+
+                <p>
+		On pourra aussi, dans les pages Recherche de base ou Recherche avancée, utiliser les champs de filtration <strong>Titre</strong> ou <strong>Chapitre / Numéro d’enregistrement</strong> pour préciser la recherche à propos d’une loi ou d’un règlement en particulier. Voir <a href="/fra/AideRecherche">Aide à la recherche</a> pour plus de détails. 
+		
+</p>
+
+              </li>
+
+	      <li><h3 id="s3-1" class="FaqTitle">Comment puis-je rechercher les versions antérieures des lois et règlements codifiés?</h3>
+
+
+
+	      <p>
+	      On peut effectuer une recherche des versions antérieures en utilisant la page « Recherche avancée ». Vous devez indiquer la date choisie dans le champ <strong>Sélectionner la date de la version antérieure</strong>. En utilisant ce dernier champ et les autres champs de recherche vous obtiendrez les versions précédentes de la législation codifiée. Voir <a href="/fra/AideRecherche">Aide à la recherche</a> pour plus de détails.   
+		
+</p>
+
+              </li>
+
+
+              <li><h3 id="s2" class="FaqTitle">Quelle est la diff&eacute;rence entre &laquo; r&eacute;sultats seulement &raquo; et &laquo; r&eacute;sultats en contexte &raquo;?</h3>
+
+
+
+                <p>
+
+		L’option <strong>résultats seulement</strong> permet de trouver les titres, les numéros de chapitre et d’enregistrement ainsi que les numéros d’articles ou d’annexes des documents qui présentent les occurrences recherchées.</p>
+
+                <p>
+		L’option <strong>résultats en contexte</strong> permet de trouver les titres, les numéros de chapitre et d’enregistrement ainsi que les numéros d’articles ou d’annexes et les &eacute;l&eacute;ments de textes qui présentent les occurrences recherchées dont les termes sont soulignés en surbrillance. Les éléments de textes qui ne contiennent pas les occurrences demandées sont présentés sous le signe […].</p>
+
+              </li>
+
+            </ul>
+
+
+
+	<h2><a id="FAQNavSection" class="anchor">Navigation</a></h2>
+
+
+
+            <ul>
+
+              <li><h3 id="n01" class="FaqTitle">Qu’est-ce que l’onglet Table des mati&egrave;res?</h3>
+
+                <p>
+		L’onglet Table des mati&egrave;res, situé sur le côté droit des pages du document, est un menu coulissant qui offre deux méthodes de navigation en sélectionnant l’onglet approprié. 
+                </p>
+				
+				<p>
+		L’onglet <strong>Titres</strong> affiche la table des matières du document qui comprend une liste des titres, leur numéro d’article ainsi qu’un lien qui conduit à leur emplacement exact dans <a href="/fra/AideGenerale/index.html#viewDoc">Affichage du document</a>.
+                </p>
+				
+				<p>
+		L’onglet <strong>Articles/Annexes</strong> affiche un menu déroulant qui répertorie les articles et les annexes et qui permet de naviguer facilement à travers toutes les pages du document. 
+                </p>
+
+              </li>
+			  
+			  <li><h3 id="n1" class="FaqTitle">Comment puis-je passer de la version anglaise &agrave; la version fran&ccedil;aise d&rsquo;un document?</h3>
+
+                <p>
+		Dans la barre de menu commune de chaque page du site Web, vous trouverez le lien <strong>English</strong> ou <strong>Français</strong>. Ces liens vous donneront les pages correspondant à la langue choisie. 
+                </p>
+
+              </li>
+
+
+
+	      <li><h3 id="n2" class="FaqTitle">Puis-je voir une version bilingue d&rsquo;une loi codifi&eacute;e ou d&rsquo;un r&egrave;glement codifi&eacute; c&ocirc;te-&agrave;-c&ocirc;te?</h3>
+
+                <p>
+
+Oui. Une version <abbr title="Format de document portable">PDF</abbr> bilingue c&ocirc;te-&agrave;-c&ocirc;te des codifications de toutes les lois et r&egrave;glements est maintenant disponible sur le site Web. On peut avoir acc&egrave;s aux versions <abbr title="Format de document portable">PDF</abbr> au d&eacute;but de chaque page d&rsquo;une loi ou d&rsquo;un r&egrave;glement. Simplement cliquez sur le lien <abbr title="Format de document portable">PDF</abbr> fourni &agrave; cet effet.
+
+                </p>
+
+              </li>
+
+<li><h3 id="n02" class="FaqTitle">Comment puis-je voir une liste des dispositions et naviguer facilement vers elles dans les documents <abbr title="Format de document portable">PDF</abbr> de la l&eacute;gislation codifi&eacute;e?</h3>
+
+                <p>
+Une table des mati&egrave;res, qui &eacute;num&egrave;re toutes les dispositions et les articles auxquels elles se rapportent ainsi que les num&eacute;ros de pages, est pr&eacute;sent&eacute;e au d&eacute;but des documents <abbr title="Format de document portable">PDF</abbr>.  Cliquer sur une disposition vous reliera directement &agrave; son emplacement dans le document.
+            </p>
+<p>
+Des signets, qui &eacute;num&egrave;rent tous les titres et le num&eacute;ro d’article qui suit chaque titre, sont affich&eacute;s sur le côt&eacute; gauche de la fenêtre <abbr title="Format de document portable">PDF</abbr> et permettent une navigation facile par lien vers les dispositions dans le document <abbr title="Format de document portable">PDF</abbr>.
+            </p>
+			
+              </li>
+
+              <li><h3 id="n3" class="FaqTitle">Comment puis-je trouver un r&egrave;glement pris en vertu d&rsquo;une loi sp&eacute;cifique?</h3>
+
+
+<p>
+À la page de la table des matières d’une loi, les règlements pris en vertu de celle-ci, s’il y en a, sont affichés sous <strong>Règlements pris en vertu de cette loi</strong>.</p>
+<p>
+	      De plus, en cliquant sur le lien « R » situé à la droite d’une loi sélectionnée à la page Loi codifiées, on trouvera la liste <strong>Règlements pris en vertu de cette loi</strong>.
+                 </p>
+
+
+              </li>
+
+
+
+
+		<li>
+
+		<h3 id="n5" class="FaqTitle">Où se trouvent maintenant les &laquo; Autres documents &raquo; qui étaient précédemment disponibles dans le menu de gauche?</h3>
+
+		<p>
+		La page <strong>Autres documents</strong>, dans laquelle on retrouvait des documents publiés dans la Gazette du Canada Partie II, a été supprimée. Ces documents, qui comprennent notamment des proclamations et des décrets qui ont été pris en vertu d’une autorité autre que statutaire, se retrouvent maintenant sous <strong>Règlements codifiés</strong>.</p>
+
+		</li>
+
+
+
+        <li><h3 id="n6" class="FaqTitle">Comment créer des liens stables avec une loi ou un règlement sur mon site Web?</h3>
+
+	<p>
+	Voir <a href="/fra/GuideLiens">Comment créer des liens stables</a> pour obtenir tous les renseignements nécessaires à la création de liens avec la table des matières, le texte complet ou un article en particulier d’une loi ou d’un règlement.</p>
+
+		</li>
+
+		<li><h3 id="n7" class="FaqTitle">Qu’entend-on par « Fil d’Ariane » et quelle est son utilisation?</h3>
+
+		<p>
+Le Fil d’Ariane, situé en haut de page sous la bannière principale, est le lien de navigation qui permet de savoir où vous vous trouvez sur le Site Web de la législation (Justice).  Le fil d’Ariane fournit les liens, en ordre hiérarchique, des pages précédentes parcourues afin d’accéder à la page en cours.  
+</p>
+
+		</li>
+
+	</ul>
+</section>
+</div>
+
+
+			
+<!-- clf2-nsi2 theme ends / Fin du thème clf2-nsi2 -->
+			
+		</div>
+	</div>
+<!-- Main content ends / Fin du contenu principal --> 
+<!--#include virtual="/includes/cn-left-f.inc" -->
+</div>
+<!--#include virtual="/includes/cn-footer-f.inc" -->
+</div><!-- Two column layout ends / Fin de la mis en page de deux colonnes --></body></html>

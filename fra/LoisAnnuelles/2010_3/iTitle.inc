@@ -1,0 +1,1 @@
+Loi modifiant le Code criminel (peine minimale pour les infractions de traite de personnes âgées de moins de dix-huit ans)

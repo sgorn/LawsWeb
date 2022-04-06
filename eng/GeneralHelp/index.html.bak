@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en" xml:lang="en">
+<head>
+    <meta charset="utf-8" />
+	<!-- Web Experience Toolkit (WET) / Bo�te � outils de l'exp�rience Web (BOEW)
+	Terms and conditions of use: http://tbs-sct.ircan.gc.ca/projects/gcwwwtemplates/wiki/Terms
+	Conditions r�gissant l'utilisation : http://tbs-sct.ircan.gc.ca/projects/gcwwwtemplates/wiki/Conditions
+	-->
+	<!-- Title begins / D�but du titre -->
+	<title>General Help</title>
+	<!-- Title ends / Fin du titre -->
+	<!-- Favicon (optional) begins / D�but du favicon (optionnel) -->
+	 <link rel="shortcut icon" href="/images/favicon.ico" />
+	<!-- Favicon (optional) ends / Find du favicon (optionnel) -->
+	
+	<!-- Meta-data begins / D�but des m�tadonn�es -->
+	<meta name="dcterms.description" content="Consolidated federal laws of canada" />
+	<meta name="description" content="Consolidated federal laws of canada" />
+	<meta name="keywords" content="Consolidated federal laws of canada" />
+	<meta name="dcterms.creator" title="Department of Justice" content="Legislative Services Branch" />
+	<meta name="dcterms.title" content="Consolidated federal laws of canada" />
+	<meta name="dcterms.issued" title="W3CDTF" content="2011-01-01" />
+	<meta name="dcterms.modified" title="W3CDTF" content="2012-01-30" />
+	<meta name="dcterms.subject" title="scheme" content="Consolidated federal laws of canada" />
+	<meta name="dcterms.language" title="ISO639-2" content="eng" />
+	<!-- Meta-data ends / Fin des m�tadonn�es -->
+
+	<!-- WET scripts/CSS begin / D�but des scripts/CSS de la BOEW --><!--[if IE 6]><![endif]-->
+	<link href="/css/base.css" rel="stylesheet" type="text/css" />
+	<!--[if IE 8]><link href="/css/base-ie8.css" rel="stylesheet" type="text/css" /><![endif]-->
+	<!--[if IE 7]><link href="/css/base-ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
+	<!--[if lte IE 6]><link href="/css/base-ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+
+	<link href="/css/main.css" rel="stylesheet" type="text/css" />
+ <link href="/css/sm-pe-base.css" rel="stylesheet" type="text/css" />
+	<link href="/css/sm-pe-theme-clf2-nsi2.css" rel="stylesheet" type="text/css" />
+<!-- clf2-nsi2 theme begins / D�but du th�me clf2-nsi2 -->
+	<link href="/css/theme-clf2-nsi2.css" rel="stylesheet" type="text/css" />
+	<!--[if IE 7]><link href="/css/theme-clf2-nsi2-ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
+	<!--[if lte IE 6]><link href="/css/theme-clf2-nsi2-ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+<!-- clf2-nsi2 theme ends / Fin du th�me clf2-nsi2 -->
+	<!-- WET scripts/CSS end / Fin des scripts/CSS de la BOEW -->
+
+	<!-- Progressive enhancement begins / D�but de l'am�lioration progressive -->
+	<script src="/js/lib/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/pe-ap.js" type="text/javascript" id="progressive"></script>
+	<script type="text/javascript">
+	    /* <![CDATA[ */
+	var params = {
+		searchTermHighlighting: { minLength: "2", lookWithin: ".searchable", defaultTerms: "" } 
+	};
+	PE.progress(params);
+	/* ]]> */
+	</script>
+	<!-- Progressive enhancement ends / Fin de l'am�lioration progressive -->
+	<!-- Custom scripts/CSS begin / D�but des scripts/CSS personnalis�s -->
+	<link rel="stylesheet" type="text/css" href="/css/institution.css" />
+    <link rel="stylesheet" type="text/css" href="/css/browse.css" />
+    <link rel="stylesheet" type="text/css" href="/css/commonView.css" />
+    <link rel="stylesheet" type="text/css" href="/css/lawContent.css" />
+    <!-- Custom scripts/CSS end / Fin des scripts/CSS personnalis�s -->
+
+<!-- WET print CSS begins / D�but du CSS de la BOEW pour l'impression -->
+	<link href="/css/pf-if.css" rel="stylesheet" media="print" type="text/css" />
+<!-- clf2-nsi2 theme begins / D�but du th�me clf2-nsi2 -->
+	<link href="/css/pf-if-theme-clf2-nsi2.css" rel="stylesheet" media="print" type="text/css" />
+<!-- clf2-nsi2 theme ends / Fin du th�me clf2-nsi2 -->
+	<!-- WET print CSS ends / Fin du CSS de la BOEW pour l'impression -->
+</head>
+<body>
+<!-- Two column layout begins / D�but de la mise en page de deux colonnes -->
+<div id="cn-body-inner-2col">
+
+	<!--#include virtual="includes/cn-banner-e.inc" -->
+	
+<!-- Breadcrumb begins / D�but du fil d'Ariane -->
+			<div id="cn-bcrumb">
+				<h2>Breadcrumb Trail</h2>
+				<ol><li><a class="breadcrumbs" href="/eng/">Main Page</a>&#x00A0;&gt;&#x00A0;</li>
+				<li>General Help</li>
+				</ol>
+			</div>
+			<!-- Breadcrumb ends / Fin du fil d'Ariane -->	
+		</nav>
+<!-- clf2-nsi2 theme ends / Fin du th�me clf2-nsi2 -->
+	</header>
+	</div>
+	</div>
+	<!-- Header ends / Fin de l'en-t�te -->	
+<div id="cn-cols"><!-- Main content begins / Début du contenu principal -->
+<div id="cn-centre-col-gap"></div>
+	<div id="cn-centre-col" role="main">
+		<div id="cn-centre-col-inner">
+			<section>
+<!-- CONTENT TITLE BEGINS | DEBUT DU TITRE DU CONTENU -->
+
+<h1 id="cn-cont">General Help</h1>
+
+<!-- CONTENT TITLE ENDS | FIN DU TITRE DU CONTENU -->
+
+
+		<div class="lineSeparator">
+		</div>
+<div id="search-term-highlighting-form"></div> 
+
+<div class="searchable">
+<div role="navigation">
+<nav>
+<ul>
+<li><a href="#menuNavLeft">Left Navigation Menu</a></li>
+<li><a href="#toc">Table of Contents</a></li>
+<li><a href="#documentView">Document View </a></li>
+</ul>
+</nav>
+</div>
+
+<h2 id="menuNavLeft">Left Navigation Menu</h2>
+
+<p>
+The left navigation menu contains links to the various areas of the Justice Laws Website. The links are organized into the following groups:
+</p>
+
+<ul>
+	<li>Laws – collections of federal Acts, regulations and other legal documents</li>
+
+	<li>Search – see <a id="SearchHelp" href="/eng/SearchHelp">search help</a> page</li>
+
+	<li>Resources – helpful links to research tools and related websites</li>
+
+	<li>Help – information to assist in using the website</li>
+</ul>
+
+
+
+
+<h2 id="toc">Table of Contents</h2>
+
+<p>
+When navigating to an Act or regulation, you will be taken to its Table of Contents page. This page includes the following information and useful features:</p>
+
+<ul>
+
+	<li>current-to and last amended dates</li>
+	<li>a list of headings, and the section number that follows each heading, that link to their exact location in Document View</li>
+	<li>full document access for previous versions </li>
+	<li>links to related information such as "Amendments Not in Force" and "Related Provisions"</li>
+	<li>for Acts, links to the regulations made under the Act</li>
+	<li>for regulations, link to the enabling Act or Acts</li>
+	<li>access to full documents in HTML, XML and PDF formats for the current consolidation</li>
+
+</ul>
+
+
+
+<h2 id="documentView">Document View </h2>
+
+<p>
+This is the main view of the collections where the documents are broken down into pages. Document View has the following information and useful features:
+</p>
+
+<ul>
+
+	<li>at the top and bottom of each page, there is a drop-down menu that allows you to easily navigate through the document and there are also links to the previous and next page</li>
+	<li>current-to date listed in the top information area</li>
+	<li>access to full documents in HTML, XML and PDF formats for the current consolidation</li>
+	<li>inline links to consolidated Acts and regulations that are referenced in the document</li>
+	<li>links to previous versions of individual amended sections and schedules</li>
+	<li>option to highlight terms on the page</li>
+
+</ul>
+
+
+
+		</div>
+
+
+			</section>
+<!-- clf2-nsi2 theme ends / Fin du thème clf2-nsi2 -->
+		</div>
+	</div>
+
+<!-- Main content ends / Fin du contenu principal --> 
+<!--#include virtual="/includes/cn-left-e.inc" -->
+</div>
+<!--#include virtual="/includes/cn-footer-e.inc" -->
+</div><!-- Two column layout ends / Fin de la mis en page de deux colonnes -->
+</body></html>

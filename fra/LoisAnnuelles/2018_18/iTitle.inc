@@ -1,0 +1,1 @@
+Loi modifiant la Loi sur les traitements et apportant une modification corrélative à la Loi sur la gestion des finances publiques

@@ -1,0 +1,1 @@
+An Act to give effect to the Agreement on Cree Nation Governance between the Crees of Eeyou Istchee and the Government of Canada, to amend the Cree-Naskapi (of Quebec) Act and to make related and consequential amendments to other Acts

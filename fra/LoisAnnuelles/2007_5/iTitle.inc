@@ -1,0 +1,1 @@
+Loi modifiant la Loi sur la défense nationale, le Code criminel, la Loi sur l’enregistrement de renseignements sur les délinquants sexuels et la Loi sur le casier judiciaire

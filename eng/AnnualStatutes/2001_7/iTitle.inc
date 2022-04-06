@@ -1,0 +1,1 @@
+An Act to amend the Judges Act and to amend another Act in consequence

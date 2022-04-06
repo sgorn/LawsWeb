@@ -1,0 +1,1 @@
+Loi sur l’abolition du registre des armes d’épaule

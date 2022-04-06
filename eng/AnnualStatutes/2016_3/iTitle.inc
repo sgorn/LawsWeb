@@ -1,0 +1,1 @@
+An Act to amend the Criminal Code and to make related amendments to other Acts (medical assistance in dying)

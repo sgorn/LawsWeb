@@ -1,0 +1,1 @@
+An Act to amend certain Acts and instruments and to repeal the Fisheries Prices Support Act

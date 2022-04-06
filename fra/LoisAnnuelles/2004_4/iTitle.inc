@@ -1,0 +1,1 @@
+Loi concernant la péréquation et permettant au ministre des Finances de faire certains paiements en matière de santé

@@ -1,0 +1,1 @@
+An Act to amend the Fisheries Act and other Acts in consequence

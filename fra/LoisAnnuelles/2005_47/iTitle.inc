@@ -1,0 +1,1 @@
+Loi édictant la Loi sur le Programme de protection des salariés et modifiant la Loi sur la faillite et l’insolvabilité, la Loi sur les arrangements avec les créanciers des compagnies et d’autres lois en conséquence

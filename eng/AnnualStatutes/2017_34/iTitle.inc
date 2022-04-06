@@ -1,0 +1,1 @@
+An Act to amend the Yukon Environmental and Socio-economic Assessment Act and to make a consequential amendment to another Act

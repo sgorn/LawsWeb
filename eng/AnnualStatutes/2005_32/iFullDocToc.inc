@@ -1,0 +1,17 @@
+<nav role="navigation">
+<ul class="TocIndent">
+<li><a title="Page 1" href="#">
+An Act to amend the Criminal Code (protection of children and other vulnerable persons) and the Canada Evidence Act</a><ul class="TocIndent"><li><span class='sectionRange'>1 - </span><a href="#h-1"><span class="HTitleText1">CRIMINAL CODE</span></a>
+</li>
+<li><span class='sectionRange'>26 - </span><a href="#h-2"><span class="HTitleText1">CANADA EVIDENCE ACT</span></a>
+</li>
+<li><span class='sectionRange'>27.1 - </span><a href="#h-3"><span class="HTitleText1">REVIEW AND REPORT TO PARLIAMENT</span></a>
+</li>
+<li><span class='sectionRange'>28 - </span><a href="#h-4"><span class="HTitleText1">COORDINATING AMENDMENT</span></a>
+</li>
+<li><span class='sectionRange'>29 - </span><a href="#h-5"><span class="HTitleText1">COMING INTO FORCE</span></a>
+</li></ul>
+</li></ul>
+
+</nav>
+

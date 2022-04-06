@@ -1,0 +1,1 @@
+Loi modifiant la Loi de mise en oeuvre de l’Accord de libre-échange Canada — Israël et apportant des modifications connexes à d’autres lois

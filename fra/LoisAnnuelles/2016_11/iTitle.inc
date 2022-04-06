@@ -1,0 +1,1 @@
+Loi modifiant la Loi de l’impôt sur le revenu

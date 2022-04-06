@@ -1,0 +1,1 @@
+Loi sur le blocage des biens de dirigeants étrangers corrompus

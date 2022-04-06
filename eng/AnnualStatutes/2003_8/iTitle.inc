@@ -1,0 +1,1 @@
+An Act to amend the Criminal Code (firearms) and the Firearms Act

@@ -1,0 +1,1 @@
+Loi prévoyant l’indemnisation des militaires ayant subi des blessures pendant leur service

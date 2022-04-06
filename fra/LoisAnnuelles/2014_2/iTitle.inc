@@ -1,0 +1,1 @@
+Loi sur le transfert de responsabilités aux Territoires du Nord-Ouest

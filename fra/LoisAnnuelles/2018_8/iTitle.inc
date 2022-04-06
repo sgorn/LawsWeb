@@ -1,0 +1,1 @@
+Loi modifiant la Loi canadienne sur les sociétés par actions, la Loi canadienne sur les coopératives, la Loi canadienne sur les organisations à but non lucratif et la Loi sur la concurrence

@@ -1,0 +1,1 @@
+Loi modifiant la Loi sur la gestion des ressources de la vallée du Mackenzie et la Loi fédérale sur les hydrocarbures et apportant des modifications corrélatives à d’autres lois

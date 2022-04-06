@@ -1,0 +1,1 @@
+An Act to amend the Citizenship Act (Truth and Reconciliation Commission of Canada’s call to action number 94)

@@ -1,0 +1,1 @@
+An Act respecting equalization and authorizing the Minister of Finance to make certain payments related to health

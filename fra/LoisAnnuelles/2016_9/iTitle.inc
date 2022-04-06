@@ -1,0 +1,1 @@
+Loi modifiant la Loi sur les aliments et drogues, la Loi sur les produits dangereux, la Loi sur les dispositifs émettant des radiations, la Loi canadienne sur la protection de l’environnement (1999), la Loi sur les produits antiparasitaires et la Loi canadienne sur la sécurité des produits de consommation et apportant des modifications connexes à une autre loi

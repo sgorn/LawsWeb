@@ -1,0 +1,1 @@
+An Act respecting the registration of information relating to sex offenders, to amend the Criminal Code and to make consequential amendments to other Acts

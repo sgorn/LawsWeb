@@ -1,0 +1,1 @@
+An Act to amend the Patent Act and the Food and Drugs Act (The Jean Chrétien Pledge to Africa)

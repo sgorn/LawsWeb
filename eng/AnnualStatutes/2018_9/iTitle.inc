@@ -1,0 +1,1 @@
+An Act to amend the Tobacco Act and the Non-smokers’ Health Act and to make consequential amendments to other Acts

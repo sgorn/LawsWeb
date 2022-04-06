@@ -1,0 +1,1 @@
+Loi modifiant le Code canadien du travail (congé de décès)

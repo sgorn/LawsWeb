@@ -1,0 +1,1 @@
+An Act to permit the resumption and continuation of the operation of the National Research Universal Reactor at Chalk River

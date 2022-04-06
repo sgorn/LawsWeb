@@ -1,0 +1,1 @@
+An Act to amend the statute law in respect of benefits for veterans and the children of deceased veterans

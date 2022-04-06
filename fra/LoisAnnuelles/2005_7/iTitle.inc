@@ -1,0 +1,1 @@
+Loi modifiant la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces et d’autre<?Pub Caret?>s lois en conséquence (paiements de péréquation aux provinces et financement des territoires)

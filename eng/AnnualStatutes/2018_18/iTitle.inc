@@ -1,0 +1,1 @@
+An Act to amend the Salaries Act and to make a consequential amendment to the Financial Administration Act

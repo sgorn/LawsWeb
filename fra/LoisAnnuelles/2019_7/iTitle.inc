@@ -1,0 +1,1 @@
+Loi de 2018 sur la convention fiscale Canada–Madagascar

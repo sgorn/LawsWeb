@@ -1,0 +1,1 @@
+Preventing Persons from Concealing Their Identity during Riots and Unlawful Assemblies Act

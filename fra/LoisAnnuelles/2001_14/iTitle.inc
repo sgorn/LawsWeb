@@ -1,0 +1,1 @@
+Loi modifiant la Loi canadienne sur les sociétés par actions et la Loi canadienne sur les coopératives ainsi que d’autres lois en conséquence

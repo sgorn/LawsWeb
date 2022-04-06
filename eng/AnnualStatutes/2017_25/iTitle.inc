@@ -1,0 +1,1 @@
+An Act to amend the Indian Act in response to the Superior Court of Quebec decision in Descheneaux c. Canada (Procureur général)

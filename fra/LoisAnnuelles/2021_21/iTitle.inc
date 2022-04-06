@@ -1,0 +1,1 @@
+Loi modifiant la Loi de l’impôt sur le revenu (transfert d’une petite entreprise ou d’une société agricole ou de pêche familiale)

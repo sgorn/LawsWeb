@@ -1,0 +1,1 @@
+Loi modifiant la Loi sur les pensions et la Loi sur la pension de retraite de la Gendarmerie royale du Canada

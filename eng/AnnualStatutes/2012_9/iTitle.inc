@@ -1,0 +1,1 @@
+Citizen’s Arrest and Self-defence Act

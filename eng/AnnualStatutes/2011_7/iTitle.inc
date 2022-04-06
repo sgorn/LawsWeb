@@ -1,0 +1,1 @@
+<?Pub Caret?>Response to the Supreme Court of Canada Decision in R. v. Shoker Act

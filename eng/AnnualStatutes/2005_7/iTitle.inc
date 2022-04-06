@@ -1,0 +1,1 @@
+An Act to amend the <?Pub Caret?>Federal-Provincial Fiscal Arrangements Act and to make consequential amendments to other Acts (fiscal equalization payments to the provinces and funding to the territories)

@@ -1,0 +1,1 @@
+An Act to amend the Competition Act and the Competition Tribunal Act

@@ -1,0 +1,1 @@
+Loi modifiant la Loi de l’impôt sur le revenu (Subvention d’urgence pour le loyer du Canada et Subvention salariale d’urgence du Canada)

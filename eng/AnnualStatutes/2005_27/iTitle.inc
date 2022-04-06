@@ -1,0 +1,1 @@
+Labrador Inuit Land Claims Agreement Act
