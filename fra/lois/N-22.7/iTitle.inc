@@ -1,0 +1,1 @@
+Loi confirmant une convention entre le gouvernement du Canada et le gouvernement de la province du Nouveau-Brunswick à l’égard de réserves indiennes

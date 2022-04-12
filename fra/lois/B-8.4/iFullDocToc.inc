@@ -1,0 +1,9 @@
+<nav>
+<ul class="TocIndent">
+<li><a title="Page 1" href="#">
+Loi sur les ressources minérales des réserves indiennes de la Colombie-Britannique</a><ul class="TocIndent"><li><a href="#h-32891"><span class="scheduleLabel">ANNEXE</span></a>
+</li></ul>
+</li></ul>
+
+</nav>
+

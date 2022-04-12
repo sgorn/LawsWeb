@@ -1,0 +1,1 @@
+Loi de 2016 sur la convention fiscale Canada-Israël

@@ -1,0 +1,1 @@
+Loi sur le cadre fédéral de prévention du suicide

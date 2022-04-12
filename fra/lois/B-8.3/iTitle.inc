@@ -1,0 +1,1 @@
+Loi sur le règlement des revendications relatives aux terres retranchées des réserves des Indiens de la Colombie-Britannique

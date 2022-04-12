@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/DORS-88-518/index.html">Décret d’exemption (Eldorado Nucléaire Limitée)</a> <span class="RelatedRegOrderNum">(DORS/88-518)</span></li></ul>

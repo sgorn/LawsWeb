@@ -1,0 +1,1 @@
+Loi de l’impôt sur le revenu

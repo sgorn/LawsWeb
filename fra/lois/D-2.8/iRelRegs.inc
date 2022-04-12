@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/DORS-2021-55/index.html">Restrictions applicables aux promoteurs du crédit d’impôt pour personnes handicapées, Règlement sur les</a> <span class="RelatedRegOrderNum">(DORS/2021-55)</span></li></ul>

@@ -1,0 +1,1 @@
+Loi visant la modification de la Loi sur les produits dangereux et du Code canadien du travail, l’édiction de la Loi sur le contrôle des renseignements relatifs aux matières dangereuses et la modification d’autres lois en conséquence

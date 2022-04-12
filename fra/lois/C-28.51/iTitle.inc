@@ -1,0 +1,1 @@
+Loi modifiant la Loi de l’impôt sur le revenu, édictant la Loi sur les allocations spéciales pour enfants, apportant des modifications corrélatives à d’autres lois et abrogeant la Loi sur les allocations familiales

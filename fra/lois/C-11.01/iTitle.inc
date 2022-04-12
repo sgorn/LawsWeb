@@ -1,0 +1,1 @@
+Loi sur la prestation canadienne pour les travailleurs en cas de confinement

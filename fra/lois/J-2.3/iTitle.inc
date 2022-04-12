@@ -1,0 +1,1 @@
+Loi sur la justice pour les victimes de dirigeants étrangers corrompus (loi de Sergueï Magnitski)

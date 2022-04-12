@@ -1,0 +1,1 @@
+Loi sur le partage des revenus miniers de la réserve indienne de Fort Nelson

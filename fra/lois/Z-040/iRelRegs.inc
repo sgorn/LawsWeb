@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/DORS-51-84/index.html">Application de la Loi sur les pensions des services de défense au contingent spécial</a> <span class="RelatedRegOrderNum">(DORS/51-84)</span></li></ul>

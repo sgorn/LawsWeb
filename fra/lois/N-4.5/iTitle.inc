@@ -1,0 +1,1 @@
+Loi modifiant la Loi sur les lettres de change, la Loi d’interprétation et le Code canadien du travail (Journée nationale de la vérité et de la réconciliation)

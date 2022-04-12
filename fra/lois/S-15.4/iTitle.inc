@@ -1,0 +1,1 @@
+Loi limitant les dépenses publiques

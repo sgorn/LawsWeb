@@ -1,0 +1,1 @@
+Loi de 2016 sur l’arrangement fiscal relatif aux territoires du Canada et de Taiwan

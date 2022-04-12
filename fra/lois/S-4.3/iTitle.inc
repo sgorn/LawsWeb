@@ -1,0 +1,1 @@
+Loi sur les droits fonciers issus de traités en Saskatchewan

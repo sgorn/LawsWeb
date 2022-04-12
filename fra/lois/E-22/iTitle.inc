@@ -1,0 +1,1 @@
+Loi sur le ministère des Affaires étrangères et du Commerce international

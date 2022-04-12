@@ -1,0 +1,1 @@
+Loi sur les activités associées aux paiements de détail

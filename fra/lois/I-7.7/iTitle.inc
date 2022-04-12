@@ -1,0 +1,1 @@
+Loi sur les Indiens (Établissement de soldats)

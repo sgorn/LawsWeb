@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/DORS-90-729/index.html">Lignes directrices visant les travaux d’achèvement du projet Kemano, Arrêté sur les</a> <span class="RelatedRegOrderNum">(DORS/90-729)</span></li></ul>

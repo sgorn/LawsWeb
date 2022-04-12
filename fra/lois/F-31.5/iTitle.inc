@@ -1,0 +1,1 @@
+Loi relative au cadre sur les soins palliatifs au Canada

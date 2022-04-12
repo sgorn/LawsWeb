@@ -1,0 +1,1 @@
+Loi constituant en corporation la Banque Continentale du Canada

@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/DORS-86-1049/index.html">Décret de non-application des articles 53 à 65 de la Loi sur l’administration de l’énergie (1986)</a> <span class="RelatedRegOrderNum">(DORS/86-1049)</span></li></ul>

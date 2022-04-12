@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/DORS-91-134/index.html">Détermination du statut de prisonnier de guerre, Règlement sur la</a> <span class="RelatedRegOrderNum">(DORS/91-134)</span></li></ul>

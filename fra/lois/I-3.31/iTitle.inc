@@ -1,0 +1,1 @@
+Règles concernant l’application de l’impôt sur le revenu

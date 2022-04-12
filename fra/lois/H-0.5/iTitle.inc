@@ -1,0 +1,1 @@
+Loi sur la prise en charge des prestations de la Commission de secours d’Halifax

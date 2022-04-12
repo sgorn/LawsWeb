@@ -1,0 +1,1 @@
+Loi sur l’interprétation des conventions en matière d’impôts sur le revenu

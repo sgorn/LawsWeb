@@ -1,0 +1,32 @@
+<section id="right-panel" class="wb-overlay modal-content overlay-def wb-panel-l"><header class="modal-header">
+<h2 class="modal-title">Table des matières</h2></header><div class="modal-body"><nav>
+<ul class="TocIndent">
+<li><a title="Page 1" href="#">
+Loi sur l’École de la fonction publique du Canada</a><ul class="TocIndent"><li><span class='sectionRange'>1 - </span><a href="#h-49168"><span class="HTitleText1">Titre abrégé</span></a>
+</li>
+<li><span class='sectionRange'>2 - </span><a href="#h-49173"><span class="HTitleText1">Définitions</span></a>
+</li>
+<li><span class='sectionRange'>3 - </span><a href="#h-49186"><span class="HTitleText1">Prorogation</span></a>
+</li>
+<li><span class='sectionRange'>4 - </span><a href="#h-49200"><span class="HTitleText1">Mission et attributions</span></a>
+</li>
+<li><span class='sectionRange'>13 - </span><a href="#h-49236"><span class="HTitleText1">Président et personnel</span></a>
+<ul class="TocIndent"><li>
+<span class='sectionRange'>13 - </span><a href="#h-49237"><span class="HTitleText2">Président</span></a>
+</li>
+<li><span class='sectionRange'>15 - </span><a href="#h-49253"><span class="HTitleText2">Personnel</span></a>
+</li></ul>
+</li><li><span class='sectionRange'>16 - </span><a href="#h-49265"><span class="HTitleText1">Services en matière de formation et de recherche</span></a>
+</li>
+<li><span class='sectionRange'>18 - </span><a href="#h-49271"><span class="HTitleText1">Redevances</span></a>
+</li>
+<li><span class='sectionRange'>19 - </span><a href="#h-49281"><span class="HTitleText1">Examen et rapport</span></a>
+</li>
+<li><span class='sectionRange'>21 à 25 - </span><a href="#h-49294"><span class="HTitleText1">Modifications corrélatives</span></a>
+</li>
+<li><span class='sectionRange'>26 - </span><a href="#h-49296"><span class="HTitleText1">Entrée en vigueur</span></a>
+</li></ul>
+</li></ul>
+
+</nav>
+</div></section>

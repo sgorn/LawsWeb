@@ -1,0 +1,1 @@
+Loi autorisant un prêt au gouvernement du Nouveau-Brunswick à l’égard de l’entreprise de force motrice de Beechwood

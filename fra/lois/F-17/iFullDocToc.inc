@@ -1,0 +1,19 @@
+<nav>
+<ul class="TocIndent">
+<li><a title="Page 1" href="#">
+Loi sur la convention en matière de pêche dans les Grands Lacs</a><ul class="TocIndent"><li><span class='sectionRange'>1 - </span><a href="#h-226502"><span class="HTitleText1">Titre abrégé</span></a>
+</li>
+<li><span class='sectionRange'>2 - </span><a href="#h-226507"><span class="HTitleText1">Définitions</span></a>
+</li>
+<li><span class='sectionRange'>3 - </span><a href="#h-226514"><span class="HTitleText1">Convention et règlements</span></a>
+</li>
+<li><span class='sectionRange'>6 - </span><a href="#h-226527"><span class="HTitleText1">Compétence des tribunaux</span></a>
+</li>
+<li><span class='sectionRange'>7 - </span><a href="#h-226532"><span class="HTitleText1">Durée</span></a>
+</li>
+<li><a href="#h-226538"><span class="scheduleLabel">ANNEXE</span> </a>
+</li></ul>
+</li></ul>
+
+</nav>
+

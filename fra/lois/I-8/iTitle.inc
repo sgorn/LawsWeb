@@ -1,0 +1,1 @@
+Loi sur le développement industriel et régional

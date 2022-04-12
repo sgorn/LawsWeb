@@ -1,0 +1,1 @@
+Loi sur l’accord définitif sur l’autonomie gouvernementale de Deline

@@ -1,0 +1,1 @@
+Loi des ressources naturelles de la Saskatchewan

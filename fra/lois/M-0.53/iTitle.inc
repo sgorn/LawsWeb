@@ -1,0 +1,1 @@
+Loi sur la mise en oeuvre de mesures concernant le règlement de revendications au Manitoba (nation crie de Norway House)

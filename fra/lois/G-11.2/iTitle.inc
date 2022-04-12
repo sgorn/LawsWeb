@@ -1,0 +1,1 @@
+Loi autorisant à accorder une pension à jouissance immédiate à Monsieur le juge Donald Raymond Morand

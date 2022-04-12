@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/TR-2019-69/index.html">Décret désignant le premier ministre à titre de ministre chargé de l’application de cette loi</a> <span class="RelatedRegOrderNum">(TR/2019-69)</span></li></ul>

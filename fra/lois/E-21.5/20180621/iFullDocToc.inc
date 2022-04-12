@@ -1,0 +1,40 @@
+<section id="right-panel" class="wb-overlay modal-content overlay-def wb-panel-l"><header class="modal-header">
+<h2 class="modal-title">Table des matières</h2></header><div class="modal-body"><nav>
+<ul class="TocIndent">
+<li><a title="Page 1" href="#">
+Loi sur la radiation de condamnations constituant des injustices historiques</a><ul class="TocIndent"><li><span class='sectionRange'>1 - </span><a href="#h-206427"><span class="HTitleText1">Titre abrégé</span></a>
+</li>
+<li><span class='sectionRange'>2 - </span><a href="#h-206430"><span class="HTitleText1">Définitions</span></a>
+</li>
+<li><span class='sectionRange'>3 - </span><a href="#h-206435"><span class="HTitleText1">Attributions</span></a>
+</li>
+<li><span class='sectionRange'>5 - </span><a href="#h-206440"><span class="HTitleText1">Radiation</span></a>
+<ul class="TocIndent"><li>
+<span class='sectionRange'>5 - </span><a href="#h-206441"><span class="HTitleText2">Effets</span></a>
+</li>
+<li><span class='sectionRange'>7 - </span><a href="#h-206449"><span class="HTitleText2">Procédure</span></a>
+</li>
+<li><span class='sectionRange'>13 - </span><a href="#h-206486"><span class="HTitleText2">Ordonnance</span></a>
+</li>
+<li><span class='sectionRange'>16 - </span><a href="#h-206493"><span class="HTitleText2">Destruction et suppression</span></a>
+</li>
+<li><span class='sectionRange'>22 - </span><a href="#h-206506"><span class="HTitleText2">Communication de renseignements</span></a>
+</li></ul>
+</li><li><span class='sectionRange'>23 - </span><a href="#h-206509"><span class="HTitleText1">Modifications à l’annexe</span></a>
+</li>
+<li><span class='sectionRange'>24 - </span><a href="#h-206515"><span class="HTitleText1">Critères</span></a>
+</li>
+<li><span class='sectionRange'>25 - </span><a href="#h-206518"><span class="HTitleText1">Infractions d’ordre sexuel entre des personnes du même sexe</span></a>
+</li>
+<li><span class='sectionRange'>27 - </span><a href="#h-206526"><span class="HTitleText1">Modifications connexes</span></a>
+<ul class="TocIndent"><li>
+<span class='sectionRange'>27 - </span><a href="#h-206527"><span class="HTitleText2"><cite class="XRefExternalAct">Code criminel</cite></span></a>
+</li>
+<li><span class='sectionRange'>30 - </span><a href="#h-206531"><span class="HTitleText2"><cite class="XRefExternalAct">Loi sur l’enregistrement de renseignements sur les délinquants sexuels</cite></span></a>
+</li></ul>
+</li><li><a href="#h-206534"><span class="scheduleLabel">ANNEXE</span> </a>
+</li></ul>
+</li></ul>
+
+</nav>
+</div></section>

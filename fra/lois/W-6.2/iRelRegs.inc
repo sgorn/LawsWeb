@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/DORS-2007-232/index.html">Bureau d’enregistrement des terres de la première nation de Westbank, Règlement sur le</a> <span class="RelatedRegOrderNum">(DORS/2007-232)</span></li></ul>

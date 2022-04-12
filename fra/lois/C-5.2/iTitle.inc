@@ -1,0 +1,1 @@
+Loi de 2006 sur la convention fiscale Canada–Finlande

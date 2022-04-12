@@ -1,0 +1,1 @@
+Loi fédérale sur l’équilibre budgétaire

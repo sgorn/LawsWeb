@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/DORS-87-196/index.html">Protection des pensions des employés de la société Les Arsenaux canadiens Limitée, Règlement sur la</a> <span class="RelatedRegOrderNum">(DORS/87-196)</span></li></ul>

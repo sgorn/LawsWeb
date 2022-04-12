@@ -1,0 +1,1 @@
+Loi sur le ministère du Développement des ressources humaines

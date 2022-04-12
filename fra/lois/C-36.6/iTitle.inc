@@ -1,0 +1,1 @@
+Loi de validation des ordonnances sur la copropriété

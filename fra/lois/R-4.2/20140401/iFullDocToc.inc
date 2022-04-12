@@ -1,0 +1,119 @@
+<section id="right-panel" class="wb-overlay modal-content overlay-def wb-panel-l"><header class="modal-header">
+<h2 class="modal-title">Table des matières</h2></header><div class="modal-body"><nav>
+<ul class="TocIndent">
+<li><a title="Page 1" href="#">
+Loi sur la sécurité ferroviaire</a><ul class="TocIndent"><li><span class='sectionRange'>1 - </span><a href="#h-1"><span class="HTitleText1">Titre abrégé</span></a>
+</li>
+<li><span class='sectionRange'>2 - </span><a href="#h-2"><span class="HTitleText1">Application</span></a>
+</li>
+<li><span class='sectionRange'>3 - </span><a href="#h-3"><span class="HTitleText1">Objectifs</span></a>
+</li>
+<li><span class='sectionRange'>4 - </span><a href="#h-4"><span class="HTitleText1">Définitions</span></a>
+</li>
+<li><span class='sectionRange'>5 - </span><a href="#h-5"><span class="HTitleText1">Cadre législatif</span></a>
+</li>
+<li><span class='sectionRange'>6 - </span><a href="#h-6"><span class="HTitleText1">Accords</span></a>
+</li>
+<li><span class='sectionRange'>7 - </span><a href="#h-7"><span class="HLabel1">PARTIE I</span> - <span class="HTitleText1">Construction et modification d’installations ferroviaires</span></a>
+<ul class="TocIndent"><li>
+<span class='sectionRange'>7 - </span><a href="#h-8"><span class="HTitleText2">Normes</span></a>
+</li>
+<li><span class='sectionRange'>7.1 - </span><a href="#h-9"><span class="HTitleText2">Construction de franchissements routiers</span></a>
+</li>
+<li><span class='sectionRange'>8 - </span><a href="#h-10"><span class="HTitleText2">Avis des travaux projetés</span></a>
+</li>
+<li><span class='sectionRange'>10 - </span><a href="#h-11"><span class="HTitleText2">Commencement des travaux projetés</span></a>
+</li>
+<li><span class='sectionRange'>12 - </span><a href="#h-12"><span class="HTitleText2">Subventions pour les travaux concernant la sécurité des franchissements routiers ou d’autres réalisations contribuant à la sécurité ferroviaire</span></a>
+</li></ul>
+</li><li><span class='sectionRange'>17.2 - </span><a href="#h-13"><span class="HLabel1">PARTIE II</span> - <span class="HTitleText1">Exploitation et entretien des installations et du matériel ferroviaires</span></a>
+<ul class="TocIndent"><li>
+<span class='sectionRange'>17.2 - </span><a href="#h-14"><span class="HTitleText2">Interdictions</span></a>
+</li>
+<li><span class='sectionRange'>18 - </span><a href="#h-15"><span class="HTitleText2">Règlements</span></a>
+</li>
+<li><span class='sectionRange'>19 - </span><a href="#h-16"><span class="HTitleText2">Règles</span></a>
+</li>
+<li><span class='sectionRange'>21 - </span><a href="#h-17"><span class="HTitleText2">Dispositions diverses concernant les règles et les règlements</span></a>
+</li>
+<li><span class='sectionRange'>23 - </span><a href="#h-18"><span class="HTitleText2">Interdiction de déroger aux règlements et règles sans exemption</span></a>
+</li>
+<li><span class='sectionRange'>23.1 - </span><a href="#h-19"><span class="HTitleText2">Avertissement audible</span></a>
+</li></ul>
+</li><li><span class='sectionRange'>24 - </span><a href="#h-20"><span class="HLabel1">PARTIE III</span> - <span class="HTitleText1">Activités autres que ferroviaires pouvant compromettre la sécurité ferroviaire</span></a>
+<ul class="TocIndent"><li>
+<span class='sectionRange'>24 - </span><a href="#h-21"><span class="HTitleText2">Règlements</span></a>
+</li>
+<li><span class='sectionRange'>25 - </span><a href="#h-22"><span class="HTitleText2">Pouvoirs des compagnies de chemin de fer</span></a>
+</li>
+<li><span class='sectionRange'>26 - </span><a href="#h-23"><span class="HTitleText2">Pouvoirs de l’Office</span></a>
+</li>
+<li><span class='sectionRange'>26.1 - </span><a href="#h-24"><span class="HTitleText2">Interdiction d’accès aux lignes de chemin de fer</span></a>
+</li></ul>
+</li><li><span class='sectionRange'>27 - </span><a href="#h-25"><span class="HLabel1">PARTIE IV</span> - <span class="HTitleText1">Application et contrôle</span></a>
+<ul class="TocIndent"><li>
+<span class='sectionRange'>27 - </span><a href="#h-26"><span class="HTitleText2">Inspecteurs de la sécurité ferroviaire et agents de contrôle</span></a>
+</li>
+<li><span class='sectionRange'>31 - </span><a href="#h-27"><span class="HTitleText2">Ordres concernant l’usage d’installations ou de matériel ferroviaires</span></a>
+</li>
+<li><span class='sectionRange'>32 - </span><a href="#h-28"><span class="HTitleText2">Ordres ministériels</span></a>
+</li>
+<li><span class='sectionRange'>33 - </span><a href="#h-29"><span class="HTitleText2">Injonctions ministérielles</span></a>
+</li>
+<li><span class='sectionRange'>34 - </span><a href="#h-30"><span class="HTitleText2">Assimilation à des ordonnances judiciaires</span></a>
+</li>
+<li><span class='sectionRange'>35 - </span><a href="#h-31"><span class="HTitleText2">Renseignements médicaux</span></a>
+</li>
+<li><span class='sectionRange'>36 - </span><a href="#h-32"><span class="HTitleText2">Exigences relatives aux renseignements</span></a>
+</li>
+<li><span class='sectionRange'>39 - </span><a href="#h-33"><span class="HTitleText2">Sûreté du transport ferroviaire</span></a>
+</li>
+<li><span class='sectionRange'>40 - </span><a href="#h-34"><span class="HTitleText2">Enquêtes</span></a>
+</li>
+<li><span class='sectionRange'>40.1 - </span><a href="#h-35"><span class="HTitleText2">Sanctions administratives pécuniaires</span></a>
+</li>
+<li><span class='sectionRange'>41 - </span><a href="#h-36"><span class="HTitleText2">Infractions</span></a>
+</li></ul>
+</li><li><span class='sectionRange'>44 - </span><a href="#h-37"><span class="HLabel1">PARTIE IV.1</span> - <span class="HTitleText1">Agents de police</span></a>
+</li>
+<li><span class='sectionRange'>45 - </span><a href="#h-38"><span class="HLabel1">PARTIE V</span> - <span class="HTitleText1">Dispositions diverses</span></a>
+<ul class="TocIndent"><li>
+<span class='sectionRange'>45 - </span><a href="#h-39"><span class="HTitleText2">Délégation de pouvoirs</span></a>
+</li>
+<li><span class='sectionRange'>46 - </span><a href="#h-40"><span class="HTitleText2">Loi sur les textes réglementaires</span></a>
+</li>
+<li><span class='sectionRange'>47 - </span><a href="#h-41"><span class="HTitleText2">Règlements — général</span></a>
+</li>
+<li><span class='sectionRange'>48 - </span><a href="#h-42"><span class="HTitleText2">Incorporation par renvoi</span></a>
+</li>
+<li><span class='sectionRange'>49 - </span><a href="#h-43"><span class="HTitleText2">Incompatibilité</span></a>
+</li>
+<li><span class='sectionRange'>50 - </span><a href="#h-44"><span class="HTitleText2">Publication des règlements</span></a>
+</li>
+<li><span class='sectionRange'>51 - </span><a href="#h-45"><span class="HTitleText2">Examen de la loi</span></a>
+</li></ul>
+</li><li><span class='sectionRange'>52 - </span><a href="#h-46"><span class="HLabel1">PARTIE VI</span> - <span class="HTitleText1">Modifications corrélatives et dispositions transitoires</span></a>
+<ul class="TocIndent"><li>
+<span class='sectionRange'>52 - </span><a href="#h-47"><span class="HTitleText2">Loi sur l’accès à l’information</span></a>
+</li>
+<li><span class='sectionRange'>53 et 54 - </span><a href="#h-48"><span class="HTitleText2">Loi sur les Chemins de fer nationaux du Canada</span></a>
+</li>
+<li><span class='sectionRange'>55 à 62 - </span><a href="#h-49"><span class="HTitleText2">Code criminel</span></a>
+</li>
+<li><span class='sectionRange'>63 à 65 - </span><a href="#h-50"><span class="HTitleText2">Loi de 1987 sur les transports nationaux</span></a>
+</li>
+<li><span class='sectionRange'>66 à 114 - </span><a href="#h-51"><span class="HTitleText2">Loi sur les chemins de fer</span></a>
+</li>
+<li><span class='sectionRange'>115 à 118 - </span><a href="#h-52"><span class="HTitleText2">Loi sur le déplacement des lignes de chemin de fer et les croisements de chemin de fer</span></a>
+</li>
+<li><span class='sectionRange'>119 - </span><a href="#h-53"><span class="HTitleText2">Dispositions transitoires concernant les modifications à la Loi sur les chemins de fer</span></a>
+</li>
+<li><span class='sectionRange'>120 - </span><a href="#h-54"><span class="HTitleText2">Dispositions transitoires corrélatives à l’abrogation des parties II et III de la Loi sur le déplacement des lignes de chemin de fer et les croisements de chemin de fer</span></a>
+</li>
+<li><span class='sectionRange'>122 - </span><a href="#h-55"><span class="HTitleText2">Entrée en vigueur</span></a>
+</li></ul>
+</li></ul>
+</li></ul>
+
+</nav>
+</div></section>

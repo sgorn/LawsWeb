@@ -1,0 +1,1 @@
+Loi des dispositions supplémentaires du Manitoba

@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/TR-90-33/index.html">Décret chargeant le ministre de l’Industrie, des Sciences et de la Technologie de l’application de la Loi</a> <span class="RelatedRegOrderNum">(TR/90-33)</span></li></ul>

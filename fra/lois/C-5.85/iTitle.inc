@@ -1,0 +1,1 @@
+Loi de 1982 sur l’Accord Canada-Allemagne en matière d’impôts

@@ -1,0 +1,1 @@
+Loi sur la continuation des pensions de la Gendarmerie royale du Canada

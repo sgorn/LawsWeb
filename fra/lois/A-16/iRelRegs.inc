@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/DORS-84-435/index.html">Santé et la sécurité au travail dans les mines d’uranium de l’Ontario, Règlement sur la</a> <span class="RelatedRegOrderNum">(DORS/84-435)</span></li></ul>

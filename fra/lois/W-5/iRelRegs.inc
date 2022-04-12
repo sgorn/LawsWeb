@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/C.R.C.,_ch._1604/index.html">Renseignements relatifs aux modifications du temps, Règlement sur les</a> <span class="RelatedRegOrderNum">(C.R.C., ch. 1604)</span></li></ul>

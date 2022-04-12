@@ -1,0 +1,1 @@
+Loi validant des ordonnances tarifaires sur les fruits et légumes

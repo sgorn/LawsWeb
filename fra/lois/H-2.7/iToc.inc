@@ -1,0 +1,33 @@
+<nav>
+<ul class="TocIndent">
+<li><a title="Page 1" href="page-1.html">
+Loi sur le contrôle des renseignements relatifs aux matières dangereuses</a><ul class="TocIndent"><li><span class='sectionRange'>9 - </span><a href="page-1.html#h-246390"><span class="HTitleText1">Titre abrégé</span></a>
+</li>
+<li><span class='sectionRange'>10 - </span><a href="page-1.html#h-246395"><span class="HTitleText1">Définitions</span></a>
+</li>
+<li><span class='sectionRange'>11 - </span><a href="page-1.html#h-246431"><span class="HTitleText1">Présentation des demandes de dérogation</span></a>
+</li>
+<li><span class='sectionRange'>12 - </span><a href="page-1.html#h-1225295"><span class="HTitleText1">Examen des demandes de dérogation</span></a>
+</li>
+<li><span class='sectionRange'>15 - </span><a href="page-2.html#h-1225135"><span class="HTitleText1">Examen des fiches de données de sécurité et des étiquettes</span></a>
+</li>
+<li><span class='sectionRange'>19 - </span><a href="page-2.html#h-246558"><span class="HTitleText1">Périodes de dérogation</span></a>
+</li>
+<li><span class='sectionRange'>21 - </span><a href="page-2.html#h-1225174"><span class="HTitleText1">Suspension ou annulation des dérogations</span></a>
+</li>
+<li><span class='sectionRange'>24 - </span><a href="page-2.html#h-1225195"><span class="HTitleText1">Rétablissement des dérogations suspendues ou annulées</span></a>
+</li>
+<li><span class='sectionRange'>26 - </span><a href="page-2.html#h-1225207"><span class="HTitleText1">Communication de renseignements commerciaux confidentiels</span></a>
+</li>
+<li><span class='sectionRange'>32 - </span><a href="page-2.html#h-1225237"><span class="HTitleText1">Remise des droits</span></a>
+</li>
+<li><span class='sectionRange'>34 - </span><a href="page-3.html#h-1225251"><span class="HTitleText1">Attributions supplémentaires du ministre</span></a>
+</li>
+<li><span class='sectionRange'>48 - </span><a href="page-3.html#h-246751"><span class="HTitleText1">Règlements</span></a>
+</li>
+<li><span class='sectionRange'>49 - </span><a href="page-3.html#h-246767"><span class="HTitleText1">Infractions et peines</span></a>
+</li></ul>
+</li></ul>
+
+</nav>
+
