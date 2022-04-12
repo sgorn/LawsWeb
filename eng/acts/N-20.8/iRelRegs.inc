@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-95-479/index.html">Report on the State of Canada’s Forests Regulations</a> <span class="RelatedRegOrderNum">(SOR/95-479)</span></li></ul>

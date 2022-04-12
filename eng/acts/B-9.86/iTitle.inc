@@ -1,0 +1,1 @@
+An Act respecting the Buffalo and Fort Erie Public Bridge Company

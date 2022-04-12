@@ -1,0 +1,1 @@
+Canada — Norway Tax Convention Act, 2002

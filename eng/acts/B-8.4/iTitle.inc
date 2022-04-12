@@ -1,0 +1,1 @@
+The British Columbia Indian Reserves Mineral Resources Act

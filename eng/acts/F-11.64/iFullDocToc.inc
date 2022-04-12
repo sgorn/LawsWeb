@@ -1,0 +1,19 @@
+<nav>
+<ul class="TocIndent">
+<li><a title="Page 1" href="#">
+First Nations Commercial and Industrial Development Act</a><ul class="TocIndent"><li><span class='sectionRange'>1 - </span><a href="#h-224290"><span class="HTitleText1">Short Title</span></a>
+</li>
+<li><span class='sectionRange'>2 - </span><a href="#h-224293"><span class="HTitleText1">Interpretation</span></a>
+</li>
+<li><span class='sectionRange'>3 - </span><a href="#h-224306"><span class="HTitleText1">Regulations</span></a>
+</li>
+<li><span class='sectionRange'>8 - </span><a href="#h-224380"><span class="HTitleText1">Other Acts</span></a>
+</li>
+<li><span class='sectionRange'>11 - </span><a href="#h-224394"><span class="HTitleText1">Limits on Liability, Defences and Immunities</span></a>
+</li>
+<li><span class='sectionRange'>13 - </span><a href="#h-224407"><span class="HTitleText1">Coming into Force</span></a>
+</li></ul>
+</li></ul>
+
+</nav>
+

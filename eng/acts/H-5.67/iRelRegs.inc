@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-2015-44/index.html">Human Pathogens and Toxins Regulations</a> <span class="RelatedRegOrderNum">(SOR/2015-44)</span></li></ul>

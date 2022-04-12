@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-85-1134/index.html">Quebec Port Warden’s Tariff of Fees Order</a> <span class="RelatedRegOrderNum">(SOR/85-1134)</span></li></ul>

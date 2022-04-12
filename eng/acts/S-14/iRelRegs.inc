@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-82-405/index.html">Special Areas Industrial Renewal Order</a> <span class="RelatedRegOrderNum">(SOR/82-405)</span></li></ul>

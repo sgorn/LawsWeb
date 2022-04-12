@@ -1,0 +1,1 @@
+<ol class="breadcrumb"><li><a href="http://www.justice.gc.ca/eng">Home</a></li><li><a href="/eng">Laws Website Home</a></li><li><a href="/eng/acts/">Consolidated Acts</a></li><li><a href="index.html"><abbr title='Statutes of Canada'>S.C.</abbr> 2018, c. 12, s. 186 - &#x00A0;Table of Contents</a></li> <li><abbr title='Statutes of Canada'>S.C.</abbr> 2018, c. 12, s. 186</li></ol>

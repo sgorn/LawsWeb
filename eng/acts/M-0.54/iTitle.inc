@@ -1,0 +1,1 @@
+Manitoba Supplementary Provisions Act

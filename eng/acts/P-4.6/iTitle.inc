@@ -1,0 +1,1 @@
+An Act respecting payments to a trust established to provide provinces and territories with funding for community development

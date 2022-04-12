@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-99-190/index.html">Canada Pension Plan Investment Board Regulations</a> <span class="RelatedRegOrderNum">(SOR/99-190)</span></li></ul>

@@ -1,0 +1,1 @@
+An Act to incorporate the Canadian Red Cross Society

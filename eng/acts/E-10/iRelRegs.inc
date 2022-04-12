@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-90-729/index.html">Kemano Completion Project Guidelines Order</a> <span class="RelatedRegOrderNum">(SOR/90-729)</span></li></ul>

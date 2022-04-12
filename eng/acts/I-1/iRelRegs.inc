@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SI-92-131/index.html">Fingerprinting, Palmprinting and Photography Order</a> <span class="RelatedRegOrderNum">(SI/92-131)</span></li></ul>

@@ -1,0 +1,1 @@
+Gwich’in Land Claim Settlement Act

@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-2021-55/index.html">Disability Tax Credit Promoters Restrictions Regulations</a> <span class="RelatedRegOrderNum">(SOR/2021-55)</span></li></ul>

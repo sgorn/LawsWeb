@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SI-92-158/index.html">Statutes of Canada Loose-leaf Consolidation Updates Distribution Order [Repealed by operation of law]</a> <span class="RelatedRegOrderNum">(SI/92-158)</span></li></ul>

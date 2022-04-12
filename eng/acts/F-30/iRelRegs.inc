@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-94-118/index.html">Timber Regulations, 1993</a> <span class="RelatedRegOrderNum">(SOR/94-118)</span></li></ul>

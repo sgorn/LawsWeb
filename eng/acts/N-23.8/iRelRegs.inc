@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SI-94-8/index.html">Order Designating the Minister for International Trade as Minister for Purposes of Sections 1 to 9 and Parts I and III of the Act</a> <span class="RelatedRegOrderNum">(SI/94-8)</span></li></ul>

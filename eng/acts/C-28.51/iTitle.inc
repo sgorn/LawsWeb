@@ -1,0 +1,1 @@
+An Act to amend the Income Tax Act, to enact the Children’s Special Allowances Act, to amend certain other Acts in consequence thereof and to repeal the Family Allowances Act

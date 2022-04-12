@@ -1,0 +1,1 @@
+An Act to repeal An Act to incorporate the Western Canada Telephone Company

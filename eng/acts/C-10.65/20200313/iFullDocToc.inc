@@ -1,0 +1,106 @@
+<section id="right-panel" class="wb-overlay modal-content overlay-def wb-panel-l"><header class="modal-header">
+<h2 class="modal-title">Table of Contents</h2></header><div class="modal-body"><nav>
+<ul class="TocIndent">
+<li><a title="Page 1" href="#">
+Canada–United States–Mexico Agreement Implementation Act</a><ul class="TocIndent"><li><span class='sectionRange'>1 - </span><a href="#h-1237380"><span class="HTitleText1">Short Title</span></a>
+</li>
+<li><span class='sectionRange'>2 - </span><a href="#h-1237383"><span class="HTitleText1">Interpretation</span></a>
+</li>
+<li><span class='sectionRange'>6 - </span><a href="#h-1237397"><span class="HTitleText1">Her Majesty</span></a>
+</li>
+<li><span class='sectionRange'>7 - </span><a href="#h-1237400"><span class="HTitleText1">Purpose</span></a>
+</li>
+<li><span class='sectionRange'>8 - </span><a href="#h-1237418"><span class="HTitleText1">Causes of Action</span></a>
+</li>
+<li><span class='sectionRange'>9 - </span><a href="#h-1237426"><span class="HLabel1">PART 1</span> - <span class="HTitleText1">Implementation of Agreement</span></a>
+<ul class="TocIndent"><li>
+<span class='sectionRange'>9 - </span><a href="#h-1237427"><span class="HTitleText2">Approval, Designation of Minister and Representation on Commission</span></a>
+</li>
+<li><span class='sectionRange'>12 - </span><a href="#h-1237434"><span class="HTitleText2">Secretariat</span></a>
+</li>
+<li><span class='sectionRange'>16 - </span><a href="#h-1237446"><span class="HTitleText2">Panels and Committees</span></a>
+</li>
+<li><span class='sectionRange'>17 - </span><a href="#h-1237453"><span class="HTitleText2">Labour Council</span></a>
+</li>
+<li><span class='sectionRange'>18 - </span><a href="#h-1237456"><span class="HTitleText2">Expenses</span></a>
+</li>
+<li><span class='sectionRange'>19 - </span><a href="#h-1237463"><span class="HTitleText2">Orders</span></a>
+</li></ul>
+</li><li><span class='sectionRange'>21 - </span><a href="#h-1237497"><span class="HLabel1">PART 2</span> - <span class="HTitleText1">Related Amendments</span></a>
+<ul class="TocIndent"><li>
+<span class='sectionRange'>21 - </span><a href="#h-1237498"><span class="HTitleText2"><cite class="XRefExternalAct">Canada Deposit Insurance Corporation Act</cite></span></a>
+</li>
+<li><span class='sectionRange'>22 - </span><a href="#h-1237503"><span class="HTitleText2"><cite class="XRefExternalAct">Competition Act</cite></span></a>
+</li>
+<li><span class='sectionRange'>23 - </span><a href="#h-1237520"><span class="HTitleText2"><cite class="XRefExternalAct">Copyright Act</cite></span></a>
+<ul class="TocIndent"><li>
+<span class='sectionRange'>23 - </span><a href="#h-1237523"><span class="HTitleText3">Amendments to the Act</span></a>
+</li>
+<li><span class='sectionRange'>34 - </span><a href="#h-1237568"><span class="HTitleText3">Transitional Provision</span></a>
+</li></ul>
+</li><li><span class='sectionRange'>35 - </span><a href="#h-1237571"><span class="HTitleText2"><cite class="XRefExternalAct">Criminal Code</cite></span></a>
+</li>
+<li><span class='sectionRange'>39 - </span><a href="#h-1237584"><span class="HTitleText2"><cite class="XRefExternalAct">Excise Tax Act</cite></span></a>
+</li>
+<li><span class='sectionRange'>40 - </span><a href="#h-1237589"><span class="HTitleText2"><cite class="XRefExternalAct">Export and Import Permits Act</cite></span></a>
+</li>
+<li><span class='sectionRange'>53 - </span><a href="#h-1237646"><span class="HTitleText2"><cite class="XRefExternalAct">Fertilizers Act</cite></span></a>
+</li>
+<li><span class='sectionRange'>54 - </span><a href="#h-1237653"><span class="HTitleText2"><cite class="XRefExternalAct">Financial Administration Act</cite></span></a>
+</li>
+<li><span class='sectionRange'>57 - </span><a href="#h-1237665"><span class="HTitleText2"><cite class="XRefExternalAct">Food and Drugs Act</cite></span></a>
+</li>
+<li><span class='sectionRange'>59 - </span><a href="#h-1237682"><span class="HTitleText2"><cite class="XRefExternalAct">Canada Grain Act</cite></span></a>
+</li>
+<li><span class='sectionRange'>70 - </span><a href="#h-1237723"><span class="HTitleText2"><cite class="XRefExternalAct">Importation of Intoxicating Liquors Act</cite></span></a>
+</li>
+<li><span class='sectionRange'>72 - </span><a href="#h-1237736"><span class="HTitleText2"><cite class="XRefExternalAct">Special Import Measures Act</cite></span></a>
+<ul class="TocIndent"><li>
+<span class='sectionRange'>72 - </span><a href="#h-1237739"><span class="HTitleText3">Amendments to the Act</span></a>
+</li>
+<li><span class='sectionRange'>105 - </span><a href="#h-1237960"><span class="HTitleText3">Transitional Provisions</span></a>
+</li></ul>
+</li><li><span class='sectionRange'>108 - </span><a href="#h-1237967"><span class="HTitleText2"><cite class="XRefExternalAct">Trademarks Act</cite></span></a>
+</li>
+<li><span class='sectionRange'>111 - </span><a href="#h-1237985"><span class="HTitleText2"><cite class="XRefExternalAct">Investment Canada Act</cite></span></a>
+</li>
+<li><span class='sectionRange'>114 - </span><a href="#h-1237994"><span class="HTitleText2"><cite class="XRefExternalAct">Customs Act</cite></span></a>
+</li>
+<li><span class='sectionRange'>137 - </span><a href="#h-1238091"><span class="HTitleText2"><cite class="XRefExternalAct">Commercial Arbitration Act</cite></span></a>
+</li>
+<li><span class='sectionRange'>138 - </span><a href="#h-1238100"><span class="HTitleText2"><cite class="XRefExternalAct">Canadian International Trade Tribunal Act</cite></span></a>
+<ul class="TocIndent"><li>
+<span class='sectionRange'>138 - </span><a href="#h-1238103"><span class="HTitleText3">Amendments to the Act</span></a>
+</li>
+<li><span class='sectionRange'>149 - </span><a href="#h-1238176"><span class="HTitleText3">Transitional Provisions</span></a>
+</li></ul>
+</li><li><span class='sectionRange'>152 - </span><a href="#h-1238186"><span class="HTitleText2"><cite class="XRefExternalAct">Broadcasting Act</cite></span></a>
+</li>
+<li><span class='sectionRange'>153 - </span><a href="#h-1238191"><span class="HTitleText2"><cite class="XRefExternalAct">Trust and Loan Companies Act</cite></span></a>
+</li>
+<li><span class='sectionRange'>158 - </span><a href="#h-1238206"><span class="HTitleText2"><cite class="XRefExternalAct">Bank Act</cite></span></a>
+</li>
+<li><span class='sectionRange'>171 - </span><a href="#h-1238242"><span class="HTitleText2"><cite class="XRefExternalAct">Insurance Companies Act</cite></span></a>
+</li>
+<li><span class='sectionRange'>183 - </span><a href="#h-1238275"><span class="HTitleText2"><cite class="XRefExternalAct">Customs Tariff</cite></span></a>
+</li>
+<li><span class='sectionRange'>206 - </span><a href="#h-1238407"><span class="HTitleText2"><cite class="XRefExternalAct">Pest Control Products Act</cite></span></a>
+</li>
+<li><span class='sectionRange'>207 - </span><a href="#h-1238412"><span class="HTitleText2"><cite class="XRefExternalAct">Canadian Energy Regulator Act</cite></span></a>
+</li></ul>
+</li><li><span class='sectionRange'>213 - </span><a href="#h-1238429"><span class="HLabel1">PART 3</span> - <span class="HTitleText1">Coming into Force</span></a>
+</li>
+<li><a href="#h-1238442"><span class="scheduleLabel">SCHEDULE 1</span> </a>
+</li>
+<li><a href="#h-1238454"><span class="scheduleLabel">SCHEDULE 2</span> </a>
+</li>
+<li><a href="#h-1238460"><span class="scheduleLabel">SCHEDULE 3</span> </a>
+</li>
+<li><a href="#h-1238467"><span class="scheduleLabel">SCHEDULE 4</span> </a>
+</li>
+<li><a href="#h-1238474"><span class="scheduleLabel">SCHEDULE 5</span> </a>
+</li></ul>
+</li></ul>
+
+</nav>
+</div></section>

@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-51-84/index.html">Application of Defence Services Pension Act to Special Force</a> <span class="RelatedRegOrderNum">(SOR/51-84)</span></li></ul>

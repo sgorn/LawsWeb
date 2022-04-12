@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SI-2019-68/index.html">Order Designating the Prime Minister as the Minister responsible for that Act</a> <span class="RelatedRegOrderNum">(SI/2019-68)</span></li></ul>

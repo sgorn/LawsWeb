@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/C.R.C.,_c._666/index.html">Fertilizers Regulations</a> <span class="RelatedRegOrderNum">(C.R.C., c. 666)</span></li></ul>

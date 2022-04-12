@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SI-2015-2/index.html">Order Designating the Minister for International Development as the Minister for the purposes of the Act</a> <span class="RelatedRegOrderNum">(SI/2015-2)</span></li></ul>

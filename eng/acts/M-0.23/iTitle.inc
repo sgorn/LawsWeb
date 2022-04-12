@@ -1,0 +1,1 @@
+Main Point of Contact with the Government of Canada in case of Death Act

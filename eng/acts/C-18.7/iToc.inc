@@ -1,0 +1,17 @@
+<nav>
+<ul class="TocIndent">
+<li><a title="Page 1" href="page-1.html">
+Canadian Multiculturalism Act</a><ul class="TocIndent"><li><span class='sectionRange'>1 - </span><a href="page-1.html#h-73115"><span class="HTitleText1">Short Title</span></a>
+</li>
+<li><span class='sectionRange'>2 - </span><a href="page-1.html#h-73118"><span class="HTitleText1">Interpretation</span></a>
+</li>
+<li><span class='sectionRange'>3 - </span><a href="page-1.html#h-73130"><span class="HTitleText1">Multiculturalism Policy of Canada</span></a>
+</li>
+<li><span class='sectionRange'>4 - </span><a href="page-1.html#h-73152"><span class="HTitleText1">Implementation of the Multiculturalism Policy of Canada</span></a>
+</li>
+<li><span class='sectionRange'>8 - </span><a href="page-1.html#h-73183"><span class="HTitleText1">General</span></a>
+</li></ul>
+</li></ul>
+
+</nav>
+

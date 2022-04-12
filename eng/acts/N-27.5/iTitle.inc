@@ -1,0 +1,1 @@
+Nova Scotia and Newfoundland and Labrador Additional Fiscal Equalization Offset Payments Act

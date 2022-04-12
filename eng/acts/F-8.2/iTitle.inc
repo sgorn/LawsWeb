@@ -1,0 +1,1 @@
+Federal-Provincial Fiscal Arrangements Act, 1972

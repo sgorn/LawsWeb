@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-2008-222/index.html">Wage Earner Protection Program Regulations</a> <span class="RelatedRegOrderNum">(SOR/2008-222)</span></li></ul>

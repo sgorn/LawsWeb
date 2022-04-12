@@ -1,0 +1,1 @@
+Western Arctic (Inuvialuit) Claims Settlement Act

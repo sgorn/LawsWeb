@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-2018-35/index.html">Privileges and Immunities of the Asian Infrastructure Investment Bank Order</a> <span class="RelatedRegOrderNum">(SOR/2018-35)</span></li></ul>

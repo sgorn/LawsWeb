@@ -1,0 +1,1 @@
+An Act respecting the provision of funding for diagnostic and medical equipment

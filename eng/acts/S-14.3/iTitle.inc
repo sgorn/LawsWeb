@@ -1,0 +1,1 @@
+An Act to grant access to records of the Special Committee on the Defence of Canada Regulations

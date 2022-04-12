@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-2019-307/index.html">Sechelt Indian Band Constitution, Order Amending the</a> <span class="RelatedRegOrderNum">(SOR/2019-307)</span></li></ul>

@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-2011-292/index.html">Internet Child Pornography Reporting Regulations</a> <span class="RelatedRegOrderNum">(SOR/2011-292)</span></li></ul>
