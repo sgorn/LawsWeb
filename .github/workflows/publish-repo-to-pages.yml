@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - run: echo $GITHUB_SHA >> public/index.html
-      - uses: maxheld83/ghpages@v0.3.0
+      - uses: sgorn/LawsWeb@master
         env:
           BUILD_DIR: public/
           GH_PAT: ${{ secrets.GH_PAT }}
