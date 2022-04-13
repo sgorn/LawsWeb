@@ -1,0 +1,1 @@
+Loi fédérale sur les droits successoraux

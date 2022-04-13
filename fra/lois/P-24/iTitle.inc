@@ -1,0 +1,1 @@
+Loi sur les privilèges et immunités de l’Organisation du Traité de l’Atlantique Nord

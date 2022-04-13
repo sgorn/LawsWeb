@@ -1,0 +1,1 @@
+Loi sur les paiements de péréquation supplémentaires (1982-1987)

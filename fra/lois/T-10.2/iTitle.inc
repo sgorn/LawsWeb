@@ -1,0 +1,1 @@
+Loi du règlement relatif aux terres des sauvages de la Colombie-Britannique

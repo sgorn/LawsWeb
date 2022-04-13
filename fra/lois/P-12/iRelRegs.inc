@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/DORS-82-503/index.html">Impôt sur les revenus pétroliers, Règlement de l’</a> <span class="RelatedRegOrderNum">(DORS/82-503)</span></li></ul>

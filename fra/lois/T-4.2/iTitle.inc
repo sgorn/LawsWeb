@@ -1,0 +1,1 @@
+Loi sur la réorganisation et l’aliénation de Téléglobe Canada

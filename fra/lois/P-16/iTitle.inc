@@ -1,0 +1,1 @@
+Loi de réparation consécutive à une interruption des services postaux

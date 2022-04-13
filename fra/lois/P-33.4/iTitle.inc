@@ -1,0 +1,1 @@
+Loi modernisant le régime de l’emploi et des relations de travail dans la fonction publique, modifiant la Loi sur la gestion des finances publiques et la Loi sur le Centre canadien de gestion et apportant des modifications corrélatives à d’autres lois

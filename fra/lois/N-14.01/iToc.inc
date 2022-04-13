@@ -1,0 +1,53 @@
+<nav>
+<ul class="TocIndent">
+<li><a title="Page 1" href="page-1.html">
+Loi sur les parcs nationaux du Canada</a><ul class="TocIndent"><li><span class='sectionRange'>1 - </span><a href="page-1.html#h-351479"><span class="HTitleText1">Titre abrégé</span></a>
+</li>
+<li><span class='sectionRange'>2 - </span><a href="page-1.html#h-351482"><span class="HTitleText1">Définitions</span></a>
+</li>
+<li><span class='sectionRange'>3 - </span><a href="page-1.html#h-351507"><span class="HTitleText1">Sa Majesté</span></a>
+</li>
+<li><span class='sectionRange'>4 - </span><a href="page-1.html#h-351510"><span class="HTitleText1">Parcs nationaux du Canada</span></a>
+</li>
+<li><span class='sectionRange'>8 - </span><a href="page-1.html#h-351553"><span class="HTitleText1">Gestion</span></a>
+</li>
+<li><span class='sectionRange'>13 - </span><a href="page-1.html#h-351587"><span class="HTitleText1">Terrains</span></a>
+</li>
+<li><span class='sectionRange'>16 - </span><a href="page-2.html#h-351625"><span class="HTitleText1">Règlements</span></a>
+</li>
+<li><span class='sectionRange'>18 - </span><a href="page-2.html#h-351696"><span class="HTitleText1">Application de la loi</span></a>
+</li>
+<li><span class='sectionRange'>24 - </span><a href="page-3.html#h-351753"><span class="HTitleText1">Infractions et peines</span></a>
+</li>
+<li><span class='sectionRange'>32 - </span><a href="page-5.html#h-352055"><span class="HTitleText1">Atténuation des dommages à l’environnement</span></a>
+</li>
+<li><span class='sectionRange'>33 - </span><a href="page-5.html#h-352063"><span class="HTitleText1">Collectivités</span></a>
+</li>
+<li><span class='sectionRange'>35 - </span><a href="page-5.html#h-352097"><span class="HTitleText1">Dispositions applicables à certains parcs</span></a>
+</li>
+<li><span class='sectionRange'>39 - </span><a href="page-5.html#h-352125"><span class="HTitleText1">Réserves</span></a>
+</li>
+<li><span class='sectionRange'>42 - </span><a href="page-6.html#h-352207"><span class="HTitleText1">Lieux historiques nationaux du Canada</span></a>
+</li>
+<li><span class='sectionRange'>43 à 46 - </span><a href="page-6.html#h-352217"><span class="HTitleText1">Abrogations</span></a>
+</li>
+<li><span class='sectionRange'>47 à 56 - </span><a href="page-6.html#h-352219"><span class="HTitleText1">Modifications corrélatives</span></a>
+</li>
+<li><span class='sectionRange'>68 à 70.1 - </span><a href="page-6.html#h-352223"><span class="HTitleText1">Modifications conditionnelles</span></a>
+</li>
+<li><span class='sectionRange'>71 - </span><a href="page-6.html#h-352225"><span class="HTitleText1">Entrée en vigueur</span></a>
+</li>
+<li><a href="page-7.html#h-352236"><span class="scheduleLabel">ANNEXE 1</span> <span class="scheduleTitleText"> - Parcs nationaux du Canada</span></a>
+</li>
+<li><a href="page-8.html#h-353630"><span class="scheduleLabel">ANNEXE 2</span> <span class="scheduleTitleText"> - Réserves à vocation de parc national du Canada</span></a>
+</li>
+<li><a href="page-9.html#h-354493"><span class="scheduleLabel">ANNEXE 3</span> <span class="scheduleTitleText"> - Espèces protégées</span></a>
+</li>
+<li><a href="page-10.html#h-354512"><span class="scheduleLabel">ANNEXE 4</span> </a>
+</li>
+<li><a href="page-11.html#h-354522"><span class="scheduleLabel">ANNEXE 5</span> <span class="scheduleTitleText"> - Stations commerciales de ski</span></a>
+</li></ul>
+</li></ul>
+
+</nav>
+

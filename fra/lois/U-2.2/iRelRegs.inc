@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/TR-2021-37/index.html">Décret désignant le ministre de la Justice à titre de ministre chargé de l’application de cette loi</a> <span class="RelatedRegOrderNum">(TR/2021-37)</span></li></ul>

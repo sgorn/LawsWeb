@@ -1,0 +1,1 @@
+Loi sur les revendications territoriales et l’autonomie gouvernementale du peuple tlicho

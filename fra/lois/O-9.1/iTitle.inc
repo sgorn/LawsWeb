@@ -1,0 +1,1 @@
+Loi sur les Jeux olympiques de 1976

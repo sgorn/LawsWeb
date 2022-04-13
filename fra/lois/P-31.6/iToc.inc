@@ -1,0 +1,33 @@
+<nav>
+<ul class="TocIndent">
+<li><a title="Page 1" href="page-1.html">
+Loi sur la rémunération du secteur public</a><ul class="TocIndent"><li><span class='sectionRange'>1 - </span><a href="page-1.html#h-392109"><span class="HTitleText1">Titre abrégé</span></a>
+</li>
+<li><span class='sectionRange'>2 - </span><a href="page-1.html#h-392112"><span class="HTitleText1">Définitions et interprétation</span></a>
+</li>
+<li><span class='sectionRange'>3 - </span><a href="page-1.html#h-392142"><span class="HTitleText1">Champ d’application</span></a>
+</li>
+<li><span class='sectionRange'>4 - </span><a href="page-1.html#h-392167"><span class="HTitleText1">Sa Majesté</span></a>
+</li>
+<li><span class='sectionRange'>5 - </span><a href="page-1.html#h-392170"><span class="HTitleText1">Prorogation des régimes de rémunération</span></a>
+</li>
+<li><span class='sectionRange'>9 - </span><a href="page-2.html#h-392280"><span class="HTitleText1">Taux de salaire</span></a>
+</li>
+<li><span class='sectionRange'>12 - </span><a href="page-2.html#h-392315"><span class="HTitleText1">Exécution</span></a>
+</li>
+<li><span class='sectionRange'>14 - </span><a href="page-3.html#h-392325"><span class="HTitleText1">Infractions</span></a>
+</li>
+<li><span class='sectionRange'>21 - </span><a href="page-3.html#h-392352"><span class="HTitleText1">Décrets</span></a>
+</li>
+<li><span class='sectionRange'>23 et 24 - </span><a href="page-3.html#h-392359"><span class="HTitleText1">Modifications connexes</span></a>
+</li>
+<li><span class='sectionRange'>25 - </span><a href="page-3.html#h-392361"><span class="HTitleText1">Entrée en vigueur</span></a>
+</li>
+<li><a href="page-4.html#h-392365"><span class="scheduleLabel">ANNEXE I</span> </a>
+</li>
+<li><a href="page-5.html#h-392470"><span class="scheduleLabel">ANNEXE II</span> </a>
+</li></ul>
+</li></ul>
+
+</nav>
+

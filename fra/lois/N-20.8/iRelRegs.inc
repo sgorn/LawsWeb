@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/DORS-95-479/index.html">Rapport sur l’état des forêts au Canada, Règlement sur le</a> <span class="RelatedRegOrderNum">(DORS/95-479)</span></li></ul>

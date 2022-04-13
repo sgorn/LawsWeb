@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/DORS-85-658/index.html">Décret d’exemption et de transfert (La Société des transports du nord Limitée)</a> <span class="RelatedRegOrderNum">(DORS/85-658)</span></li></ul>

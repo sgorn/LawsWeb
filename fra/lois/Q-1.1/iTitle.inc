@@ -1,0 +1,1 @@
+Loi sur la mise en quarantaine

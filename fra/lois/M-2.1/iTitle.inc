@@ -1,0 +1,1 @@
+Loi sur le mariage (degrés prohibés)

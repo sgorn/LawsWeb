@@ -1,0 +1,1 @@
+Loi sur la gestion des ressources de la vallée du Mackenzie

@@ -1,0 +1,1 @@
+<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/DORS-92-520/index.html">Indemnisation des marins marchands, Décret de 1992 sur l’</a> <span class="RelatedRegOrderNum">(DORS/92-520)</span></li></ul>
