@@ -1,1 +1,0 @@
-Loi sur les paiements de transition du grain de l’Ouest

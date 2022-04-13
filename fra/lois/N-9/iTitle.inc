@@ -1,1 +1,0 @@
-Loi sur les normes de fabrication du drapeau national du Canada

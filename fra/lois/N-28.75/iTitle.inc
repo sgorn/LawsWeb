@@ -1,1 +1,0 @@
-Loi sur l’aménagement du territoire et l’évaluation des projets au Nunavut

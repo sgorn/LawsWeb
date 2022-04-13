@@ -1,1 +1,0 @@
-Loi sur la responsabilité des salaires

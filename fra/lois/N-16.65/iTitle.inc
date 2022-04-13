@@ -1,1 +1,0 @@
-Loi sur la Journée nationale de la sensibilisation à la drépanocytose

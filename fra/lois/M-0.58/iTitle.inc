@@ -1,1 +1,0 @@
-Loi autorisant l’acquisition de Marine Atlantique S.C.C.

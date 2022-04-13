@@ -1,1 +1,0 @@
-Loi sur la Cour canadienne de l’impôt

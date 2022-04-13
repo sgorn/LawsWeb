@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/C.R.C.,_ch._1321/index.html">Entreprise en commun d’infrastructure de l’OTAN, Décret de remise relatif à l'</a> <span class="RelatedRegOrderNum">(C.R.C., ch. 1321)</span></li></ul>

@@ -1,1 +1,0 @@
-Loi relative aux répercussions du projet gazier Mackenzie

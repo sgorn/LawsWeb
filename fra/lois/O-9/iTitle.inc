@@ -1,1 +1,0 @@
-Loi sur la sécurité de la vieillesse

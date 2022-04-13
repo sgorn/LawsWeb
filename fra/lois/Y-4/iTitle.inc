@@ -1,1 +1,0 @@
-Loi sur l'extraction du quartz dans le Yukon

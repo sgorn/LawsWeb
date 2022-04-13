@@ -1,1 +1,0 @@
-Loi de 1921 pour le contrôle du lac des Bois

@@ -1,1 +1,0 @@
-Loi sur le Centre national des Arts

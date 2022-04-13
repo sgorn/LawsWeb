@@ -1,1 +1,0 @@
-Loi sur les restructurations et les transferts d’attributions dans l’administration publique

@@ -1,1 +1,0 @@
-Loi sur la réorganisation et l’aliénation de Télésat Canada

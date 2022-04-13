@@ -1,1 +1,0 @@
-Loi visant le nouveau pont pour le Saint-Laurent

@@ -1,1 +1,0 @@
-Loi sur l’Accord définitif nisga’a

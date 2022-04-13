@@ -1,1 +1,0 @@
-Loi autorisant l’aliénation de La Société des transports du nord Limitée

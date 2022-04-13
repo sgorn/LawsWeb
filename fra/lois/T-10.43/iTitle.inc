@@ -1,1 +1,0 @@
-Loi sur l’emprunt, 1936

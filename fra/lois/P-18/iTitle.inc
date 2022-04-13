@@ -1,1 +1,0 @@
-Loi sur les paiements anticipés pour le grain des Prairies

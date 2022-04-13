@@ -1,1 +1,0 @@
-Loi sur les poids et mesures

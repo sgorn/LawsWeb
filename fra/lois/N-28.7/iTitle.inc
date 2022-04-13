@@ -1,1 +1,0 @@
-Loi concernant l’Accord sur les revendications territoriales du Nunavut

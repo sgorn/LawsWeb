@@ -1,1 +1,0 @@
-Loi des ressources naturelles du Manitoba

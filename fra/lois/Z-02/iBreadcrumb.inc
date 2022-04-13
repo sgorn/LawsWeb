@@ -1,1 +1,0 @@
-<ol class="breadcrumb"><li><a href="http://www.justice.gc.ca/fra">Accueil</a></li><li><a href="/fra">Site Web de la législation accueil</a></li><li><a href="/fra/lois/">Lois codifiées</a></li><li><a href="index.html">Accords et conventions - &#x00A0;Table des matières</a></li> <li>Accords et conventions</li></ol>

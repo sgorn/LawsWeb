@@ -1,1 +1,0 @@
-Loi sur les marques olympiques et paralympiques

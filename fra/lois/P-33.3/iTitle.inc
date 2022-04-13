@@ -1,1 +1,0 @@
-Loi sur les relations de travail dans le secteur public fédéral

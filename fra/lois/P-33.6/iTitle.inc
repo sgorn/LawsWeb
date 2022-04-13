@@ -1,1 +1,0 @@
-Loi sur la mise au point des pensions du service public

@@ -1,1 +1,0 @@
-Loi de l’assurance des soldats de retour

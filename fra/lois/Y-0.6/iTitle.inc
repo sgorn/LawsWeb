@@ -1,1 +1,0 @@
-Loi concernant la première nation de York Factory relativement à la submersion de terres
