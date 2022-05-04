@@ -1,1 +1,0 @@
-Loi sur la pension de retraite des lieutenants-gouverneurs

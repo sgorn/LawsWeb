@@ -1,1 +1,0 @@
-Loi constituant en corporation la <Emphasis style="italic">Canadian Red Cross Society</Emphasis>

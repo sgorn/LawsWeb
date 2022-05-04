@@ -1,1 +1,0 @@
-Loi sur la détermination de la participation et du contrôle canadiens

@@ -1,1 +1,0 @@
-Loi sur la gestion des finances publiques

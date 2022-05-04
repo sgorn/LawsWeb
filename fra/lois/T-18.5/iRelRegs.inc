@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/DORS-86-594/index.html">Tribunal d'appel des transports du Canada, Règles du</a> <span class="RelatedRegOrderNum">(DORS/86-594)</span></li></ul>

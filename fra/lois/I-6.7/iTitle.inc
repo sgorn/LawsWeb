@@ -1,1 +1,0 @@
-Loi sur l’accord de 1986 concernant les terres indiennes

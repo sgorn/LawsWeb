@@ -1,1 +1,0 @@
-Loi sur les subventions au développement régional

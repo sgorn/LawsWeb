@@ -1,1 +1,0 @@
-Loi de mise en oeuvre du Protocole de Kyoto

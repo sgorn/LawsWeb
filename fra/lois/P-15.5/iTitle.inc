@@ -1,1 +1,0 @@
-Loi concernant certaines dispositions du tarif postal

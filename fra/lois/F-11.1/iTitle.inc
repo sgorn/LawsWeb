@@ -1,1 +1,0 @@
-Loi sur l’Agence de la consommation en matière financière du Canada

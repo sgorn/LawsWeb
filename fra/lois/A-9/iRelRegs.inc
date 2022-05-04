@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/TR-2009-61/index.html">Certificats d’âge et d’origine des spiritueux distillés produits ou emballés au Canada, Décret des</a> <span class="RelatedRegOrderNum">(TR/2009-61)</span></li></ul>

@@ -1,1 +1,0 @@
-Loi de 2002 sur l’accord fiscal Canada — Koweït

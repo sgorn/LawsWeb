@@ -1,1 +1,0 @@
-Loi sur les renseignements en matière de modification du temps

@@ -1,1 +1,0 @@
-Loi sur le Fonds relatif aux répercussions du projet gazier Mackenzie

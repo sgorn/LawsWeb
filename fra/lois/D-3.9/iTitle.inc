@@ -1,1 +1,0 @@
-Loi sur les possibilités de la mise en valeur de la réserve de charbon Donkin

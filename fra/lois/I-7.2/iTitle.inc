@@ -1,1 +1,0 @@
-Loi ayant pour objet de régler certaines questions entre les gouvernements du Canada et de l’Ontario concernant les terres des réserves des sauvages

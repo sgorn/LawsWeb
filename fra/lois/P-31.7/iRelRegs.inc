@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/DORS-2000-77/index.html">Office d’investissement des régimes de pensions du secteur public, Règlement sur l’</a> <span class="RelatedRegOrderNum">(DORS/2000-77)</span></li></ul>

@@ -1,1 +1,0 @@
-Loi sur la mise en oeuvre de mesures concernant le règlement de revendications (Alberta et Saskatchewan)

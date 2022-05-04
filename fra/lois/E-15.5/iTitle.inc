@@ -1,1 +1,0 @@
-Loi sur le contrôle des dépenses

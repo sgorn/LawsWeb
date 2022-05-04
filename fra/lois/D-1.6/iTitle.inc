@@ -1,1 +1,0 @@
-Loi sur les lettres et billets de dépôt

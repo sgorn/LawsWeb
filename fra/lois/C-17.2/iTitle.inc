@@ -1,1 +1,0 @@
-Loi canadienne sur la budgétisation sensible aux sexes

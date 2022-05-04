@@ -1,1 +1,0 @@
-Loi sur la semaine nationale de la fonction publique : pour un meilleur service aux Canadiens

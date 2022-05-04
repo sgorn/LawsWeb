@@ -1,1 +1,0 @@
-Loi sur la Journée nationale des produits du phoque

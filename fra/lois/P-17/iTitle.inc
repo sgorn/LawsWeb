@@ -1,1 +1,0 @@
-Loi sur le rétablissement agricole des Prairies

@@ -1,1 +1,0 @@
-Loi sur les programmes de commercialisation agricole

@@ -1,1 +1,0 @@
-Loi sur les offices des produits agricoles

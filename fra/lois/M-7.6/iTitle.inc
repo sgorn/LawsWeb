@@ -1,1 +1,0 @@
-Loi sur l’éducation des Mi’kmaq

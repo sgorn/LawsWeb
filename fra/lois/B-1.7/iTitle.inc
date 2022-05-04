@@ -1,1 +1,0 @@
-Loi sur la poursuite des activités de la Banque de la Colombie-Britannique

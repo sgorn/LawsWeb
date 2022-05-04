@@ -1,1 +1,0 @@
-Loi sur les justes salaires et les heures de travail

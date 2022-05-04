@@ -1,1 +1,0 @@
-Loi sur l’Agence du revenu du Canada

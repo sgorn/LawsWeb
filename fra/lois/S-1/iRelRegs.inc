@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/DORS-82-1038/index.html">Convention sur la sécurité des conteneurs, Règlement sur la</a> <span class="RelatedRegOrderNum">(DORS/82-1038)</span></li></ul>

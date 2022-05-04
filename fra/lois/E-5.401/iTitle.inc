@@ -1,1 +1,0 @@
-Loi sur l’équité en matière d’emploi

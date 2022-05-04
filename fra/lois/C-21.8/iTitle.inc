@@ -1,1 +1,0 @@
-Loi sur la Fondation canadienne des relations raciales

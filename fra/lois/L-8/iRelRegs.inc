@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/C.R.C.,_ch._1022/index.html">Pension de retraite des lieutenants-gouverneurs, Règlement sur la</a> <span class="RelatedRegOrderNum">(C.R.C., ch. 1022)</span></li></ul>

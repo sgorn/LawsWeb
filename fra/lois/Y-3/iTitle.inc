@@ -1,1 +1,0 @@
-Loi sur l'extraction de l'or dans le Yukon

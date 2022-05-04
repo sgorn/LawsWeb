@@ -1,1 +1,0 @@
-Loi concernant la taxe sur les produits et services des premières nations

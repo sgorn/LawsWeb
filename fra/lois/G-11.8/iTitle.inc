@@ -1,1 +1,0 @@
-Loi sur le règlement de la revendication territoriale des Gwich’in

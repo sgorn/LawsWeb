@@ -1,1 +1,0 @@
-Loi sur la Fondation Jules et Paul-Émile Léger

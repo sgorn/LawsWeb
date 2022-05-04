@@ -1,1 +1,0 @@
-Loi sur la pension spéciale du service diplomatique

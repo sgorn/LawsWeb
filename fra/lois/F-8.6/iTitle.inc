@@ -1,1 +1,0 @@
-Loi fédérale sur le développement durable

@@ -1,1 +1,0 @@
-Loi sur les terres destinées aux anciens combattants

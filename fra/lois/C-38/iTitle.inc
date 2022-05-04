@@ -1,1 +1,0 @@
-Loi sur l’emballage et l’étiquetage des produits de consommation

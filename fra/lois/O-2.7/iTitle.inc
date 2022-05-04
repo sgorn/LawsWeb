@@ -1,1 +1,0 @@
-Loi sur le Bureau du surintendant des institutions financières

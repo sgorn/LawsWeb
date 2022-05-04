@@ -1,1 +1,0 @@
-Loi sur l’Accord sur les revendications territoriales des Inuit du Labrador

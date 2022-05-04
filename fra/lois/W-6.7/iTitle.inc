@@ -1,1 +1,0 @@
-Loi sur le règlement des revendications des Inuvialuit de la région ouest de l’Arctique

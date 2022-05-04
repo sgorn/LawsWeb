@@ -1,1 +1,0 @@
-Loi sur l’Agence canadienne pour l’incitation à la réduction des émissions

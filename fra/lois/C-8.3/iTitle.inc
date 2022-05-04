@@ -1,1 +1,0 @@
-Loi sur l’Office d’investissement du régime de pensions du Canada

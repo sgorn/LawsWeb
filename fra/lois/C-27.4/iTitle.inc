@@ -1,1 +1,0 @@
-Loi célébrant les aînés du Canada

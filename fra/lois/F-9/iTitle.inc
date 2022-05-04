@@ -1,1 +1,0 @@
-Loi relative aux aliments du bétail

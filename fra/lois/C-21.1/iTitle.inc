@@ -1,1 +1,0 @@
-Loi sur la médaille canadienne du maintien de la paix

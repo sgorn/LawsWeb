@@ -1,1 +1,0 @@
-Loi concernant la réserve de Caughnawaga et modifiant la Loi des Indiens

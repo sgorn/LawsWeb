@@ -1,1 +1,0 @@
-Loi sur la Société canadienne d’hypothèques et de logement

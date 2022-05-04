@@ -1,1 +1,0 @@
-Loi de 2006 sur la convention fiscale Canada–Mexique

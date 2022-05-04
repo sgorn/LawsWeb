@@ -1,1 +1,0 @@
-Loi sur le ministère de l’Emploi et du Développement social

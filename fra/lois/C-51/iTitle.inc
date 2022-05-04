@@ -1,1 +1,0 @@
-Loi sur l’exportation et l’importation de biens culturels

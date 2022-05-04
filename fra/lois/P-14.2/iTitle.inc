@@ -1,1 +1,0 @@
-Loi sur la continuation des paiements de Pioneer Trust

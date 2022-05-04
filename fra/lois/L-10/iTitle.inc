@@ -1,1 +1,0 @@
-Loi sur l’aide à l’alimentation des animaux de ferme

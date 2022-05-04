@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/DORS-91-604/index.html">Responsabilité civile de l’État et le contentieux administratif (tribunaux provinciaux), Règlement sur la</a> <span class="RelatedRegOrderNum">(DORS/91-604)</span></li></ul>

@@ -1,1 +1,0 @@
-Loi sur l’autonomie gouvernementale des premières nations du Yukon

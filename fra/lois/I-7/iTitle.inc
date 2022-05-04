@@ -1,1 +1,0 @@
-Loi sur le pétrole et le gaz des terres indiennes

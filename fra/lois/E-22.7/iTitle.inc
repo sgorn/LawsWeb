@@ -1,1 +1,0 @@
-Loi sur les mesures de transparence dans le secteur extractif

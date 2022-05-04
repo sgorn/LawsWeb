@@ -1,1 +1,0 @@
-Loi sur le point de service principal du gouvernement du Canada en cas de décès

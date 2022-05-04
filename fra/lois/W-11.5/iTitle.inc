@@ -1,1 +1,0 @@
-Loi sur le jour de compassion pour les travailleurs

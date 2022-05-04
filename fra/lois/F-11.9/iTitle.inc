@@ -1,1 +1,0 @@
-Loi sur la gestion du pétrole et du gaz et des fonds des Premières Nations

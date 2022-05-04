@@ -1,1 +1,0 @@
-Loi canadienne sur les coopératives

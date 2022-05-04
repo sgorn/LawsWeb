@@ -1,1 +1,0 @@
-Loi sur les lieux et monuments historiques

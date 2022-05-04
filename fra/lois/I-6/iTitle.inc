@@ -1,1 +1,0 @@
-Loi sur le ministère des Affaires indiennes et du Nord canadien

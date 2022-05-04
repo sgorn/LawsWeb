@@ -1,1 +1,0 @@
-L.C. 1992, ch. 3, Partie IV

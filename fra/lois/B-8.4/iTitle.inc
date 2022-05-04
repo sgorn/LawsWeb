@@ -1,1 +1,0 @@
-Loi sur les ressources minérales des réserves indiennes de la Colombie-Britannique

@@ -1,1 +1,0 @@
-Loi sur les services publicitaires fournis par des éditeurs étrangers

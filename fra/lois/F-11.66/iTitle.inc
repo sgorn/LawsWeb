@@ -1,1 +1,0 @@
-Loi sur la transparence financière des Premières Nations

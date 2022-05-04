@@ -1,1 +1,0 @@
-Loi concernant l’Hudson Bay Mining and Smelting Co., Limited

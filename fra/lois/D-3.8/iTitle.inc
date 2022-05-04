@@ -1,1 +1,0 @@
-Loi sur l’identification par les empreintes génétiques

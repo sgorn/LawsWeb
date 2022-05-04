@@ -1,1 +1,0 @@
-Loi sur l’aménagement de l’énergie des rapides internationaux

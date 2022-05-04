@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/TR-2020-54/index.html">Décret désignant la ministre du Commerce international à titre de ministre chargée de l’application de cette loi</a> <span class="RelatedRegOrderNum">(TR/2020-54)</span></li></ul>

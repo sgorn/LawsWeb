@@ -1,1 +1,0 @@
-Loi sur le Bureau de transition vers un régime canadien de réglementation des valeurs mobilières

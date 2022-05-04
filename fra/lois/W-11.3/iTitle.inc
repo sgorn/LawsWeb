@@ -1,1 +1,0 @@
-Loi sur le ministère des Femmes et de l’Égalité des genres

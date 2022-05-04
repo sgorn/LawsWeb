@@ -1,1 +1,0 @@
-Loi sur la Société d’assurance-dépôts du Canada

@@ -1,1 +1,0 @@
-Loi d’établissement de soldats

@@ -1,1 +1,0 @@
-Loi fédérale sur le paiement rapide des travaux de construction

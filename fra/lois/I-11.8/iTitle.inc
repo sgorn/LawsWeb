@@ -1,1 +1,0 @@
-Loi sur les sociétés d’assurances

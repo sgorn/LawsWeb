@@ -1,1 +1,0 @@
-Loi sur la bourse de recherches de la flamme du centenaire

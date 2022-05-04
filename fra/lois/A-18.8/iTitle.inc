@@ -1,1 +1,0 @@
-Loi visant à éviter la complicité dans les cas de mauvais traitements infligés par des entités étrangères

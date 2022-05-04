@@ -1,1 +1,0 @@
-Loi sur la Convention Canada-Belgique en matière d’impôt sur le revenu (1976)

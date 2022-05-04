@@ -1,1 +1,0 @@
-Loi de mise en oeuvre de l’Accord Canada–États-Unis pour un meilleur échange de renseignements fiscaux

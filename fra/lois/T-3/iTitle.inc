@@ -1,1 +1,0 @@
-Loi sur la cession du droit au remboursement en matière d’impôt

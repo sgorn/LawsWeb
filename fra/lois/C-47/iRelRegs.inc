@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/DORS-2000-303/index.html">Casier judiciaire, Règlement sur le</a> <span class="RelatedRegOrderNum">(DORS/2000-303)</span></li></ul>

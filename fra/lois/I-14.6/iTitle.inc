@@ -1,1 +1,0 @@
-Loi sur les topographies de circuits intégrés

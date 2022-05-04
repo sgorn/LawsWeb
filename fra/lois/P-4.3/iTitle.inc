@@ -1,1 +1,0 @@
-Loi sur les réseaux de cartes de paiement

@@ -1,1 +1,0 @@
-Loi sur les prestations canadiennes de relance économique

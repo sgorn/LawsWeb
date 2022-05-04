@@ -1,1 +1,0 @@
-Loi de 1994 sur la Convention Canada-Argentine en matière d’impôts sur le revenu

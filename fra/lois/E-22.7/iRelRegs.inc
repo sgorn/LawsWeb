@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/TR-2015-39/index.html">Décret désignant le ministre des Ressources naturelles à titre de ministre chargé de l’application de la loi</a> <span class="RelatedRegOrderNum">(TR/2015-39)</span></li></ul>

@@ -1,1 +1,0 @@
-Loi modifiant certaines lois en matière de pensions et édictant la Loi sur les régimes de retraite particuliers et la Loi sur le partage des prestations de retraite

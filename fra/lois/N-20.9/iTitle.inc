@@ -1,1 +1,0 @@
-Loi modificatrice de 1961 sur le transfert des ressources naturelles (Terres d’écoles)

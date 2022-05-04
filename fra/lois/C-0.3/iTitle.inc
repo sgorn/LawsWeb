@@ -1,1 +1,0 @@
-Loi relative au pont de Campobello à Lubec

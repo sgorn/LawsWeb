@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/DORS-2005-106/index.html">Application de concessions sur l’importation de certaines marchandises originaires des États-Unis, Décret suspendant l’</a> <span class="RelatedRegOrderNum">(DORS/2005-106)</span></li></ul>

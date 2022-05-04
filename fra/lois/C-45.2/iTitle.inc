@@ -1,1 +1,0 @@
-Loi sur la corruption d’agents publics étrangers

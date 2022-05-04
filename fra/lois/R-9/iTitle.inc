@@ -1,1 +1,0 @@
-Loi sur la Monnaie royale canadienne

@@ -1,1 +1,0 @@
-Loi sur le financement des soins de santé ainsi que du développement de la petite enfance et d’autres services sociaux au Canada

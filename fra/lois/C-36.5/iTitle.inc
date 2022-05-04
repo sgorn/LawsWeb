@@ -1,1 +1,0 @@
-Loi de mise en oeuvre du Traité d’interdiction complète des essais nucléaires

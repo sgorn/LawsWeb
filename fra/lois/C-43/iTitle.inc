@@ -1,1 +1,0 @@
-Loi sur les déclarations des personnes morales

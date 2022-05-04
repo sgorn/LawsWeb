@@ -1,1 +1,0 @@
-Loi sur la responsabilité en matière d’aide au développement officielle

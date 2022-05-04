@@ -1,1 +1,0 @@
-Loi sur l’exploitation du champ Hibernia

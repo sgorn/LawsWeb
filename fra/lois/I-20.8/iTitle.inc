@@ -1,1 +1,0 @@
-Loi visant à reconnaître l’internement de personnes d’origine ukrainienne au Canada pendant la Première Guerre mondiale et à en rappeler le souvenir

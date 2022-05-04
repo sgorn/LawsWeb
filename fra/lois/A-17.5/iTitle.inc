@@ -1,1 +1,0 @@
-Loi confirmant le pouvoir d’acquisition de la Commission du district fédéral sur certains immeubles

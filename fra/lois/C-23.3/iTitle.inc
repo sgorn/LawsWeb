@@ -1,1 +1,0 @@
-Loi sur la Commission canadienne du tourisme

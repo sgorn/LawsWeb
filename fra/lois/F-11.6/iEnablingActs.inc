@@ -1,1 +1,0 @@
-LOI SUR LES ARMES À FEU

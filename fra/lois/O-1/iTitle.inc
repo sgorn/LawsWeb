@@ -1,1 +1,0 @@
-Loi sur les serments d’allégeance

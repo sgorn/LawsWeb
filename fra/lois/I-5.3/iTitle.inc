@@ -1,1 +1,0 @@
-Loi sur la modification et le remplacement de la Loi sur les Indiens

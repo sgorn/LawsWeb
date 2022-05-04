@@ -1,1 +1,0 @@
-Loi d’urgence sur les approvisionnements d’énergie

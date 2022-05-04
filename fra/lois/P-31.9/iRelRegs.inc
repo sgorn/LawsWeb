@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Règlements pris en vertu de cette loi</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/fra/reglements/DORS-2011-170/index.html">Tribunal de la protection des fonctionnaires divulgateurs d’actes répréhensibles, Règles de pratique du</a> <span class="RelatedRegOrderNum">(DORS/2011-170)</span></li></ul>

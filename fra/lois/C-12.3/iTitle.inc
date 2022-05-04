@@ -1,1 +1,0 @@
-Déclaration canadienne des droits

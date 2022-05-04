@@ -1,1 +1,0 @@
-Loi sur les paiements versés en remplacement d’impôts

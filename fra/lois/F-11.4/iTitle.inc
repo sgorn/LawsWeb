@@ -1,1 +1,0 @@
-Loi sur l’indemnité aux déposants de certaines institutions financières

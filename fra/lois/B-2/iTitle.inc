@@ -1,1 +1,0 @@
-Loi sur la Banque du Canada

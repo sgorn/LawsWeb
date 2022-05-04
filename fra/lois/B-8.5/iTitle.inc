@@ -1,1 +1,0 @@
-Loi sur la Commission des traités de la Colombie-Britannique

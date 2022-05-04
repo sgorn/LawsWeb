@@ -1,1 +1,0 @@
-Loi sur l’immunité de la Banque des règlements internationaux

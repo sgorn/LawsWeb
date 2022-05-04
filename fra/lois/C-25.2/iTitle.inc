@@ -1,1 +1,0 @@
-Loi autorisant la Société de développement du Cap-Breton à aliéner ses biens et prévoyant la dissolution de celle-ci

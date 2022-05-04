@@ -1,1 +1,0 @@
-Loi visant à décourager les actes de terrorisme contre le Canada et les Canadiens

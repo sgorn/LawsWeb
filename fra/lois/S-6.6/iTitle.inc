@@ -1,1 +1,0 @@
-Loi sur l’autonomie gouvernementale de la bande indienne sechelte

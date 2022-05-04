@@ -1,1 +1,0 @@
-Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces

@@ -1,1 +1,0 @@
-Loi sur l’instrument multilatéral relatif aux conventions fiscales

@@ -1,1 +1,0 @@
-Loi sur les Naskapis et la Commission crie-naskapie

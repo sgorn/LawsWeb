@@ -1,1 +1,0 @@
-Loi concernant la « Buffalo and Fort Erie Public Bridge Company »

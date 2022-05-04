@@ -1,1 +1,0 @@
-Loi autorisant l’émission et la vente des actions de la Commission d’énergie du Nord canadien

@@ -1,1 +1,0 @@
-Loi sur l’Office d’investissement des régimes de pensions du secteur public

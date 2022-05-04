@@ -1,1 +1,0 @@
-Loi sur les prestations d’adaptation pour les travailleurs

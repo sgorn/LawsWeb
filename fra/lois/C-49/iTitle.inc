@@ -1,1 +1,0 @@
-Loi sur le paiement anticipé des récoltes

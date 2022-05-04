@@ -1,1 +1,0 @@
-Loi de 2013 sur la succession au trône

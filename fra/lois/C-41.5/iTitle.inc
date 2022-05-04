@@ -1,1 +1,0 @@
-Loi sur les coopératives de l’énergie
