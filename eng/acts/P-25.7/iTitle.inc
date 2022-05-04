@@ -1,1 +1,0 @@
-Protection of Residential Mortgage or Hypothecary Insurance Act

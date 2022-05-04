@@ -1,1 +1,0 @@
-Insurance Companies Act

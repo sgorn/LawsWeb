@@ -1,1 +1,0 @@
-Antarctic Environmental Protection Act

@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-2021-35/index.html">Canada Recovery Benefits Regulations</a> <span class="RelatedRegOrderNum">(SOR/2021-35)</span></li></ul>

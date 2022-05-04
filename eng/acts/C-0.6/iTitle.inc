@@ -1,1 +1,0 @@
-Canada-Argentina Income Tax Convention Act, 1994

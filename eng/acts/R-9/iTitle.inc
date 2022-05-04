@@ -1,1 +1,0 @@
-Royal Canadian Mint Act

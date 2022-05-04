@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SI-2015-35/index.html">Order Designating the Minister of Indian Affairs and Northern Development to be the Minister referred to in the Act</a> <span class="RelatedRegOrderNum">(SI/2015-35)</span></li></ul>

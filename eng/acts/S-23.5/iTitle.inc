@@ -1,1 +1,0 @@
-Succession to the Throne Act, 2013

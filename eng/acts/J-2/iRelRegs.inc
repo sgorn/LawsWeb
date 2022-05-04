@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-85-781/index.html">Canadian Charter of Rights and Freedoms Examination Regulations</a> <span class="RelatedRegOrderNum">(SOR/85-781)</span></li></ul>

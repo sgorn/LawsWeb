@@ -1,1 +1,0 @@
-College of Patent Agents and Trademark Agents Act

@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SI-2009-61/index.html">Certificates of Age and Origin for Distilled Spirits Produced or Packaged in Canada Order</a> <span class="RelatedRegOrderNum">(SI/2009-61)</span></li></ul>

@@ -1,1 +1,0 @@
-Tax-back Guarantee Act

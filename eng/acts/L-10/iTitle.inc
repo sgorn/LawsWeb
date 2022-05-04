@@ -1,1 +1,0 @@
-Livestock Feed Assistance Act

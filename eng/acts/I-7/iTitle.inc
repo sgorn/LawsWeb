@@ -1,1 +1,0 @@
-Indian Oil and Gas Act

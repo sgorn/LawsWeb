@@ -1,1 +1,0 @@
-British Columbia Treaty Commission Act

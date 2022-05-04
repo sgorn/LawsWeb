@@ -1,1 +1,0 @@
-Meat Inspection Act

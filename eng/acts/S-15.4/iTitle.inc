@@ -1,1 +1,0 @@
-Spending Control Act

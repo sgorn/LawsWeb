@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-95-538/index.html">Consular Services Fees Regulations</a> <span class="RelatedRegOrderNum">(SOR/95-538)</span></li></ul>

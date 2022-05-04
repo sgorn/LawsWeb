@@ -1,1 +1,0 @@
-Newfoundland and Labrador Additional Financial Assistance Act

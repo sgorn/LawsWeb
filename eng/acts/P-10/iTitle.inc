@@ -1,1 +1,0 @@
-Pesticide Residue Compensation Act

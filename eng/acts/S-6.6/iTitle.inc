@@ -1,1 +1,0 @@
-Sechelt Indian Band Self-Government Act

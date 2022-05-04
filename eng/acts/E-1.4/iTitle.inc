@@ -1,1 +1,0 @@
-Economic Recovery Act (stimulus)

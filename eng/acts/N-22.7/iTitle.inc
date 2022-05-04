@@ -1,1 +1,0 @@
-An Act to confirm an Agreement between the Government of Canada and the Government of the Province of New Brunswick respecting Indian Reserves

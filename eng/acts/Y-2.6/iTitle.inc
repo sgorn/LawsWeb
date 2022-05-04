@@ -1,1 +1,0 @@
-Yukon First Nations Self-Government Act

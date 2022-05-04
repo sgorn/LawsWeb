@@ -1,1 +1,0 @@
-James Bay and Northern Quebec Native Claims Settlement Act

@@ -1,1 +1,0 @@
-Children of Deceased Veterans Education Assistance Act

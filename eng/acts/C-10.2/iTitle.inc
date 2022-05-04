@@ -1,1 +1,0 @@
-Canada Small Business Financing Act

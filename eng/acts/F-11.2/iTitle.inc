@@ -1,1 +1,0 @@
-An Act to amend, enact and repeal certain laws relating to financial institutions

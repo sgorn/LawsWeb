@@ -1,1 +1,0 @@
-An Act respecting the office of the Director of Public Prosecutions

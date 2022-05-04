@@ -1,1 +1,0 @@
-Workers Mourning Day Act

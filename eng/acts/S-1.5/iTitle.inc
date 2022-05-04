@@ -1,1 +1,0 @@
-Sahtu Dene and Metis Land Claim Settlement Act

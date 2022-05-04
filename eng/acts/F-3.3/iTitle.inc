@@ -1,1 +1,0 @@
-Farm Income Protection Act

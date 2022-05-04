@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-2018-108/index.html">Safe Food for Canadians Regulations</a> <span class="RelatedRegOrderNum">(SOR/2018-108)</span></li></ul>

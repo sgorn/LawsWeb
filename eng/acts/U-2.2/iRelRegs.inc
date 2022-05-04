@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SI-2021-37/index.html">Order Designating the Minister of Justice as the Minister for the Purposes of that Act</a> <span class="RelatedRegOrderNum">(SI/2021-37)</span></li></ul>

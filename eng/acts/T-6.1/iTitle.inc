@@ -1,1 +1,0 @@
-Telesat Canada Reorganization and Divestiture Act

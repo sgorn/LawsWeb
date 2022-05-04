@@ -1,1 +1,0 @@
-An Act respecting the Hudson Bay Mining and Smelting Co., Limited

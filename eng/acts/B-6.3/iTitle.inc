@@ -1,1 +1,0 @@
-Borrowing Authority Act

@@ -1,1 +1,0 @@
-The British Columbia Indian Lands Settlement Act

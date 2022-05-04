@@ -1,1 +1,0 @@
-SEALS ACT

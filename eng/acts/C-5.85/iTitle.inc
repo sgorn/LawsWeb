@@ -1,1 +1,0 @@
-Canada-Germany Tax Agreement Act, 1982

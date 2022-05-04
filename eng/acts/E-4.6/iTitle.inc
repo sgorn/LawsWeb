@@ -1,1 +1,0 @@
-Emergency Preparedness Act

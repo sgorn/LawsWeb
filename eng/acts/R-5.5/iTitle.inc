@@ -1,1 +1,0 @@
-Representation Act, 1974

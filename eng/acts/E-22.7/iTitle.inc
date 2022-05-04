@@ -1,1 +1,0 @@
-Extractive Sector Transparency Measures Act

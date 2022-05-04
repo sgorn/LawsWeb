@@ -1,1 +1,0 @@
-Government Employees Compensation Act

@@ -1,1 +1,0 @@
-Canadian Payments Act

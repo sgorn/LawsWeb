@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-92-520/index.html">Merchant Seamen Compensation Order, 1992</a> <span class="RelatedRegOrderNum">(SOR/92-520)</span></li></ul>

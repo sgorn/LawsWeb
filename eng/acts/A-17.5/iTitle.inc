@@ -1,1 +1,0 @@
-An Act to confirm the authority of the Federal District Commission to have acquired certain lands

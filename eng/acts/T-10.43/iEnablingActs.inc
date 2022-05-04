@@ -1,1 +1,0 @@
-THE LOAN ACT, 1936

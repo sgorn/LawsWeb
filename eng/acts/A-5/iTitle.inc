@@ -1,1 +1,0 @@
-Agricultural Products Cooperative Marketing Act

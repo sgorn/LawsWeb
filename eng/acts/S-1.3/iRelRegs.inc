@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-2002-76/index.html">Marine Activities in the Saguenay-St. Lawrence Marine Park Regulations</a> <span class="RelatedRegOrderNum">(SOR/2002-76)</span></li></ul>

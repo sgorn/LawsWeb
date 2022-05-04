@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-88-518/index.html">Eldorado Nuclear Limited Exemption Order</a> <span class="RelatedRegOrderNum">(SOR/88-518)</span></li></ul>

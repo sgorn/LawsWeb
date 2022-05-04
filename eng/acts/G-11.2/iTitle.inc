@@ -1,1 +1,0 @@
-An Act to authorize the granting of an immediate annuity to the Honourable Mr. Justice Donald Raymond Morand

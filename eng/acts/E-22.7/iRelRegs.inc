@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SI-2015-39/index.html">Order Designating the Minister of Natural Resources to be the Minister for the purpose of the Act</a> <span class="RelatedRegOrderNum">(SI/2015-39)</span></li></ul>

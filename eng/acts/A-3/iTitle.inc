@@ -1,1 +1,0 @@
-Agricultural and Rural Development Act (ARDA)

@@ -1,1 +1,0 @@
-Integrated Circuit Topography Act

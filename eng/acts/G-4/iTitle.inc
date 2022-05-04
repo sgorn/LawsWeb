@@ -1,1 +1,0 @@
-Government Corporations Operation Act

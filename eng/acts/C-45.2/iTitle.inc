@@ -1,1 +1,0 @@
-Corruption of Foreign Public Officials Act

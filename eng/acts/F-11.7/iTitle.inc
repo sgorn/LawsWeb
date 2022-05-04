@@ -1,1 +1,0 @@
-An Act respecting first nations goods and services tax

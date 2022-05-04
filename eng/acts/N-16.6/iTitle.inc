@@ -1,1 +1,0 @@
-National Security and Intelligence Committee of Parliamentarians Act

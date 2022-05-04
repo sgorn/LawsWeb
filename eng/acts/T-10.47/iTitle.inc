@@ -1,1 +1,0 @@
-The Manitoba Natural Resources Act

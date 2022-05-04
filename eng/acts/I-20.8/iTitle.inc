@@ -1,1 +1,0 @@
-Internment of Persons of Ukrainian Origin Recognition Act

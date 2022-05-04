@@ -1,1 +1,0 @@
-Canadair Limited Divestiture Authorization Act

@@ -1,1 +1,0 @@
-Consumer Packaging and Labelling Act

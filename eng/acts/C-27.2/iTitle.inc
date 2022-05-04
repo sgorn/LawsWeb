@@ -1,1 +1,0 @@
-An Act respecting the Caughnawaga Indian Reserve and to amend the Indian Act

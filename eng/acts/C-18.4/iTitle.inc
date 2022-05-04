@@ -1,1 +1,0 @@
-Canadian Jewish Heritage Month Act

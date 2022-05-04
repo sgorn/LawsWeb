@@ -1,1 +1,0 @@
-Garnishment, Attachment and Pension Diversion Act

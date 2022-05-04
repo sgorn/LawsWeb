@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-86-1049/index.html">Energy Administration Act Sections 53 to 65 Non-application Order, 1986</a> <span class="RelatedRegOrderNum">(SOR/86-1049)</span></li></ul>

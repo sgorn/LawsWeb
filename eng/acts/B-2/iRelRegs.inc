@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-89-298/index.html">Bank of Canada Notes Regulations</a> <span class="RelatedRegOrderNum">(SOR/89-298)</span></li></ul>

@@ -1,1 +1,0 @@
-Canada–Mexico Tax Convention Act, 2006

@@ -1,1 +1,0 @@
-Regional Development Incentives Act

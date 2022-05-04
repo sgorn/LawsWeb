@@ -1,1 +1,0 @@
-Farm Products Agencies Act

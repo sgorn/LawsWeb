@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/C.R.C.,_c._982/index.html">International River Improvements Regulations</a> <span class="RelatedRegOrderNum">(C.R.C., c. 982)</span></li></ul>

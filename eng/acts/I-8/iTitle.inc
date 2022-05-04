@@ -1,1 +1,0 @@
-Industrial and Regional Development Act

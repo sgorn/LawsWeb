@@ -1,1 +1,0 @@
-Weights and Measures Act

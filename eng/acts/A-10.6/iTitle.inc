@@ -1,1 +1,0 @@
-Alberta Natural Resources Act

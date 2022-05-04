@@ -1,1 +1,0 @@
-Manitoba Claim Settlement Implementation Act (Norway House Cree Nation)

@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-2011-170/index.html">Public Servants Disclosure Protection Tribunal Rules of Procedure</a> <span class="RelatedRegOrderNum">(SOR/2011-170)</span></li></ul>

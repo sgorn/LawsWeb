@@ -1,1 +1,0 @@
-An Act respecting the Government House property, Toronto

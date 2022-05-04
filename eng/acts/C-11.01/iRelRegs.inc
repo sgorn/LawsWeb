@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-2021-275/index.html">Lockdown Regions Designation Order (COVID-19)</a> <span class="RelatedRegOrderNum">(SOR/2021-275)</span></li></ul>

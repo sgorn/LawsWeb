@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-93-612/index.html">Privileges and Immunities of the European Bank for Reconstruction and Development Order</a> <span class="RelatedRegOrderNum">(SOR/93-612)</span></li></ul>

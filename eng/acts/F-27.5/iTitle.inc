@@ -1,1 +1,0 @@
-Department of Foreign Affairs, Trade and Development Act

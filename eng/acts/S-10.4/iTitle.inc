@@ -1,1 +1,0 @@
-Sir John A. Macdonald Day and the Sir Wilfrid Laurier Day Act

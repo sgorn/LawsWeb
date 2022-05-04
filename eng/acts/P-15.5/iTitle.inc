@@ -1,1 +1,0 @@
-An Act respecting certain postal rates

@@ -1,1 +1,0 @@
-Canada — United Arab Emirates Tax Convention Act, 2002

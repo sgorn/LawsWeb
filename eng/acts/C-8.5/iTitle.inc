@@ -1,1 +1,0 @@
-Canada Petroleum Resources Act

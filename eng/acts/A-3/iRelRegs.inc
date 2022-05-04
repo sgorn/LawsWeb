@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SI-90-33/index.html">Order Designating the Minister of Industry, Science and Technology as Minister for Purposes of the Act</a> <span class="RelatedRegOrderNum">(SI/90-33)</span></li></ul>

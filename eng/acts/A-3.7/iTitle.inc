@@ -1,1 +1,0 @@
-Agricultural Marketing Programs Act

@@ -1,1 +1,0 @@
-Supplementary Fiscal Equalization Payments 1982-87 Act

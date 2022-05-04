@@ -1,1 +1,0 @@
-EXCISE TAX ACT

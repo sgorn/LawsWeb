@@ -1,1 +1,0 @@
-An Act to establish the Corporation for the Mitigation of Mackenzie Gas Project Impacts

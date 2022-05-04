@@ -1,1 +1,0 @@
-Campobello-Lubec Bridge Act

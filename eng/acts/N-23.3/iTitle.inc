@@ -1,1 +1,0 @@
-Nisga’a Final Agreement Act

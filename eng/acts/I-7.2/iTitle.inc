@@ -1,1 +1,0 @@
-An Act for the settlement of certain questions between the Governments of Canada and Ontario respecting Indian Reserve Lands

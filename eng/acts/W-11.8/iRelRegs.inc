@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-2005-106/index.html">Application of Concessions On Imports of Certain Products Originating in the United States, Order Suspending the</a> <span class="RelatedRegOrderNum">(SOR/2005-106)</span></li></ul>

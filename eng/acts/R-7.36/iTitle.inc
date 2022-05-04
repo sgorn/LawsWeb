@@ -1,1 +1,0 @@
-Retail Payment Activities Act

@@ -1,1 +1,0 @@
-Canadian Ownership and Control Determination Act

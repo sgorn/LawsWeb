@@ -1,1 +1,0 @@
-Canada — Kuwait Tax Agreement Act, 2002

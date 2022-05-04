@@ -1,1 +1,0 @@
-Mackenzie Gas Project Impacts Fund Act

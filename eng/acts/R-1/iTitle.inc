@@ -1,1 +1,0 @@
-Radiation Emitting Devices Act

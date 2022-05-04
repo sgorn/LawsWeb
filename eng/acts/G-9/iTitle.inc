@@ -1,1 +1,0 @@
-Governor General’s Act

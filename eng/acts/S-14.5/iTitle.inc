@@ -1,1 +1,0 @@
-Special Economic Measures Act

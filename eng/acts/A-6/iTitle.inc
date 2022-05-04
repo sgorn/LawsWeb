@@ -1,1 +1,0 @@
-Agricultural Products Marketing Act

@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/C.R.C.,_c._1021/index.html">Lands Surveys Tariff</a> <span class="RelatedRegOrderNum">(C.R.C., c. 1021)</span></li></ul>

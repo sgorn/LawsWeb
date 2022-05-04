@@ -1,1 +1,0 @@
-<br><h2 id="r3lR3g" class="relatedInfo">Regulations made under this Act</h2><ul class="TocIndent"><li class="liGold"><a class="boldLink" href="/eng/regulations/SOR-87-196/index.html">Canadian Arsenals Limited Pension Protection Regulations</a> <span class="RelatedRegOrderNum">(SOR/87-196)</span></li></ul>

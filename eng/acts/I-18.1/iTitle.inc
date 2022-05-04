@@ -1,1 +1,0 @@
-An Act concerning an order under the International Development (Financial Institutions) Assistance Act

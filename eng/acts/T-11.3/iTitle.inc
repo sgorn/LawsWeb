@@ -1,1 +1,0 @@
-Tlicho Land Claims and Self-Government Act

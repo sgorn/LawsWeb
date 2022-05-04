@@ -1,1 +1,0 @@
-Department of Natural Resources Act

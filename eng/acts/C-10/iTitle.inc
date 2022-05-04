@@ -1,1 +1,0 @@
-Canada Post Corporation Act

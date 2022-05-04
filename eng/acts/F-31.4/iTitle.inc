@@ -1,1 +1,0 @@
-Fort Nelson Indian Reserve Minerals Revenue Sharing Act

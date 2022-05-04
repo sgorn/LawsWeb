@@ -1,1 +1,0 @@
-<ol class="breadcrumb"><li><a href="http://www.justice.gc.ca/eng">Home</a></li><li><a href="/eng">Laws Website Home</a></li><li><a href="/eng/acts/">Consolidated Acts</a></li><li><a href="index.html">Agreements and Conventions - &#x00A0;Table of Contents</a></li> <li>Agreements and Conventions</li></ol>

@@ -1,1 +1,0 @@
-Indian (Soldier Settlement) Act

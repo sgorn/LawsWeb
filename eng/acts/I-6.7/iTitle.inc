@@ -1,1 +1,0 @@
-Indian Lands Agreement (1986) Act

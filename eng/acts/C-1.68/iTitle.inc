@@ -1,1 +1,0 @@
-Canada Consumer Product Safety Act

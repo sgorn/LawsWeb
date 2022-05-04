@@ -1,1 +1,0 @@
-Canada Oil and Gas Operations Act

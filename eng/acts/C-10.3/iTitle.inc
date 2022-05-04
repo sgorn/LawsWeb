@@ -1,1 +1,0 @@
-Canada Strategic Infrastructure Fund Act

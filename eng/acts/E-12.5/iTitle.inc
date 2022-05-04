@@ -1,1 +1,0 @@
-Environmental Violations Administrative Monetary Penalties Act

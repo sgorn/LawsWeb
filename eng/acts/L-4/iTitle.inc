@@ -1,1 +1,0 @@
-Fair Wages and Hours of Labour Act
