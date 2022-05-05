@@ -1,1 +1,0 @@
-Loi visant la délivrance simple et sécuritaire des permis d’armes à feu

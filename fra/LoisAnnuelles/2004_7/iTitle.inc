@@ -1,1 +1,0 @@
-Loi modifiant la Loi sur le Parlement du Canada (conseiller sénatorial en éthique et commissaire à l’éthique) et certaines lois en conséquence

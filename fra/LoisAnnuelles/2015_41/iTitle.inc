@@ -1,1 +1,0 @@
-Loi modifiant la Loi de l’impôt sur le revenu (exigences applicables aux organisations ouvrières)

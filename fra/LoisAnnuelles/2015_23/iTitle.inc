@@ -1,1 +1,0 @@
-Loi sur le renforcement des peines pour les prédateurs d’enfants

@@ -1,1 +1,0 @@
-Loi visant à accroître la responsabilité de la Gendarmerie royale du Canada

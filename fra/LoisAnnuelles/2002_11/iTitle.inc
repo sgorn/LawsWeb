@@ -1,1 +1,0 @@
-Cheval national du Canada, Loi sur le

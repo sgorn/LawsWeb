@@ -1,1 +1,0 @@
-Loi modifiant la Loi sur les Indiens pour donner suite à la décision de la Cour supérieure du Québec dans l’affaire Descheneaux c. Canada (Procureur général)

@@ -1,1 +1,0 @@
-Loi canadienne sur la sécurité des produits de consommation

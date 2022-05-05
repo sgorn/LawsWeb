@@ -1,1 +1,0 @@
-Loi sur la protection du banc de Georges

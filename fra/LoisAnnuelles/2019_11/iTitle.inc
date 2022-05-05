@@ -1,1 +1,0 @@
-Loi visant à mettre fin à la captivité des baleines et des dauphins

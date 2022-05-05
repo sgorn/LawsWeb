@@ -1,1 +1,0 @@
-Loi visant à combattre la corruption transnationale

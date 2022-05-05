@@ -1,1 +1,0 @@
-Loi modifiant la Loi sur les conventions de Genève, la Loi constituant en corporation la Canadian Red Cross Society et la Loi sur les marques de commerce

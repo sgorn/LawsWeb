@@ -1,1 +1,0 @@
-Loi modifiant la Loi sur la sûreté et la réglementation nucléaires

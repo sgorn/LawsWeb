@@ -1,1 +1,0 @@
-Loi modifiant la Loi électorale du Canada (vérification de résidence)

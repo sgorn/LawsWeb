@@ -1,1 +1,0 @@
-Impôt sur le revenu, Loi de 2000 modifiant l’

@@ -1,1 +1,0 @@
-Loi sur les restrictions applicables aux promoteurs du crédit d’impôt pour personnes handicapées

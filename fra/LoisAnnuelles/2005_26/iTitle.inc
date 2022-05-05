@@ -1,1 +1,0 @@
-Loi sur l’Agence de développement économique du Canada pour les régions du Québec

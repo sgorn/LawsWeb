@@ -1,1 +1,0 @@
-Kanesatake, Loi sur le gouvernement du territoire provisoire de

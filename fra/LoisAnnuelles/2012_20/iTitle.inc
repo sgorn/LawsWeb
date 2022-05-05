@@ -1,1 +1,0 @@
-Loi sur la modernisation du droit d’auteur

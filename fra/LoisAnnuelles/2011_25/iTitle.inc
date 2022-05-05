@@ -1,1 +1,0 @@
-Loi sur le libre choix des producteurs de grains en matière de commercialisation

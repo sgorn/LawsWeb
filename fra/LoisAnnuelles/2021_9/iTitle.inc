@@ -1,1 +1,0 @@
-Loi instituant la Semaine de la gentillesse

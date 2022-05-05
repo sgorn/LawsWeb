@@ -1,1 +1,0 @@
-Loi donnant suite à la décision de la Cour suprême du Canada dans l’affaire R. c. Shoker

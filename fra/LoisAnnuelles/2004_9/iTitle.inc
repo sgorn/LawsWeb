@@ -1,1 +1,0 @@
-Loi modifiant la Loi sur les produits dangereux (cigarettes à inflammabilité réduite)

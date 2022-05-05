@@ -1,1 +1,0 @@
-Loi sur le Mois du patrimoine latino-américain

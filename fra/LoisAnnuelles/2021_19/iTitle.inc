@@ -1,1 +1,0 @@
-Loi relative au cadre national sur le diabète

@@ -1,1 +1,0 @@
-Loi sur la Journée des anciens combattants de la guerre de Corée

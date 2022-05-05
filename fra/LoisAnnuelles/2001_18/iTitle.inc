@@ -1,1 +1,0 @@
-Loi modifiant la Loi sur la réorganisation et l’aliénation de Eldorado Nucléaire Limitée et la Loi sur la participation publique au capital de Petro-Canada

@@ -1,1 +1,0 @@
-Loi modifiant le Code criminel (méfaits à l’égard des monuments commémoratifs de guerre)

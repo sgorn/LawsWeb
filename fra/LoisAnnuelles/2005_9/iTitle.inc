@@ -1,1 +1,0 @@
-Loi sur la gestion financière et statistique des premières nations

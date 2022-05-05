@@ -1,1 +1,0 @@
-Loi modifiant la Loi sur la taxe d’accise (suppression de la taxe d’accise sur les bijoux)

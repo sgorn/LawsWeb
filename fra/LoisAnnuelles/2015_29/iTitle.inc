@@ -1,1 +1,0 @@
-Loi sur la tolérance zéro face aux pratiques culturelles barbares

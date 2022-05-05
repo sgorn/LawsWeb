@@ -1,1 +1,0 @@
-Journée Sir John A. Macdonald et la Journée Sir Wilfrid Laurier, Loi sur la

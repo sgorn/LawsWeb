@@ -1,1 +1,0 @@
-Loi sur l’accord sur les revendications territoriales concernant la région marine d’Eeyou

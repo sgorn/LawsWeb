@@ -1,1 +1,0 @@
-<ol class="breadcrumb"><li><a href="http://www.justice.gc.ca/fra">Accueil</a></li><li><a href="/fra">Site Web de la législation accueil</a></li><li><a href="index.html">LOIS CONSTITUTIONNELLES DE 1867 à 1982 (RAPPORT DE 1990) - &#x00A0;Table des matières</a></li></ol>

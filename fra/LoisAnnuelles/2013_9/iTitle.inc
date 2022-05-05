@@ -1,1 +1,0 @@
-Loi sur la lutte contre le terrorisme

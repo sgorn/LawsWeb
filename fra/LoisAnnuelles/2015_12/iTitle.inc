@@ -1,1 +1,0 @@
-Loi sur la réduction de la paperasse

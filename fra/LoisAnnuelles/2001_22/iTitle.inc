@@ -1,1 +1,0 @@
-Loi modifiant la Loi sur la Société du crédit agricole et d’autres lois en conséquence

@@ -1,1 +1,0 @@
-Loi modifiant la Loi sur les aliments et drogues

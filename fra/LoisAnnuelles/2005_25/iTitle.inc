@@ -1,1 +1,0 @@
-Loi modifiant le Code criminel, la Loi sur l’identification par les empreintes génétiques et la Loi sur la défense nationale

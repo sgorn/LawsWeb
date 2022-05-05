@@ -1,1 +1,0 @@
-Loi sur le ministère des Ressources humaines et du Développement des compétences

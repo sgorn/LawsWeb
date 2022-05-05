@@ -1,1 +1,0 @@
-Loi modifiant la Loi sur l’évaluation environnementale et socioéconomique au Yukon et modifiant une autre loi en conséquence

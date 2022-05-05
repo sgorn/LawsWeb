@@ -1,1 +1,0 @@
-Loi sur la Bibliothèque et les Archives du Canada

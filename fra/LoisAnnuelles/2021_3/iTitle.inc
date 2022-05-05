@@ -1,1 +1,0 @@
-Loi modifiant la Loi sur l’assurance-emploi (prestations régulières supplémentaires), la Loi sur les prestations canadiennes de relance économique (restriction de l’admissibilité) et une autre loi en réponse à la COVID-19

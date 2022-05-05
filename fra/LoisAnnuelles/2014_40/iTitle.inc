@@ -1,1 +1,0 @@
-Loi sur le droit de vote des employés

@@ -1,1 +1,0 @@
-Loi modifiant la Loi sur les Cris et les Naskapis du Québec

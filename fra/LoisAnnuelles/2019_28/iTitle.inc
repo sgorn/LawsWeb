@@ -1,1 +1,0 @@
-Loi édictant la Loi sur l’évaluation d’impact et la Loi sur la Régie canadienne de l’énergie, modifiant la Loi sur la protection de la navigation et apportant des modifications corrélatives à d’autres lois

@@ -1,1 +1,0 @@
-Loi modifiant certains textes législatifs et abrogeant la Loi sur le soutien des prix des produits de la pêche

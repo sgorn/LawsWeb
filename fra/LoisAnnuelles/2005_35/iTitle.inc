@@ -1,1 +1,0 @@
-Loi sur le ministère du Développement social

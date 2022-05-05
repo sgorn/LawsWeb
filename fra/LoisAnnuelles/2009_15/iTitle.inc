@@ -1,1 +1,0 @@
-Loi visant à accroître la disponibilité des prêts agricoles et abrogeant la Loi sur les prêts destinés aux améliorations agricoles

@@ -1,1 +1,0 @@
-Loi modifiant certaines lois fédérales et édictant des mesures de mise en oeuvre de la convention sur les armes biologiques ou à toxines, en vue de renforcer la sécurité publique

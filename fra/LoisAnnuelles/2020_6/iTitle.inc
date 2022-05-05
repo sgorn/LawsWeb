@@ -1,1 +1,0 @@
-Loi n<Sup>o</Sup> 2 sur les mesures d’urgence visant la COVID-19

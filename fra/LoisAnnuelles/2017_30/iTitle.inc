@@ -1,1 +1,0 @@
-Loi reconnaissant Charlottetown comme le berceau de la Confédération

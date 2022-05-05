@@ -1,1 +1,0 @@
-Loi sur la justice pour les animaux qui fournissent de l’assistance (Loi de Quanto)

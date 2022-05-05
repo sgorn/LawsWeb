@@ -1,1 +1,0 @@
-Loi de mise en oeuvre de l’Accord de partenariat transpacifique global et progressiste

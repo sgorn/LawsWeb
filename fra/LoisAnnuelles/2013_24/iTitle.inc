@@ -1,1 +1,0 @@
-Loi visant à renforcer la justice militaire pour la défense du Canada

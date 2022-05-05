@@ -1,1 +1,0 @@
-Loi modifiant la Loi sur la gestion des finances publiques, la Loi sur l’École de la fonction publique du Canada et la Loi sur les langues officielles

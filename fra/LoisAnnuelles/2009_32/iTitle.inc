@@ -1,1 +1,0 @@
-Loi sur le cadre du choix provincial en matière fiscale

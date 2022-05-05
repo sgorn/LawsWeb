@@ -1,1 +1,0 @@
-Loi modifiant la Loi sur le droit d’auteur (accès des personnes ayant des déficiences perceptuelles aux oeuvres ou autres objets du droit d’auteur protégés)

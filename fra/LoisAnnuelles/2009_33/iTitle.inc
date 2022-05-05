@@ -1,1 +1,0 @@
-Loi sur l’équité pour les travailleurs indépendants

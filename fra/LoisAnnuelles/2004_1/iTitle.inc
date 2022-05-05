@@ -1,1 +1,0 @@
-Loi sur la date de prise d'effet du décret de représentation électorale de 2003

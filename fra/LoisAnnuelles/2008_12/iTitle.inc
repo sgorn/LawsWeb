@@ -1,1 +1,0 @@
-Loi modifiant le Code criminel (cruauté envers les animaux)

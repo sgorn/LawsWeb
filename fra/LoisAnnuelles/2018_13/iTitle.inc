@@ -1,1 +1,0 @@
-Loi sur le cadre fédéral relatif à l’état de stress post-traumatique

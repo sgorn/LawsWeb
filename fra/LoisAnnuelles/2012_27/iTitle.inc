@@ -1,1 +1,0 @@
-Loi visant à aider les familles dans le besoin

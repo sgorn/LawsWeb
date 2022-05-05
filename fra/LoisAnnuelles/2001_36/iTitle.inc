@@ -1,1 +1,0 @@
-Loi modifiant la Loi sur le Parlement du Canada (poète officiel du Parlement)

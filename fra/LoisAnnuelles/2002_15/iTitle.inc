@@ -1,1 +1,0 @@
-Sanction roya<?Pub Caret?>le, Loi sur la

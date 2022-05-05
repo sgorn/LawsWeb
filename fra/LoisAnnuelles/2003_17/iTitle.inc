@@ -1,1 +1,0 @@
-Loi instituant la Journée des anciens combattants de la marine marchande

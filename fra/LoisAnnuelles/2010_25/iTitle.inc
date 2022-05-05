@@ -1,1 +1,0 @@
-Loi de soutien de la reprise économique au Canada

@@ -1,1 +1,0 @@
-Loi autorisant le ministre des Finances à faire certains versements

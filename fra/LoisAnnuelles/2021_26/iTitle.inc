@@ -1,1 +1,0 @@
-Loi visant à fournir un soutien supplémentaire en réponse à la COVID-19

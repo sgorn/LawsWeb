@@ -1,1 +1,0 @@
-Loi modifiant la Loi canadienne sur les droits de la personne (protection des libertés)

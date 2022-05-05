@@ -1,1 +1,0 @@
-Loi modifiant la Loi sur la sécurité de la vieillesse (Supplément de revenu garanti)

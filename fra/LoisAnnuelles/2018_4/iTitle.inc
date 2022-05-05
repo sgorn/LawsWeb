@@ -1,1 +1,0 @@
-L<?Pub Caret?>oi portant mise en vigueur de l’Entente sur la gouvernance de la nation crie entre les Cris d’Eeyou Istchee et le gouvernement du Canada, modifiant la Loi sur les Cris et les Naskapis du Québec et apportant des modifications connexes et corrélatives à d’autres lois

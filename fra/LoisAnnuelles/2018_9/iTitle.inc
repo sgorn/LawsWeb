@@ -1,1 +1,0 @@
-Loi modifiant la Loi sur le tabac, la Loi sur la santé des non-fumeurs et d’autres lois en conséquence

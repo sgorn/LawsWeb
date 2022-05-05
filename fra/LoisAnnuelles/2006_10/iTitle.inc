@@ -1,1 +1,0 @@
-Loi sur la compétence des premières nations en matière d’éducation en Colombie-Britannique,

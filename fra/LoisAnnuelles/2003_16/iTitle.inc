@@ -1,1 +1,0 @@
-Loi modifiant la Loi sur les allocations de retraite des parlementaires et la Loi sur le Parlement du Canada

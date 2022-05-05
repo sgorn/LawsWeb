@@ -1,1 +1,0 @@
-Loi modifiant la Loi sur la gestion des finances publiques (mandat spécial)
