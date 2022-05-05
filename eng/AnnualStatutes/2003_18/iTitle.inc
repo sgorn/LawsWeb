@@ -1,1 +1,0 @@
-An Act to amend the Statutory Instruments Act (disallowance procedure for regulations)

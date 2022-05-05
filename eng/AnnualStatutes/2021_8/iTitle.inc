@@ -1,1 +1,0 @@
-An Act to amend the Judges Act and the Criminal Code

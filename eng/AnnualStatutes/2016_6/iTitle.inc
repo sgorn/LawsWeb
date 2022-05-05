@@ -1,1 +1,0 @@
-Appropriation Act No. 3, 2016–17

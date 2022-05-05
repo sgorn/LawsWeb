@@ -1,1 +1,0 @@
-Anti-terrorism Act, 2015

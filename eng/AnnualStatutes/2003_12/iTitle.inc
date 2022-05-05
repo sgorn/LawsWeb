@@ -1,1 +1,0 @@
-An Act to amend the Pension Act and the Royal Canadian Mounted Police Superannuation Act

@@ -1,1 +1,0 @@
-Journalistic Sources Protection Act

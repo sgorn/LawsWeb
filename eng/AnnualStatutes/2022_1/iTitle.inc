@@ -1,1 +1,0 @@
-An Act to amend the Old Age Security Act (Guaranteed Income Supplement)

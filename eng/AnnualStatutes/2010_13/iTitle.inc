@@ -1,1 +1,0 @@
-Celebrating Canada’s Seniors Act

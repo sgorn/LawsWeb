@@ -1,1 +1,0 @@
-An Act to authorize the Minister of Finance to make certain payments

@@ -1,1 +1,0 @@
-Olympic and Paralympic Marks Act

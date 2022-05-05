@@ -1,1 +1,0 @@
-An Act to amend the Export and Import Permits Act and the Criminal Code (amendments permitting the accession to the Arms Trade Treaty and other amendments)

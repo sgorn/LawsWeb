@@ -1,1 +1,0 @@
-Freezing Assets of Corrupt Foreign Officials Act

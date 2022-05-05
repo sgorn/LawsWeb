@@ -1,1 +1,0 @@
-Latin American Heritage Month Act

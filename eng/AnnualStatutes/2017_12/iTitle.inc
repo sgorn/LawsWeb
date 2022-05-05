@@ -1,1 +1,0 @@
-An Act to amend the Canada Labour Code, the Parliamentary Employment and Staff Relations Act, the Public Service Labour Relations Act and the Income Tax Act

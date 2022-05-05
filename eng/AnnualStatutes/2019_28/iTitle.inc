@@ -1,1 +1,0 @@
-An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts

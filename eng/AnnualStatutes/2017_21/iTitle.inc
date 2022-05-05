@@ -1,1 +1,0 @@
-Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law)

@@ -1,1 +1,0 @@
-An Act respecting further COVID-19 measures

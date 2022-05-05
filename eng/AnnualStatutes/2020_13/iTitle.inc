@@ -1,1 +1,0 @@
-An Act to amend the Income Tax Act (Canada Emergency Rent Subsidy and Canada Emergency Wage Subsidy)

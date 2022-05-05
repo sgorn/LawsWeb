@@ -1,1 +1,0 @@
-An Act to amend the Foreign Missions and International Organizations Act

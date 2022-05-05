@@ -1,1 +1,0 @@
-An Act to provide further support in response to COVID-19

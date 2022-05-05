@@ -1,1 +1,0 @@
-An Act to give effect to the Westbank First Nation Self Government Agreement

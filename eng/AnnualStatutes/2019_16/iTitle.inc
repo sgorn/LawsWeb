@@ -1,1 +1,0 @@
-An Act to amend the Divorce Act, the Family Orders and Agreements Enforcement Assistance Act and the Garnishment, Attachment and Pension Diversion Act and to make consequential amendments to another Act

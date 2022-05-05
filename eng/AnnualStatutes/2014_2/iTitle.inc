@@ -1,1 +1,0 @@
-<?Pub Caret1?>Northwest Territories Devolution Act

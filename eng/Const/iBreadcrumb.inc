@@ -1,1 +1,0 @@
-<ol class="breadcrumb"><li><a href="http://www.justice.gc.ca/eng">Home</a></li><li><a href="/eng">Laws Website Home</a></li><li><a href="index.html">THE CONSTITUTION ACTS, 1867 to 1982 - &#x00A0;Table of Contents</a></li></ol>

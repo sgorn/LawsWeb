@@ -1,1 +1,0 @@
-Security of Tenure of Military Judges Act

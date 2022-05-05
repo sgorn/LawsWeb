@@ -1,1 +1,0 @@
-Claim Settlements (Alberta and Saskatchewan) Implementation Act

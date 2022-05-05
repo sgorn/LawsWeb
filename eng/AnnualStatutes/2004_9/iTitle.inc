@@ -1,1 +1,0 @@
-An Act to amend the Hazardous Products Act (fire-safe cigarettes)

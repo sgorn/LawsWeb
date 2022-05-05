@@ -1,1 +1,0 @@
-An Act to amend the Quarantine Act

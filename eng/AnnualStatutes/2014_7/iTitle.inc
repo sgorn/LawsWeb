@@ -1,1 +1,0 @@
-Disability Tax Credit Promoters Restrictions Act

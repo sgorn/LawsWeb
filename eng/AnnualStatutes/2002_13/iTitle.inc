@@ -1,1 +1,0 @@
-Criminal Law Amendment Act, 2001

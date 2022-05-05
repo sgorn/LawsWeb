@@ -1,1 +1,0 @@
-Sikh Heritage Month Act

@@ -1,1 +1,0 @@
-An Act to amend the Telefilm Canada Act and another Act

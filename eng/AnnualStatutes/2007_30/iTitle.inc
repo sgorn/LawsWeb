@@ -1,1 +1,0 @@
-Kyoto Protocol Implementation Act

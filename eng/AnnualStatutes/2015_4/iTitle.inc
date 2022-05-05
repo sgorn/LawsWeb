@@ -1,1 +1,0 @@
-Energy Safety and Security Act

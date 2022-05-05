@@ -1,1 +1,0 @@
-Heritage Lighthouse Protection Act

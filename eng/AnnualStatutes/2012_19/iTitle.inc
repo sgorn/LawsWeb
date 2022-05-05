@@ -1,1 +1,0 @@
-Jobs, Growth and Long-term Prosperity Act

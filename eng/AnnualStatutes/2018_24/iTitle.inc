@@ -1,1 +1,0 @@
-An Act to amend the Federal Public Sector Labour Relations Act and other Acts

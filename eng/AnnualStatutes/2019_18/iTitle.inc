@@ -1,1 +1,0 @@
-An Act to amend the Access to Information Act and the Privacy Act and to make consequential amendments to other Acts

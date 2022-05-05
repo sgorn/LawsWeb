@@ -1,1 +1,0 @@
-An Act to amend certain Acts and Regulations in relation to firearms

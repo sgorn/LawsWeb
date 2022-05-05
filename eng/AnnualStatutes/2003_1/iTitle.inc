@@ -1,1 +1,0 @@
-An Act to amend the Nuclear Safety and Control Act

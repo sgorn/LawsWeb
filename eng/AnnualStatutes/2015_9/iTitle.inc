@@ -1,1 +1,0 @@
-Protection of Canada from Terrorists Act

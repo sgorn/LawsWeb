@@ -1,1 +1,0 @@
-An Act to establish the Library and Archives of Canada, to amend the Copyright Act and to amend certain Acts in consequence

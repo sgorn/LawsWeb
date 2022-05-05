@@ -1,1 +1,0 @@
-An Act to amend the International Boundary Waters Treaty Act

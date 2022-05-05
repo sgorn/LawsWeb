@@ -1,1 +1,0 @@
-Canada–Madagascar Tax Convention Act, 2018

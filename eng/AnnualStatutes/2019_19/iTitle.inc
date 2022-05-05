@@ -1,1 +1,0 @@
-An Act to amend the Mackenzie Valley Resource Management Act and the Canada Petroleum Resources Act and to make consequential amendments to other Acts

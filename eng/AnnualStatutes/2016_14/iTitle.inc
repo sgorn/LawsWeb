@@ -1,1 +1,0 @@
-An Act to amend the Canada Pension Plan, the Canada Pension Plan Investment Board Act and the Income Tax Act

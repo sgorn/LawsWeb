@@ -1,1 +1,0 @@
-National Philanthropy Day Act

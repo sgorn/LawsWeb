@@ -1,1 +1,0 @@
-An Act to amend the Excise Tax Act (elimination of excise tax on jewellery)

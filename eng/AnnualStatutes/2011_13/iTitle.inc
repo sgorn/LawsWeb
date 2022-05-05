@@ -1,1 +1,0 @@
-National Holocaust Monument Act

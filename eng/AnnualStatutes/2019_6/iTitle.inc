@@ -1,1 +1,0 @@
-An Act to amend the Canada-Israel Free Trade Agreement Implementation Act and to make related amendments to other Acts

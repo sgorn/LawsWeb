@@ -1,1 +1,0 @@
-An Act to amend the Criminal Code (kidnapping of young person)

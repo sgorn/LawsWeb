@@ -1,1 +1,0 @@
-Combating Counterfeit Products Act

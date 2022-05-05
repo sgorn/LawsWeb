@@ -1,1 +1,0 @@
-Nááts’ihch’oh National Park Reserve Act

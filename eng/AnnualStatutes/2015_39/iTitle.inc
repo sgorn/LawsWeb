@@ -1,1 +1,0 @@
-Georges Bank Protection Act

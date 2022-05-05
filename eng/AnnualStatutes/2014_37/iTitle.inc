@@ -1,1 +1,0 @@
-Federal Framework on Lyme Disease Act

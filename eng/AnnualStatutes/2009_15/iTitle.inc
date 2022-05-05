@@ -1,1 +1,0 @@
-An Act to increase the availability of agricultural loans and to repeal the Farm Improvement Loans Act

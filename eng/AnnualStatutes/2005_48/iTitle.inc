@@ -1,1 +1,0 @@
-First Nations Oil and Gas and Moneys Management Act
