@@ -1,0 +1,9 @@
+[submodule "eng"]
+	path = eng
+	url = https://github.com/sgorn/LawsWebEng.git
+[submodule "fra"]
+	path = fra
+	url = https://github.com/sgorn/LawsWebFra.git
+[submodule "pdf"]
+	path = pdf
+	url = https://github.com/sgorn/LawsWebPDF.git
