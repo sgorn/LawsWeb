@@ -10,10 +10,13 @@
 <meta content="width=device-width,initial-scale=1" name="viewport">
 <!-- Meta data -->
 <meta name="robots" content="noindex, nofollow, noarchive">
+<meta property="dcterms:accessRights" content="2"/>
+<meta property="dcterms:service" content="JUS-Laws_Lois"/>
 <!-- Meta data-->
 <!--[if gte IE 9 | !IE ]><!-->
 <link href="/theme-gcwu-fegc/assets/favicon.ico" rel="icon" type="image/x-icon">
 <link rel="stylesheet" href="/theme-gcwu-fegc/css/theme-srv.min.css">
+<script src="//assets.adobedtm.com/be5dfd287373/bb72b7edd313/launch-e34f760eaec8.min.js"></script>
 <!--<![endif]-->
 <!--[if lt IE 9]>
 <link href="/theme-gcwu-fegc/assets/favicon.ico" rel="shortcut icon" />

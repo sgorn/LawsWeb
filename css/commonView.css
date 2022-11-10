@@ -1728,7 +1728,7 @@ Related Regs list popup for by title pages.
   padding: 5px 0;
   position: inherit;
   font-size: 13px;
-  margin-top : 0.5em;
+  margin-top : 1.5em;
 }
 
 .popuptext a:link{
@@ -1790,7 +1790,7 @@ Top bar popup for act pages includeds buttons
 	padding : 3pt;
 	background: #146094;
 	font-size : 90%;
-	position: sticky !important;;
+	position: sticky !important;
 }
 
 .top-bar-content .fileSize{
@@ -1812,9 +1812,33 @@ Top bar popup for act pages includeds buttons
 	padding-left			: 2em;
 }
 
+/*
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Waiting GIF for API calls on by title pages.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%*/
 
 
+.waitingGIF {
+    display: none;
+    margin-top: 0.5em;
+    position: absolute;
+    height: 22px;
+    width: 61px;
+	right: 33px;
+    background-size: 94px 59px;
+    background-image: url('/images/loading.gif');
+    background-repeat: no-repeat;
+    background-position: left;
+}
 
+.loading.watingGIF {
+    overflow: hidden;   
+}
 
+.loading.waitingGIF {
+    display: initial;
+}
 
 

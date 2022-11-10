@@ -3,19 +3,23 @@ function getRegs(id) {
 
 	//Get the popup to be populated/displayed
 	popupSpan = $("#"+id);
+	
+	//Get the waiting gif div to be enabled
+	waitingGIF = $("."+id);
 
 	if ($("#"+id).css('display') == 'none') {
 		
+		//Enable waiting GIF
+		waitingGIF.addClass("loading");
+		
 		//Ajax makes call to api to get related regs
 		//If success, create a list and toggle the list on the site
-		//Test: judclawsapi - https://judclawsapi.cloud.justice.gc.ca
-		//TestL lawsAPISandbox = https://lawsapisandbox.azurewebsites.net
 		$.ajax({
 			type: 'GET',
-			url: 'https://lawsapisandbox.azurewebsites.net/acts/' + id + '/regulations', 
+			url: 'https://laws-lois-api.justice.gc.ca/acts/' + id + '/regulations',
 			dataType: 'JSON',
 			success: function(data){
-				
+								
 				//Clear the content in the span
 				popupSpan.empty();
 				
@@ -33,6 +37,9 @@ function getRegs(id) {
 				});
 				list += "<ul>";
 				
+				//Disable waiting GIF
+				waitingGIF.removeClass("loading");
+				
 				//Add the list to html page
 				popupSpan.append(list);
 				
@@ -41,6 +48,9 @@ function getRegs(id) {
 			},
 			error: function (xhr, textStatus, errorThrown) { 
 				alert(xhr.reponseText + " " + xhr.status);
+				
+				//Disable waiting GIF
+				waitingGIF.removeClass("loading");
 			}
 		});
 	}else{

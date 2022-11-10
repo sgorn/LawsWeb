@@ -3,6 +3,7 @@
 <ul class="list-group menu list-unstyled"><li>
 <h3 class="wb-navcurr">Textes constitutionnels</h3>
 <ul class="list-group menu list-unstyled">
+<li><a class="list-group-item" href="/fra/Const/page-12.html">Charte canadienne des droits et libertés</a></li>
 <li><a class="list-group-item" href="/fra/Const/Const_index.html">Codification des Lois constitutionnelles de 1867 &agrave; 1982</a></li>
 <li><a class="list-group-item" href="/fra/ConstRpt/Const_index.html">Codification des Lois constitutionnelles de 1867 &agrave; 1982 (fondée sur le rapport<br> de 1990)</a></li>
 <li><a class="list-group-item" href="https://www.justice.gc.ca/fra/pr-rp/sjc-csj/constitution/loireg-lawreg/index.html">Comit&eacute; de r&eacute;daction constitutionnelle fran&ccedil;aise (1990)</a></li>

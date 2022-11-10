@@ -1,4 +1,4 @@
-<footer id="wb-info" class="visible-sm visible-md visible-lg wb-navcurr">
+﻿<footer id="wb-info" class="visible-sm visible-md visible-lg wb-navcurr">
 <div class="container">
 <nav role="navigation">
 <h2>About this site</h2>
@@ -26,8 +26,7 @@
 <li><a href="https://www.justice.gc.ca/eng/abt-apd/recru/index.html">Careers and Articling </a></li>
 <li><a href="https://www.justice.gc.ca/eng/rp-pr/index.html">Reports and Publications</a></li>
 <li><a href="https://www.justice.gc.ca/eng/abt-apd/sd-dd/index.html">Sustainable Development</a></li>
-<li><a href="https://www.justice.gc.ca/eng/abt-apd/accom-real.html">Justice Accomplishments</a></li>
-
+<li><a href="https://www.justice.gc.ca/eng/trans/open-ouvert.html">Open Government at Justice</a></li>
 </ul>
 </section>
 <section class="col-sm-3">
@@ -38,7 +37,9 @@
 			<li><a href="https://www.justice.gc.ca/eng/news-nouv/ja-nj.asp?tid=4">Judicial Appointments</a></li>
 			<li><a href="https://www.justice.gc.ca/eng/news-nouv/sta-dec.html">Statements</a></li>		
 			<li><a href="https://www.justice.gc.ca/eng/news-nouv/sp-di.html">Speeches</a></li>           
-		    <li><a href="https://www.justice.gc.ca/eng/news-nouv/ma-am.html">Media Advisories</a></li>
+			<li><a href="https://www.justice.gc.ca/eng/news-nouv/ma-am.html">Media Advisories</a></li>
+			<li><a href="https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/index.html">Charter Statements</a></li>
+			<li><a href="https://www.justice.gc.ca/eng/news-nouv/photo/index.html">Photo Gallery</a></li>
 </ul>
 </section>
 <section class="col-sm-3">
@@ -64,7 +65,7 @@
 <li><a href="https://travel.gc.ca"><span>Travel</span></a></li>
 <li><a href="https://www.servicecanada.gc.ca/eng/home.shtml"><span>Service Canada</span></a></li>
 <li><a href="https://www.jobbank.gc.ca"><span>Jobs</span></a></li>
-<li><a href="https://www.budget.gc.ca/home-accueil-en.html"><span>Economy</span></a></li>
+<li><a href="https://www.budget.gc.ca/"><span>Economy</span></a></li>
 <li id="canada-ca"><a href="https://www.canada.ca/en/index.html">Canada.ca</a></li>
 </ul>
 </nav>

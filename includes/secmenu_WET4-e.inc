@@ -3,6 +3,7 @@
 <ul class="list-group menu list-unstyled"><li>
 <h3 class="wb-navcurr">Constitutional Documents</h3>
 <ul class="list-group menu list-unstyled">
+<li><a class="list-group-item" href="/eng/Const/page-12.html">Canadian Charter of Rights and Freedoms</a></li>
 <li><a class="list-group-item" href="/eng/Const/Const_index.html">Consolidation of Constitution Acts, 1867 to 1982</a></li>
 <li><a class="list-group-item" href="/eng/ConstRpt/Const_index.html">Consolidation of Constitution Acts, 1867 to 1982 <br>(1990 Report version) </a></li>
 <li><a class="list-group-item" href="https://www.justice.gc.ca/eng/rp-pr/csj-sjc/constitution/lawreg-loireg/index.html">French Constitutional Drafting Committee (1990)</a></li>

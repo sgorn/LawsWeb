@@ -12,7 +12,7 @@ wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licenc
 <!-- Meta data -->
 <meta name="description" content="Lois codifi&eacute;es R&egrave;glements codifi&eacute;s">
 <meta name="dcterms.title" content="Lois codifi&eacute;es R&egrave;glements codifi&eacute;s">
-<meta name="dcterms.creator" content="Minist&egrave;re de la Justice">
+<meta name="dcterms.creator" content="Direction des services l&eacute;gislatifs">
 <meta name="dcterms.issued" title="W3CDTF" content="2015-11-30">
 <meta name="dcterms.modified" title="W3CDTF" content="2015-11-30">
 <meta name="dcterms.subject" title="scheme" content="Lois codifi&eacute;es R&egrave;glements codifi&eacute;s">
