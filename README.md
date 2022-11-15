@@ -1,4 +1,4 @@
 # LawsWeb
 Justice laws site repository.
 
-[![Build Status](https://dev.azure.com/JuDcDevOps-Dev/LIMS/_apis/build/status/sgorn.LawsWeb?branchName=main)](https://dev.azure.com/JuDcDevOps-Dev/LIMS/_build/latest?definitionId=30&branchName=main)
+[![Build status](https://dev.azure.com/JuDcDevOps-Dev/LIMS/_apis/build/status/LawsWebSandStage-Github%20Pipeline)](https://dev.azure.com/JuDcDevOps-Dev/LIMS/_build/latest?definitionId=37)
