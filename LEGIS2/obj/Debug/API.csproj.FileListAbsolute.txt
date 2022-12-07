@@ -1,6 +1,0 @@
-C:\LIMS2\API\API\obj\Debug\API.csprojResolveAssemblyReference.cache
-C:\LIMS2\API\API\bin\API.dll.config
-C:\LIMS2\API\API\bin\API.dll
-C:\LIMS2\API\API\bin\API.pdb
-C:\LIMS2\API\API\obj\Debug\API.dll
-C:\LIMS2\API\API\obj\Debug\API.pdb

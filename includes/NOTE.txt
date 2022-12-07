@@ -1,4 +1,0 @@
-wb-foot files
-
-removed the webtrends includes because they slow down the dev pages
-dont copy these to production
