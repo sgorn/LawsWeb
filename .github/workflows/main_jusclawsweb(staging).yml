@@ -20,7 +20,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: LawsArtifacts
-          path: ${{ GITHUB_WORKSPACE }}/Lawsweb-Git
+          path: $GITHUB_WORKSPACE/LawsWeb-Git
           if-no-files-found: error
 
   deploy:
