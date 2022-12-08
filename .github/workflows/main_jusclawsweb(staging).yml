@@ -15,12 +15,16 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-
+      
+      - name: publish
+        run: dotnet publish "${{ github.workspace }}/LawsWeb-git -o publish
+      
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v2
         with:
           name: Artifacts
-          path: $GITHUB_WORKSPACE
+          path: publish/**
+          if-no-files-found: error
 
   deploy:
     runs-on: windows-latest
