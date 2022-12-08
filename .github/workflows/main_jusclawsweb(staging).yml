@@ -20,8 +20,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: LawsArtifacts
-          path: $GITHUB_WORKSPACE
-          if-no-files-found: error
+          path: ${{ github.workspace }}/
 
   deploy:
     runs-on: windows-latest
