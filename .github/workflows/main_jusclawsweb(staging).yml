@@ -14,16 +14,13 @@ jobs:
     runs-on: windows-latest
 
     steps:
-      - uses: actions/checkout@v2
-      
-      - name: publish
-        run: dotnet publish "${{ github.workspace }}/LawsWeb-git" -o publish
+      - uses: actions/checkout@v3
       
       - name: Upload artifact for deployment job
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
-          name: Artifacts
-          path: publish/**
+          name: LawsArtifacts
+          path: ${{ GITHUB_WORKSPACE }}/Lawsweb-Git
           if-no-files-found: error
 
   deploy:
@@ -34,9 +31,9 @@ jobs:
 
     steps:
       - name: Download artifact from build job
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
         with:
-          name: Artifacts
+          name: LawsArtifacts
 
       - name: Deploy to Azure Web App
         id: deploy-to-webapp
