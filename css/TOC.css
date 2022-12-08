@@ -1,0 +1,18 @@
+/*
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+- TOC styling for Harmonized bill.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%*/
+.navigationTOC {
+	display:	none;
+}
+
+div.goldLineTopTOC {
+	padding-top:	0.5em;
+}
+
+.lineSeparatorTOC {
+	border-bottom:	1px solid #cc9900;
+	margin-top: 	2em;
+}

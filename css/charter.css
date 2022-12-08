@@ -1,0 +1,321 @@
+img
+{
+	border			: none;
+}
+
+
+.blue			{	color		: #003366;	}
+.left			{	text-align	: left;		}
+.centered		{	text-align	: center;	}
+.textNormal		{	font-size	: normal;	}
+.titlePadding		{	width		: 186px;	}
+.fullWidth		{	width		: 620px;	}
+.fullPage		{	width		: 100%;		}
+
+.tdmFrame		{	height: 335px;	border: none;													}
+.tdmNumber		{	width:  9%;		text-align: left;	vertical-align: top;						}
+.tdmText		{	width: 91%;		text-align: left;	vertical-align: top;						}
+.textPart		{	width: 80%;		text-align: left;	vertical-align: top;						}
+.label			{	width:  62px;	text-align: left;	vertical-align: top;	font-weight: bold;	}
+.textBody		{	width: 434px;	text-align: left;	vertical-align: top;						}
+.title			{	width: 320px;	text-align: left;	vertical-align: top;						}
+.subLabel		{	width:  10px;	text-align: left;	vertical-align: top;						}
+.subTextBody		{	width: 300px;	text-align: left;	vertical-align: top;						}
+td.marginalNote		{	width: 124px;	text-align: left;	vertical-align: top;						}
+
+p.constLinks
+{
+margin:0.4em;
+}
+div.countyList ul
+{
+list-style-type:none;
+ margin-left:45%;
+ padding:0;
+}
+
+h2.Division
+{
+font-size:120%;
+	font-weight:bold;
+	text-align:left;
+}
+
+
+
+span.marginalNote
+{
+	color			: #003366;
+	font-size		: small;
+}
+
+.leftTop
+{
+	text-align		: left;
+	vertical-align	: top;
+}
+
+.Firstline-1-0
+{
+	margin-top		: 0.7em;
+	text-indent		: 0.7em;
+	margin-left		: 0.0em;
+}
+
+.Firstline-2-1
+{
+	margin-top		: 0.7em;
+	text-indent		: 1.4em;
+	margin-left		: 0.7em;
+}
+
+.Firstline-3-2
+{
+	margin-top		: 0.7em;
+	text-indent		: 2.8em;
+	margin-left		: 1.4em;
+}
+
+.Firstline-4-3
+{
+	margin-top		: 0.7em;
+	text-indent		: 4.2em;
+	margin-left		: 2.8em;
+}
+
+.Firstline-5-4
+{
+	margin-top		: 0.7em;
+	text-indent		: 5.6em;
+	margin-left		: 4.2em;
+}
+
+.Firstline-6-5
+{
+	margin-top		: 0.7em;
+	text-indent		: 7.0em;
+	margin-left		: 5.6em;
+}
+
+.Flush-0
+{
+	margin-top		: 0.7em;
+	margin-left		: 0.0em;
+	text-indent		: 0.0em;
+	margin-bottom	: 0em;
+}
+
+.Flush-1
+{
+	margin-top		: 0.7em;
+	margin-left		: 0.7em;
+	text-indent		: 0.0em;
+	margin-bottom	: 0em;
+}
+
+.Flush-2
+{
+	margin-top		: 0.7em;
+	margin-left		: 1.4em;
+	text-indent		: 0.0em;
+	margin-bottom	: 0em;
+}
+
+.Flush-3
+{
+	margin-top		: 0.7em;
+	margin-left		: 2.8em;
+	text-indent		: 0.0em;
+	margin-bottom	: 0em;
+}
+
+.Flush-4
+{
+	margin-top		: 0.7em;
+	margin-left		: 4.2em;
+	text-indent		: 0.0em;
+	margin-bottom	: 0em;
+}
+
+.Flush-5
+{
+	margin-top		: 0.7em;
+	margin-left		: 5.6em;
+	text-indent		: 0.0em;
+	margin-bottom	: 0em;
+}
+
+.FlushLeft
+{
+	margin-top		: 0.7em;
+}
+
+.FlushRight
+{
+	margin-top		: 0.7em;
+	text-align		: right
+}
+
+.FormHeading
+{
+	text-align		: center;
+}
+
+.FormulaText2
+{
+	margin-top		: 0.0em;
+	margin-left		: 1.40em;
+	margin-bottom	: 0.4em;
+}
+
+.FormulaText3
+{
+	margin-top		: 0.0em;
+	margin-left		: 2.80em;
+	margin-bottom	: 0.4em;
+}
+
+.FormulaText4
+{
+	margin-top		: 0.0em;
+	margin-left		: 4.20em;
+	margin-bottom	: 0.4em;
+}
+
+.FormulaText5
+{
+	margin-top		: 0.0em;
+	margin-left		: 5.60em;
+	margin-bottom	: 0.4em;
+}
+
+.FormulaText
+{
+	margin-top		: 0.0em;
+	margin-left		: 0.0em;
+	margin-bottom	: 0.4em;
+}
+
+.Formula
+{
+	margin-top		: 1.4em;
+	margin-bottom	: 0.7em;
+	text-align		: center;
+}
+
+.Indent00
+{
+	margin-left		: 0.0em;
+	margin-top		: 0.7em;
+	text-indent		: 0.0em;
+}
+
+.Indent11
+{
+	margin-left		: 1.4em;
+	margin-top		: 0.7em;
+	text-indent		: 1.4em;
+}
+
+.Indent20
+{
+	margin-left		: 2.8em;
+	margin-top		: 0.7em;
+	text-indent		: 0.0em;
+}
+Indent40
+{
+	margin-left		: 4.2em;
+	margin-top		: 0.7em;
+	text-indent		: 0.0em;
+}
+
+.Indent01
+{
+	margin-left		: 0.0em;
+	margin-top		: 0.7em;
+	text-indent		: 1.4em;
+}
+
+p.Group4 { text-align:left; }
+ .Group4
+{
+	margin-bottom	: 0.7em;
+	margin-top		: 0.7em;
+	text-align		: center;
+}
+
+.Group5
+{
+	margin-bottom	: 0.7em;
+	margin-top		: 1.4em;
+}
+
+.GroupHeading
+{
+	font-size		: 100%;
+	margin-top		: 1.4em;
+	margin-bottom	: 0.0em;
+	text-align		: center;
+}
+
+.Hanging-0-1
+{
+	margin-top		: 0.7em;
+	text-indent		: -0.7em;
+	margin-left		: 0.7em;
+}
+
+.Hanging-1-2
+{
+	margin-top		: 0.7em;
+	text-indent		: -0.7em;
+	margin-left		: 1.4em;
+}
+
+.Hanging-2-3
+{
+	margin-top		: 0.7em;
+	text-indent		: -1.4em;
+	margin-left		: 2.8em;
+}
+
+.Hanging-3-4
+{
+	margin-top		: 0.7em;
+	text-indent		: -1.6em;
+	margin-left		: 4.2em;
+}
+
+.Hanging-4-5
+{
+	margin-top		: 0.7em;
+	text-indent		: -1.4em;
+	margin-left		: 5.6em;
+}
+
+.Hanging-5-6
+{
+	margin-top		: 0.7em;
+	text-indent		: -1.4em;
+	margin-left		: 7.0em;
+}
+table.regTable
+{
+	width			: 95%;
+	border			: 0px;
+}
+
+li.TocIndentLiContainer {
+	display			: inline;
+}
+
+
+li.liSecondNiveau {
+	display			: inline;
+}
+
+table.border1 { width:100%;text-align:left;border-top:1px solid black;font-size:9pt; }
+td.border2, th.border2 { border-top:3px double black!important; }
+td.border3, th.border3 { border-bottom:1px solid black; }
+	

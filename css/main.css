@@ -1,0 +1,341 @@
+
+
+/***********************
+STYLES FOR RIGHT DIV ON MAIN PAGE
+********************/
+
+div#cn-right-col li.menucontent, div#cn-right-col div.menucontent {
+	border-bottom: 1px solid #555;
+	border-bottom-style:dashed;
+	padding:0px;
+	background-color:#EEB;
+	font-size:10px;
+	}
+
+div#cn-right-col ul.nav
+{
+	list-style-type:none;
+	padding:0;
+	font-size:85%;
+}
+div#cn-right-col li
+{
+	margin:0;
+	margin-bottom:5px;
+	border-bottom:1px dashed #353;
+	padding:0;
+	padding-bottom:5px;
+	padding-top:2px;
+	
+}
+
+h1.LawsSiteHeading
+{
+	font-size:1.5em;
+}
+
+div#cn-right-col li ul li
+{
+	margin:0;
+	border-bottom:0px;
+	
+}
+div#cn-right-col ul.subList
+{
+	margin-left:0;
+	padding-left:1em;
+}
+
+div#cn-right-col h4.newsTitle
+{
+    font-size:100%;
+	margin:0;
+	font-weight:bold;
+	margin-bottom:3px;
+}
+div#cn-right-col p.newsDate
+{
+	margin:0;
+}
+
+div#cn-right-col a.menulink {
+	font-size:10px;
+	color:#060;
+	display:inline;
+	background-color:white;
+	padding:0;
+	margin:0;
+	text-decoration:underline;
+	}
+div#cn-right-col a.menulink:hover {
+	text-decoration:underline;
+	}
+
+#miniSearchForm
+{
+}
+div#cn-right-col input#txtS3archA11
+{
+	margin-bottom:0.5em;
+}
+#txtS3archA11
+{
+	width:12em;
+}
+#imgButton
+{
+	width:20px;
+}
+
+.imageContainer img
+{
+width:195px;
+}
+
+/********************************************************/
+/* Section Statutory Ressources 						*/
+/********************************************************/
+
+/* Highlight (Titre de section) */
+.sectionTitle {
+
+	font-weight		: bold;
+	margin-bottom:0.4em;
+	font-size:100%;
+}
+
+a.statRes {
+	color			: #000000;	/* blanc */
+}
+a.statRes:hover {
+	color			: #CC9900;	/* Gold */
+}
+
+ul.statRes
+{
+	list-style-image 	: url(/images/BouleOr-6x6.gif);
+	margin-left		: 0em;
+	margin-top		: 0em;
+	padding-left:1.5em;
+
+}
+ul.statRes a
+{
+	font-size:9pt;
+}
+
+td.statResAlignImg{
+	vertical-align 		:top;
+	padding-bottom 		: 0.2em;
+}
+
+span.statResAlignImg {
+	padding-right 		: 0.4em;
+}
+
+td.statResAlignLink {
+	padding-right 		: 0.4em;
+}
+
+table.statResHead {
+	margin			: 0.0em;
+	margin-bottom		: 0.3em;
+}
+
+div.statResDiv {
+	padding-top 		: 2em;
+}
+
+table.statResMain {
+	margin			: 00.00em;
+}
+
+table.statResElem {
+	border			: 0.0em;
+	border-collapse		: collapse;
+}
+
+div.statResLeft
+{
+	font-weight		: bold;
+	float			: left;
+	width			: 175px;
+	text-align		: right;
+	margin-top		: 0.5em;
+}
+
+div.statResRight
+{
+	width			: 375px;
+}
+
+div.statLblLeft
+{
+	font-weight		: bold;
+	float			: left;
+	text-align		: right;
+	margin-top		: 0.5em;
+}
+
+div.statLblRight
+{
+	width			: 375px;
+	text-align		: right;
+}
+
+/********************************************************/
+/*	Header Frame Section								*/
+/********************************************************/
+
+table.headFrameMain
+{
+/*	width			: 45em; */
+	border-collapse		: collapse;
+}
+
+/********************************************************/
+/*	Note Section										*/
+/********************************************************/
+
+table.noteSecMain
+{
+	border			: 0.0em;
+	border-collapse		: collapse;
+	text-align		: justify;
+}
+
+/********************************************************/
+/*	ShowDoc Section 									*/
+/********************************************************/
+
+/* Largeur et font de select */
+select.navSelect {
+   font-size        		: 0.8em;
+   width            		: 200px;
+}
+
+.selectTop input { margin:0; };
+
+/* Largeur et Font du bouton submit */
+input.submitButton {
+   width            		: 75px;
+   font-size       		: 1.0em;
+}
+
+/* Marge du bouton de la table des matières */
+a.marginButton {
+   margin-right    		: 6px;
+}
+
+/* Bouton de navigation */
+a.navButton {
+   padding-left    		: 10px;
+   text-align      		: center;
+}
+
+nevDispConn {
+   padding-left    		: 5px;
+}
+
+div.habilitanteLine {
+	font-weight		: normal;
+}
+
+div.goldLineTop {
+	padding-top		: 0.5em;
+}
+
+div.goldLinePos {
+	text-align		: center;
+	padding-bottom	: 0.2em;
+	padding-top		: 0.2em;
+}
+
+div.selectTop {
+	text-align		: center;
+	margin-top		: 0.5em;;
+}
+
+div.nextPreviousBtnAlign {
+	text-align		: center;
+	padding-top:2px;
+	padding-bottom:2px;
+}
+#selectForm {
+	margin:0;
+}
+
+/********************************************************/
+/*	Linking Guide Section      								  */
+/********************************************************/
+ol.number {
+	list-style-type 	: decimal;
+	padding-left 		: 25px;
+}
+
+dt.title {
+	font-weight		: bold;
+}
+
+dd.officialChapter {
+	/*Style non défini, mais existant*/
+}
+
+dd.link {
+	/*Style non défini, mais existant*/
+}
+
+
+/********************************************************/
+/*	FAQ      						            	    */
+/********************************************************/
+
+h3.FaqTitle{
+	font-weight 		:bold;
+	font-size:100%;
+}
+
+.lineSeparator
+{
+margin-top:0.3em;
+}
+
+/********************************************************/
+/*	Help      						            	    */
+/********************************************************/
+
+.fakeLink
+{
+	text-decoration		: none;
+	cursor			: pointer;
+	color			: #006633;
+}
+
+.fakeLink span:hover {
+	text-decoration 	: underline;
+}
+
+a#cont,
+a#contSim,
+a#contAdv,
+a#contAnn,
+a#contTit
+{
+	text-decoration 	: none;
+}
+
+/********************************************************/
+/*	Glossaire  						            	    */
+/********************************************************/
+
+div#glossaire div { font-weight: bold; width: 5em; float: left; }
+
+/********************************************************/
+/*	An alert box, taken from WET grid system module      */
+/********************************************************/
+.module-alert h2,.module-alert h3,.module-alert h4,.module-alert h5,.module-alert h6{color:#bd1821;padding-bottom:0;border-bottom:none;margin:0;}
+.module-alert{padding:40px 0px 20px;}
+.module-alert p,.module-alert table,.module-alert h2,.module-alert h3,.module-alert h4,.module-alert h5,.module-alert h6,.module-alert img,.module-alert div{margin-left:40px;margin-right:20px;padding-left:0;padding-right:0;}
+.module-alert ol,.module-alert ul{margin-left:65px;margin-right:20px;padding-left:0;padding-right:0;}
+.module-alert{background:url(../images/module-alert.gif) no-repeat #eee !important;padding-top:45px;}
+

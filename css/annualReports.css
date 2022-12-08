@@ -1,0 +1,19 @@
+ol.annReport 
+{
+	margin-left:-1em;
+	list-style:decimal;
+}
+ol.annReport li
+{
+	margin-top:1em;
+	margin-bottom:1em;
+}
+
+h1.reportTitle
+{
+	text-align:center;
+}
+span.italic 
+{
+	font-style:italic;
+}

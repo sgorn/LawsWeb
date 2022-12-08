@@ -1,0 +1,63 @@
+//When user clicks on the related regs icon on the by titles page, this will populate/display the list.
+function getRegs(id) {
+
+	//Get the popup to be populated/displayed
+	popupSpan = $("#"+id);
+
+	if ($("#"+id).css('display') == 'none') {
+		
+		//Ajax makes call to api to get related regs
+		//If success, create a list and toggle the list on the site
+		$.ajax({
+			type: 'GET',
+			url: 'https://judclawsapi.cloud.justice.gc.ca/acts/' + id + '/regulations', 
+			dataType: 'XML',
+			success: function(xml){
+				
+				//Clear the content in the span
+				popupSpan.empty();
+				
+				//Build list of related regs
+				var list = "<ul>";
+				$(xml).find('Regulation').each(function(){
+					var sTitle = $(this).find('LongTitle').text();
+					var sAlpha = $(this).find('Alpha').text();
+					var regLink = $(this).find('LawsSitePage').text();
+					var regAnchor = "<a href='" + regLink + "'>" + sTitle + " (" +  sAlpha + ")</a>";
+					
+					if (sTitle == ""){alert("missing longtitle " + sAlpha)}
+				
+					list += ("<li>" + regAnchor + "</li>");
+				});
+				list += "<ul>";
+				
+				//Add the list to html page
+				popupSpan.append(list);
+				
+				//Show the related regs list
+				popupSpan.slideDown("slow");
+			},
+			error: function (xhr, textStatus, errorThrown) { 
+				alert(xhr.reponseText + " " + xhr.status);
+			}
+		});
+	}else{
+		//Hide the related regs list
+		popupSpan.slideUp("slow");
+	}
+}
+
+//If javascript is enabled, this will change the href to a onclick method.
+$(document).ready(function () {
+	
+	//Iterates through html to get the popuptext span element
+	$("li .popuptext").each(function() {
+		
+		//Get the id from the popuptext for referencing
+		var id = $(this).attr("id");
+		
+		//Remote the href attribute, and add the onglick attribute with id
+		$(this).siblings().find(".rButtonShowRegList").removeAttr("href");
+		$(this).siblings().find(".rButtonShowRegList").attr("onclick", "getRegs('" + id + "')");		
+	});
+});

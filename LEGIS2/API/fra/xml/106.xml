@@ -1,0 +1,147 @@
+<Standard><Heading level="2">
+  <TitleText>Boyaux de frein (Norme 106)</TitleText>
+  <HistoricalNote>
+    <ul>
+      <li>[DORS/93-561, art. 3;</li>
+      <li>DORS/2011-238, art. 1]</li>
+    </ul>
+  </HistoricalNote>
+</Heading>
+<Section>
+  <Label>106.</Label>
+  <Subsection>
+    <Label>(1)</Label>
+    <Text>Les boyaux de frein, les ensembles de boyau de frein et les raccords d'extrémité de boyau de frein dont sont munis les voitures de tourisme, les véhicules de tourisme à usages multiples, les camions, les autobus, les véhicules à trois roues, les motocyclettes, les remorques et les chariots de conversion doivent être conformes aux exigences du
+      <XRefExternal reference-type="standard">Document de normes techniques n<Sup>o</Sup>106 — Boyaux de frein</XRefExternal>
+      (DNT 106), avec ses modifications successives.</Text>
+  </Subsection>
+  <Subsection>
+    <Label>(2)</Label>
+    <Text>Toute mention dans le DNT 106 d'une norme publiée par l'ASTM qui figure à la colonne 1 du tableau du présent paragraphe vaut mention, selon le cas, de la norme indiquée en regard de cette norme à la colonne 2.</Text>
+    <TableGroup pointsize="8" spanmarginalnotecol="yes" topmarginspacing="4">
+      <Caption position="over" justification="center">
+      TABLEAU
+      </Caption>
+      <table frame="topbot">
+        <tgroup cols="3">
+          <colspec colname="1" colwidth="41.90*" htmlwidth="12%"/>
+          <colspec colname="3" colwidth="144.25*" htmlwidth="43%"/>
+          <colspec colname="COLSPEC1" colwidth="152.26*" htmlwidth="45%"/>
+          <thead>
+            <row topdouble="yes" topmarginspacing="4">
+              <entry colname="1" colsep="0" rowsep="1" valign="bottom" id="t3855h0">Article</entry>
+              <entry colname="3" colsep="0" rowsep="1" valign="bottom" id="t3855h1">Colonne 1</entry>
+              <entry colsep="0" rowsep="1" valign="bottom" id="t3855h2">Colonne 2</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="1" colsep="0" rowsep="0" valign="top" headers="t3855h0">1.</entry>
+              <entry colname="3" colsep="0" rowsep="0" valign="top" headers="t3855h1">Norme B 117 – 03 de l'ASTM,
+                <Language xml:lang="en">
+                  <XRefExternal reference-type="standard">Standard Practice for Operating Salt Spray (Fog) Apparatus</XRefExternal>
+                </Language>
+              </entry>
+              <entry colsep="0" rowsep="0" headers="t3855h2">Norme B 117 – 07a de l'ASTM,
+                <Language xml:lang="en">
+                  <XRefExternal reference-type="standard">Standard Practice for Operating Salt Spray (Fog) Apparatus</XRefExternal>
+                </Language>
+              </entry>
+            </row>
+            <row>
+              <entry colsep="0" rowsep="0" headers="t3855h0">2.</entry>
+              <entry colsep="0" rowsep="0" headers="t3855h1">Norme D 471 – 98<Sup>
+                <Emphasis style="italic">e</Emphasis>
+                1</Sup>de l'ASTM,
+                <Language xml:lang="en">
+                  <XRefExternal reference-type="standard">Standard Test Method for Rubber Property — Effect of Liquids</XRefExternal>
+                </Language>
+              </entry>
+              <entry colsep="0" rowsep="0" headers="t3855h2">Norme D 471 – 06<Sup>
+                <Emphasis style="italic">e</Emphasis>
+                1</Sup>de l'ASTM,
+                <Language xml:lang="en">
+                  <XRefExternal reference-type="standard">Standard Test Method for Rubber Property — Effect of Liquids</XRefExternal>
+                </Language>
+              </entry>
+            </row>
+            <row>
+              <entry colsep="0" rowsep="0" headers="t3855h0">3.</entry>
+              <entry colsep="0" rowsep="0" headers="t3855h1">Norme D 4329 – 99 de l'ASTM,
+                <Language xml:lang="en">
+                  <XRefExternal reference-type="standard">Standard Practice for Fluorescent UV Exposure of Plastics</XRefExternal>
+                </Language>
+              </entry>
+              <entry colsep="0" rowsep="0" headers="t3855h2">Norme D 4329 – 05 de l'ASTM,
+                <Language xml:lang="en">
+                  <XRefExternal reference-type="standard">Standard Practice for Fluorescent UV Exposure of Plastics</XRefExternal>
+                </Language>
+              </entry>
+            </row>
+            <row>
+              <entry colsep="0" rowsep="0" headers="t3855h0">4.</entry>
+              <entry colsep="0" rowsep="0" headers="t3855h1">Norme E 4 – 03 de l'ASTM,
+                <Language xml:lang="en">
+                  <XRefExternal reference-type="standard">Standard Practices for Force Verification of Testing Machines</XRefExternal>
+                </Language>
+              </entry>
+              <entry colsep="0" rowsep="0" headers="t3855h2">Norme E 4 – 08 de l'ASTM,
+                <Language xml:lang="en">
+                  <XRefExternal reference-type="standard">Standard Practices for Force Verification of Testing Machines</XRefExternal>
+                </Language>
+              </entry>
+            </row>
+            <row>
+              <entry colsep="0" rowsep="0" headers="t3855h0">5.</entry>
+              <entry colsep="0" rowsep="0" headers="t3855h1">Norme G 151 – 97 de l'ASTM,
+                <Language xml:lang="en">
+                  <XRefExternal reference-type="standard">Standard Practice for Exposing Nonmetallic Materials in Accelerated Test Devices that Use Laboratory Light Sources</XRefExternal>
+                </Language>
+              </entry>
+              <entry colsep="0" rowsep="0" headers="t3855h2">Norme G 151 – 06 de l'ASTM,
+                <Language xml:lang="en">
+                  <XRefExternal reference-type="standard">Standard Practice for Exposing Nonmetallic Materials in Accelerated Test Devices that Use Laboratory Light Sources</XRefExternal>
+                </Language>
+              </entry>
+            </row>
+            <row>
+              <entry colsep="0" rowsep="0" headers="t3855h0">6.</entry>
+              <entry colsep="0" rowsep="0" headers="t3855h1">Norme G 154 – 00 de l'ASTM,
+                <Language xml:lang="en">
+                  <XRefExternal reference-type="standard">Standard Practice for Operating Fluorescent Light Apparatus for UV Exposure of Nonmetallic Materials</XRefExternal>
+                </Language>
+              </entry>
+              <entry colsep="0" rowsep="0" headers="t3855h2">Norme G 154 – 06 de l'ASTM,
+                <Language xml:lang="en">
+                  <XRefExternal reference-type="standard">Standard Practice for Operating Fluorescent Light Apparatus for UV Exposure of Nonmetallic Materials</XRefExternal>
+                </Language>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </TableGroup>
+  </Subsection>
+  <Subsection>
+    <Label>(3)</Label>
+    <Text>Le présent article cesse d'avoir effet le 31 janvier 2016.</Text>
+  </Subsection>
+  <HistoricalNote>
+    <ul>
+      <li>DORS/79-677, art. 3;</li>
+      <li>DORS/79-907, art. 1;</li>
+      <li>DORS/93-561, art. 4;</li>
+      <li>DORS/97-421, art. 16;</li>
+      <li>DORS/2007-180, art. 6;</li>
+      <li>DORS/2009-318, art. 8;</li>
+      <li>DORS/2009-330, art. 1;</li>
+      <li>DORS/2011-238, art. 1.</li>
+    </ul>
+  </HistoricalNote>
+</Section>
+<Section>
+  <Label>107.</Label>
+  <Text>
+    <Repealed>[Abrogé, DORS/96-437, art. 2]</Repealed>
+  </Text>
+</Section></Standard>
