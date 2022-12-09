@@ -14,10 +14,10 @@ jobs:
     runs-on: windows-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
       
       - name: Upload artifact for deployment job
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: LawsArtifacts
           path: ${{ github.workspace }}/
@@ -30,7 +30,7 @@ jobs:
 
     steps:
       - name: Download artifact from build job
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
         with:
           name: LawsArtifacts
 
@@ -38,7 +38,7 @@ jobs:
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v2
         with:
-          app-name: 'jusclawsweb'
+          app-name: 'jusclawsweb(staging)'
           slot-name: 'staging'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A467E4144E414A1BBDD6E3AA170B696C }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_90ef37e0740e4cc7b560b988c07edd8c }}
           package: .
