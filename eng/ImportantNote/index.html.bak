@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en" xml:lang="en">
+<head>
+    <meta charset="utf-8" />
+	<link rel="schema.dcterms" href="http://purl.org/dc/terms/" />
+
+	<!-- Web Experience Toolkit (WET) / Bo�te � outils de l'exp�rience Web (BOEW)
+	Terms and conditions of use: http://tbs-sct.ircan.gc.ca/projects/gcwwwtemplates/wiki/Terms
+	Conditions r�gissant l'utilisation : http://tbs-sct.ircan.gc.ca/projects/gcwwwtemplates/wiki/Conditions
+	-->
+
+	<!-- Title begins / D�but du titre -->
+	<title>Important Note</title>
+	<!-- Title ends / Fin du titre -->
+	
+	<!-- Favicon (optional) begins / D�but du favicon (optionnel) -->
+	 <link rel="shortcut icon" href="/images/favicon.ico" />
+	<!-- Favicon (optional) ends / Find du favicon (optionnel) -->
+	
+	<!-- Meta-data begins / D�but des m�tadonn�es -->
+	<meta name="dcterms.description" content="Consolidated federal laws of canada" />
+	<meta name="description" content="Consolidated federal laws of canada" />
+	<meta name="keywords" content="Consolidated federal laws of canada" />
+	<meta name="dcterms.creator" title="Department of Justice" content="Legislative Services Branch" />
+	<meta name="dcterms.title" content="Consolidated federal laws of canada" />
+	<meta name="dcterms.issued" title="W3CDTF" content="2011-01-01" />
+	<meta name="dcterms.modified" title="W3CDTF" content="2011-01-01" />
+	<meta name="dcterms.subject" title="scheme" content="Consolidated federal laws of canada" />
+	<meta name="dcterms.language" title="ISO639-2" content="eng" />
+	<!-- Meta-data ends / Fin des m�tadonn�es -->
+
+	<!-- WET scripts/CSS begin / D�but des scripts/CSS de la BOEW --><!--[if IE 6]><![endif]-->
+	<link href="/css/base.css" rel="stylesheet" type="text/css" />
+	<!--[if IE 8]><link href="/css/base-ie8.css" rel="stylesheet" type="text/css" /><![endif]-->
+	<!--[if IE 7]><link href="/css/base-ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
+	<!--[if lte IE 6]><link href="/css/base-ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+
+	<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<!-- clf2-nsi2 theme begins / D�but du th�me clf2-nsi2 -->
+	<link href="/css/theme-clf2-nsi2.css" rel="stylesheet" type="text/css" />
+	<!--[if IE 7]><link href="/css/theme-clf2-nsi2-ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
+	<!--[if lte IE 6]><link href="/css/theme-clf2-nsi2-ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+<!-- clf2-nsi2 theme ends / Fin du th�me clf2-nsi2 -->
+	<!-- WET scripts/CSS end / Fin des scripts/CSS de la BOEW -->
+
+	<!-- Progressive enhancement begins / D�but de l'am�lioration progressive -->
+	<script src="/js/lib/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/pe-ap.js" type="text/javascript" id="progressive"></script>
+	<script type="text/javascript">
+	    /* <![CDATA[ */
+	var params = {
+		searchTermHighlighting: { minLength: "2", lookWithin: ".searchable", defaultTerms: "" } 
+	};
+	PE.progress(params);
+	/* ]]> */
+	</script>
+	<!-- Progressive enhancement ends / Fin de l'am�lioration progressive -->
+	<!-- Custom scripts/CSS begin / D�but des scripts/CSS personnalis�s -->
+	<link rel="stylesheet" type="text/css" href="/css/institution.css" />
+    <link rel="stylesheet" type="text/css" href="/css/browse.css" />
+    <link rel="stylesheet" type="text/css" href="/css/commonView.css" />
+    <link rel="stylesheet" type="text/css" href="/css/lawContent.css" />
+    <!-- Custom scripts/CSS end / Fin des scripts/CSS personnalis�s -->
+
+<!-- WET print CSS begins / D�but du CSS de la BOEW pour l'impression -->
+	<link href="/css/pf-if.css" rel="stylesheet" media="print" type="text/css" />
+<!-- clf2-nsi2 theme begins / D�but du th�me clf2-nsi2 -->
+	<link href="/css/pf-if-theme-clf2-nsi2.css" rel="stylesheet" media="print" type="text/css" />
+<!-- clf2-nsi2 theme ends / Fin du th�me clf2-nsi2 -->
+	<!-- WET print CSS ends / Fin du CSS de la BOEW pour l'impression -->
+</head>
+<body>
+<!-- Two column layout begins / D�but de la mise en page de deux colonnes -->
+<div id="cn-body-inner-2col">
+
+	<!--#include virtual="includes/cn-banner-e.inc" -->
+	
+<!-- Breadcrumb begins / D�but du fil d'Ariane -->
+			<div id="cn-bcrumb">
+				<h2>Breadcrumb</h2>
+				<ol><li><a class="breadcrumbs" href="/eng/">Main Page</a>&#x00A0;&gt;&#x00A0;</li>
+				<li>Important Note</li>
+				</ol>
+			</div>
+			<!-- Breadcrumb ends / Fin du fil d'Ariane -->	
+		</nav>
+<!-- clf2-nsi2 theme ends / Fin du th�me clf2-nsi2 -->
+	</header>
+	</div>
+	</div>
+	<!-- Header ends / Fin de l'en-t�te -->	
+<div id="cn-cols"><!-- Main content begins / Début du contenu principal -->
+<div id="cn-centre-col-gap"></div>
+	<div id="cn-centre-col" role="main">
+		<div id="cn-centre-col-inner">
+			<section>
+<!-- CONTENT TITLE BEGINS | DEBUT DU TITRE DU CONTENU -->
+
+      <!-- CONTENT TITLE BEGINS | DEBUT DU TITRE DU CONTENU -->
+
+      <h1 id="cn-cont">Note from The Department of Justice Canada</h1>
+
+<!-- CONTENT TITLE ENDS | FIN DU TITRE DU CONTENU -->
+
+
+		<div class="lineSeparator">
+		</div>
+<div id="search-term-highlighting-form"></div> 
+
+<div class="searchable">
+
+			<h2>Consolidation Official </h2>
+
+			<p></p>
+
+			<p>As of June 1, 2009, the consolidated Acts and regulations on the Justice Laws Website are &#x201C;official&#x201D;, meaning that they can be used for evidentiary purposes. </p>
+
+			<p>Amendments made to the <em>Statute Revision Act</em>, renamed the <em>Legislation Revision and Consolidation Act</em> by chapter 5 of the 2000 Statutes of Canada, in force on June 1, 2009, authorize the Minister of Justice to publish an electronic consolidation of statutes and regulations and provide that the consolidation is evidence of those statutes and regulations. The Act also provides that, in the case of an inconsistency between the consolidated statute or regulation and the original or a subsequent amendment, the original or amendment prevails.</p>
+
+			<p>For the text of the relevant provisions of the <em>Legislation Revision and Consolidation Act</em>, <a href="/eng/acts/S-20/section-31.html" title="Legislation Revision and Consolidation Act">click here</a>. </p>
+
+			<p></p>
+
+			<h2>Reproductions</h2>
+
+			<p></p>
+
+			<p>The Department of Justice Canada assumes no responsibility for the accuracy or reliability of any reproduction derived from the legislative material on this site. </p>
+
+			<h2>Interpretation and Application</h2>
+
+			<p>For all purposes of interpreting and applying the law, users should consult: </p>
+
+			<p></p>
+
+
+
+
+
+
+
+			<ul>
+
+				<li class="liGold">the original and amending <a href="http://www.parl.gc.ca/common/bills.inc?Language=E">Acts as passed by Parliament</a>, which are published in the "Assented to" Acts service, in <a href="http://www.gazette.gc.ca/rp-pr/p3/index-eng.html">Part III of the Canada Gazette</a> and in the annual Statutes of Canada, and 
+
+				</li>
+
+				<li class="liGold">the original and amending regulations, as registered by the Clerk of the Privy Council and published in <a href="http://www.gazette.gc.ca/rp-pr/p2/index-eng.html">Part II of the Canada Gazette</a>.
+
+				</li>
+
+			</ul>
+
+
+
+<p>The above-mentioned publications are available in most public libraries.</p>
+
+
+
+<h2>Related Information</h2>
+
+
+
+	<ol class="noBullet">
+
+		<li><a name="HowTolink" id="HowTolink" href="/eng/LinkingGuide">How to link</a>
+
+		</li>
+
+		<li><a name="FederalLaw" id="FederalLaw" href="/eng/regulations/SI-97-5/index.html">Reproduction of Federal Law Order</a>
+
+		</li>
+
+	</ol>
+
+
+		</div>
+			</section>
+<!-- clf2-nsi2 theme ends / Fin du thème clf2-nsi2 -->
+		</div>
+	</div>
+
+<!-- Main content ends / Fin du contenu principal --> 
+<!--#include virtual="/includes/cn-left-e.inc" -->
+</div>
+<!--#include virtual="/includes/cn-footer-e.inc" -->
+</div><!-- Two column layout ends / Fin de la mis en page de deux colonnes -->
+</body></html>

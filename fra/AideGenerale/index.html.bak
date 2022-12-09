@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="fr" xml:lang="fr">
+<head>
+    <meta charset="utf-8" />
+
+	<!-- Web Experience Toolkit (WET) / Bo�te � outils de l'exp�rience Web (BOEW)
+	Terms and conditions of use: http://tbs-sct.ircan.gc.ca/projects/gcwwwtemplates/wiki/Terms
+	Conditions r�gissant l'utilisation : http://tbs-sct.ircan.gc.ca/projects/gcwwwtemplates/wiki/Conditions
+	-->
+
+	<!-- Title begins / D�but du titre -->
+	<title>Aide g&eacute;n&eacute;rale</title>
+	<!-- Title ends / Fin du titre -->
+	
+	<!-- Favicon (optional) begins / D�but du favicon (optionnel) -->
+	 <link rel="shortcut icon" href="/images/favicon.ico" />
+	<!-- Favicon (optional) ends / Find du favicon (optionnel) -->
+	
+	<!-- Meta-data begins / Début des métadonnées -->
+	<meta name="dcterms.description" content="Lois codifiés Règlements codifiés - Aide g&eacute;n&eacute;rale" />
+	<meta name="description" content="Lois codifiés Règlements codifiés - Aide g&eacute;n&eacute;rale" />
+	<meta name="keywords" content="Lois codifiés Règlements codifiés" />
+	<meta name="dcterms.creator" title="Ministère de la Justice" content="Ministère de la Justice" />
+	<meta name="dcterms.title" content="Lois codifiés Règlements codifiés" />
+	<meta name="dcterms.issued" title="W3CDTF" content="2011-01-31" />
+	<meta name="dcterms.modified" title="W3CDTF" content="2012-01-31" />
+	<meta name="dcterms.subject" title="scheme" content="Lois codifiés Règlements codifiés" />
+	<meta name="dcterms.language" title="ISO639-2" content="fra" />
+	<!-- Meta-data ends / Fin des métadonnées -->
+
+	<!-- WET scripts/CSS begin / D�but des scripts/CSS de la BOEW --><!--[if IE 6]><![endif]-->
+	<link href="/css/base.css" rel="stylesheet" type="text/css" />
+	<!--[if IE 8]><link href="/css/base-ie8.css" rel="stylesheet" type="text/css" /><![endif]-->
+	<!--[if IE 7]><link href="/css/base-ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
+	<!--[if lte IE 6]><link href="/css/base-ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+
+	<link href="/css/main.css" rel="stylesheet" type="text/css" />
+ <link href="/css/sm-pe-base.css" rel="stylesheet" type="text/css" />
+	<link href="/css/sm-pe-theme-clf2-nsi2.css" rel="stylesheet" type="text/css" />
+<!-- clf2-nsi2 theme begins / D�but du th�me clf2-nsi2 -->
+	<link href="/css/theme-clf2-nsi2.css" rel="stylesheet" type="text/css" />
+	<!--[if IE 7]><link href="/css/theme-clf2-nsi2-ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
+	<!--[if lte IE 6]><link href="/css/theme-clf2-nsi2-ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+<!-- clf2-nsi2 theme ends / Fin du th�me clf2-nsi2 -->
+	<!-- WET scripts/CSS end / Fin des scripts/CSS de la BOEW -->
+
+	<!-- Progressive enhancement begins / D�but de l'am�lioration progressive -->
+	<script src="/js/lib/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/pe-ap.js" type="text/javascript" id="progressive"></script>
+	<script type="text/javascript">
+	    /* <![CDATA[ */
+	var params = {
+		searchTermHighlighting: { minLength: "2", lookWithin: ".searchable", defaultTerms: "" } 
+	};
+	PE.progress(params);
+	/* ]]> */
+	</script>
+	<!-- Progressive enhancement ends / Fin de l'am�lioration progressive -->
+	<!-- Custom scripts/CSS begin / D�but des scripts/CSS personnalis�s -->
+	<link rel="stylesheet" type="text/css" href="/css/institution.css" />
+    <link rel="stylesheet" type="text/css" href="/css/browse.css" />
+    <link rel="stylesheet" type="text/css" href="/css/commonView.css" />
+    <link rel="stylesheet" type="text/css" href="/css/lawContent.css" />
+	<link rel="stylesheet" type="text/css" href="/css/privlaw.css" />
+    <!-- Custom scripts/CSS end / Fin des scripts/CSS personnalis�s -->
+
+<!-- WET print CSS begins / D�but du CSS de la BOEW pour l'impression -->
+	<link href="/css/pf-if.css" rel="stylesheet" media="print" type="text/css" />
+<!-- clf2-nsi2 theme begins / D�but du th�me clf2-nsi2 -->
+	<link href="/css/pf-if-theme-clf2-nsi2.css" rel="stylesheet" media="print" type="text/css" />
+<!-- clf2-nsi2 theme ends / Fin du th�me clf2-nsi2 -->
+	<!-- WET print CSS ends / Fin du CSS de la BOEW pour l'impression -->
+</head>
+<body>
+<!-- Two column layout begins / D�but de la mise en page de deux colonnes -->
+<div id="cn-body-inner-2col">
+<!--#include virtual="/includes/cn-banner-f.inc" -->
+<!-- Breadcrumb begins / D�but du fil d'Ariane -->
+			<div id="cn-bcrumb">
+				<h2>fil d'Ariane</h2>
+				<ol>
+					<li><a class="breadcrumbs" href="/fra/">Page principale</a>&#x00A0;&gt;&#x00A0;</li>
+					<li>Aide g&eacute;n&eacute;rale</li>
+				</ol>
+			</div>
+			<!-- Breadcrumb ends / Fin du fil d'Ariane -->	
+		</nav>
+<!-- clf2-nsi2 theme ends / Fin du th�me clf2-nsi2 -->
+	</header>
+	</div>
+	</div>
+	<!-- Header ends / Fin de l'en-t�te -->	
+
+<div id="cn-cols"><!-- Main content begins / Début du contenu principal -->
+	<div id="cn-centre-col-gap"></div>
+	<div id="cn-centre-col" role="main">
+		<div id="cn-centre-col-inner">
+			<section>
+			
+<!-- CONTENT TITLE BEGINS | DEBUT DU TITRE DU CONTENU -->
+<h1 id="cn-cont">Aide g&eacute;n&eacute;rale</h1>
+
+<!-- CONTENT TITLE ENDS | FIN DU TITRE DU CONTENU -->
+
+
+		<div class="lineSeparator">
+		</div>
+<div id="search-term-highlighting-form"></div> 
+
+<div class="searchable">
+<div role="navigation">
+<nav>
+<ul>
+<li><a href="#menuNavGauche">Menu de navigation &agrave; gauche</a></li>
+<li><a href="#toc">Table des mati&egrave;res</a></li>
+<li><a href="#viewDoc">Affichage du document</a></li>
+</ul>
+</nav>
+</div>
+
+<h2 id="menuNavGauche">Menu de navigation &agrave; gauche</h2>
+
+<p>
+Le menu de gauche permet de naviguer sur le Site Web de la législation (Justice). Les liens sont regroup&eacute;s comme suit :
+</p>
+
+<ul>
+	<li>Lois – lois et r&egrave;glements f&eacute;d&eacute;raux et autres documents juridiques</li>
+	<li>Recherche – voir la page <a id="AideRecherche" href="/fra/AideRecherche">Aide &agrave; la recherche</a></li>
+	<li>Ressources – liens utiles aux outils de recherche et aux sites Web</li>
+	<li>Aide – aide sur l’utilisation du site Web</li>
+</ul>
+
+<h2 id="toc">Table des mati&egrave;res</h2>
+
+<p>
+Lorsque vous sélectionnez une loi ou un règlement, vous accédez automatiquement à leur table des matières. Cette table des matières présente les caractéristiques et renseignements suivants : 
+</p>
+
+<ul>
+	<li>Dates de mise à jour et de dernière modification</li>
+	<li>Liste des titres et numéro de l’article qui suit chaque titre, et lien qui permet l’affichage de cet article </li>
+	<li>Accès aux documents complets des versions antérieures</li>
+	<li>Liens vers les informations connexes comme « Dispositions connexes » et « Modifications non en vigueur »</li>
+	<li>Pour les lois, des liens vers les règlements pris en vertu de la loi</li>
+	<li>Pour les règlements, des liens vers la ou les lois habilitantes</li>
+	<li>Accès au document complet en versions HTML, XML et PDF pour la codification courante</li>
+</ul>
+
+
+<h2 id="viewDoc">Affichage du document</h2>
+
+<p>
+Aperçu de l’ensemble des documents présentés page par page. Le document affiché présente les caractéristiques et renseignements suivants :
+</p>
+
+<ul>
+	<li>Au début et à la fin de chaque page, on trouve un menu permettant de naviguer dans le texte et, grâce à des liens, d’une page à l’autre</li>
+	<li>On trouve l’information « à jour » parmi les renseignements en haut de la page</li>
+	<li>Accès aux documents complets en versions HTML, XML et PDF pour la codification courante</li>
+	<li>Liens avec les lois et règlements codifiés connexes référés dans le document</li>
+	<li>Liens d’accès aux versions antérieures des articles et annexes modifiés individuellement</li>
+	<li>Option de mettre une occurrence en surbrillance</li>
+
+</ul>
+		</div>
+			
+<!-- clf2-nsi2 theme ends / Fin du thème clf2-nsi2 -->
+			</section>
+		</div>
+	</div>
+<!-- Main content ends / Fin du contenu principal --> 
+<!--#include virtual="/includes/cn-left-f.inc" -->
+</div>
+<!--#include virtual="/includes/cn-footer-f.inc" -->
+</div><!-- Two column layout ends / Fin de la mis en page de deux colonnes --></body></html>

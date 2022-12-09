@@ -1,0 +1,161 @@
+﻿<!DOCTYPE html>
+<!--[if IE 7]> <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en" class="no-js">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<!-- Web Experience Toolkit (WET) / Bo?te ? outils de l'exp?rience Web (BOEW)
+www.tbs.gc.ca/ws-nw/wet-boew/terms / www.sct.gc.ca/ws-nw/wet-boew/conditions -->
+	<title>Related Resources</title>
+<link rel="shortcut icon" href="/build/theme-gcwu-fegc/images/favicon.ico" />
+	<meta name="dcterms.description" content="Consolidated federal laws of canada" />
+	<meta name="description" content="Consolidated federal laws of canada" />
+	<meta name="keywords" content="Consolidated federal laws of canada" />
+	<meta name="dcterms.creator" title="Department of Justice" content="Legislative Services Branch" />
+	<meta name="dcterms.title" content="Consolidated federal laws of canada" />
+	<meta name="dcterms.issued" title="W3CDTF" content="2011-01-01" />
+	<meta name="dcterms.modified" title="W3CDTF" content="2012-01-25" />
+	<meta name="dcterms.subject" title="scheme" content="Consolidated federal laws of canada" />
+	<meta name="dcterms.language" title="ISO639-2" content="eng" />
+	<!-- Meta-data ends / Fin des m�tadonn�es -->
+
+<script src="/build/js/jquery.min.js"></script>
+<!--[if lte IE 8]>
+<script src="/build/js/polyfills/html5shiv-min.js"></script>
+<link rel="stylesheet" href="/build/grids/css/util-ie-min.css" />
+<link rel="stylesheet" href="/build/js/css/pe-ap-ie-min.css" />
+<link rel="stylesheet" href="/build/theme-gcwu-fegc/css/theme-ie-min.css" />
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="/build/grids/css/util-min.css" />
+<link rel="stylesheet" href="/build/js/css/pe-ap-min.css" />
+<link rel="stylesheet" href="/build/theme-gcwu-fegc/css/theme-min.css" />
+<!--<![endif]-->
+
+<!-- CustomScriptsCSSStart -->
+<link rel="stylesheet" type="text/css" href="/css/browse.css" />
+<link rel="stylesheet" type="text/css" href="/css/commonView.css" />
+<link rel="stylesheet" type="text/css" href="/css/lawContent.css" />
+<!-- CustomScriptsCSSEnd -->
+</head>
+<body><div id="wb-body-sec">
+<div id="wb-skip">
+<ul id="wb-tphp">
+<li id="wb-skip1"><a href="#wb-cont">Skip to main content</a></li>
+<li id="wb-skip2"><a href="#wb-nav">Skip to secondary menu</a></li>
+</ul>
+</div><div id="wb-head"><div id="wb-head-in"><header>
+<!-- HeaderStart -->
+<!--#include virtual="/includes/banner-e.inc" -->
+
+<nav role="navigation">
+<!--#include virtual="/includes/menubar-e.inc" -->
+<div id="gcwu-bc"><h2>Breadcrumb trail</h2><div id="gcwu-bc-in">
+<ol><li><a class="breadcrumbs" href="http://www.justice.gc.ca/eng">Home</a></li>
+<li><a class="breadcrumbs" href="/eng">Laws Website Home</a></li>
+<li>Related Resources</li>
+</ol>
+</div></div>
+</nav>
+<!-- HeaderEnd -->
+</header></div></div>
+
+
+
+<div id="wb-core"><div id="wb-core-in" class="equalize">
+<div id="wb-main" role="main"><div id="wb-main-in">
+<!-- MainContentStart -->
+	
+
+			<section>
+<!-- CONTENT TITLE BEGINS | DEBUT DU TITRE DU CONTENU -->
+<h1 class="IndexPage" id="wb-cont">Related Resources</h1>
+
+<!-- CONTENT TITLE ENDS | FIN DU TITRE DU CONTENU -->
+
+		<div class="leftResources">
+			<h2 class="sectionTitle">Income Tax</h2>
+			<ul class="statRes">
+				<li><a id="statIncomeTaxAct" class="statRes" href="/eng/acts/I-3.3/index.html">Income Tax Act</a></li>
+
+				<li><a id="statIncomeTaxRes" class="statRes" href="/eng/regulations/C.R.C.,_c._945/index.html">Income Tax Regulations</a></li>
+			</ul>
+			<h2 class="sectionTitle">Case Law</h2>
+			<ul class="statRes">
+				<li><a id="statJuris" class="statRes" href="http://www.canlii.org/en/index.html">Federal and Provincial Case Law (CANLII)</a></li>
+			</ul>
+
+			<h2 class="sectionTitle">Related Sites</h2>
+			<ul class="statRes">
+
+				<li><a id="statParlement" class="statRes" href="http://www.parl.gc.ca/LegisInfo/Home.aspx?language=E">Parliament (Bills)</a></li>
+
+				<li><a id="statLegisInfo" class="statRes" href="http://www.parl.gc.ca/LegisInfo/Home.aspx?language=E">LegisInfo</a></li>
+
+				<li><a id="statGazette" class="statRes" href="http://www.gazette.gc.ca/index-eng.html"  >Canada Gazette  </a></li>
+
+			</ul>
+
+			<h2 class="sectionTitle">Reference Documents</h2>
+			<ul class="statRes">
+				<li><a id="statGMFAR" class="statRes" href="http://www.pco-bcp.gc.ca/index.asp?lang=eng&amp;page=information&amp;sub=publications&amp;doc=legislation/table-eng.htm">Guide to Making Federal Acts and Regulations</a></li>
+
+				<li><a id="statGF" class="statRes" href="http://canada.justice.gc.ca/eng/dept-min/pub/juril/index.html">Federal guide to legislative jurilinguistics</a></li>
+
+				<li><a id="statFB" class="statRes" href="http://canada.justice.gc.ca/eng/pi/bj/harm/Index.html">Bijural Terminology Records</a></li>
+
+			</ul>
+		</div>
+
+
+		<div class="rightResources">
+
+		<h2 class="sectionTitle">Frequently Accessed Acts</h2>
+			<ul class="statRes">
+			<li><a class="statRes" href="/eng/acts/A-1/index.html">Access to Information Act</a>&nbsp;<a href="/PDF/A-1.pdf">[PDF: <!--#include virtual="/PDF/A-1_size.inc" --> Kb]</a></li>		
+			<li><a class="statRes" href="/eng/acts/E-2.01/index.html">Canada Elections Act</a>&nbsp;<a href="/PDF/E-2.01.pdf">[PDF: <!--#include virtual="/PDF/E-2.01_size.inc" --> Kb]</a></li>
+			<li><a class="statRes" href="/eng/acts/L-2/index.html">Canada Labour Code</a>&nbsp;<a href="/PDF/L-2.pdf">[PDF: <!--#include virtual="/PDF/L-2_size.inc" --> Kb]</a></li>
+			<li><a class="statRes" href="/eng/acts/C-34/index.html">Competition Act</a>&nbsp;<a href="/PDF/C-34.pdf">[PDF: <!--#include virtual="/PDF/C-34_size.inc" --> Kb]</a></li>
+			<li><a class="statRes" href="/eng/acts/C-38.7/index.html">Contraventions Act</a>&nbsp;<a href="/PDF/C-38.7.pdf">[PDF: <!--#include virtual="/PDF/C-38.7_size.inc" --> Kb]</a></li>
+			<li><a class="statRes" href="/eng/acts/C-38.8/index.html">Controlled Drugs and Substances Act </a>&nbsp;<a href="/PDF/C-38.8.pdf">[PDF: <!--#include virtual="/PDF/C-38.8_size.inc" --> Kb]</a></li>
+			<li><a class="statRes" href="/eng/acts/C-42/index.html">Copyright Act</a>&nbsp;<a href="/PDF/C-42.pdf">[PDF: <!--#include virtual="/PDF/C-42_size.inc" --> Kb]</a></li>			
+			<li><a class="statRes" href="/eng/acts/C-46/index.html">Criminal Code</a>&nbsp;<a href="/PDF/C-46.pdf">[PDF: <!--#include virtual="/PDF/C-46_size.inc" --> Kb]</a></li>
+			<li><a class="statRes" href="/eng/acts/D-3.4/index.html">Divorce Act</a>&nbsp;<a href="/PDF/D-3.4.pdf">[PDF: <!--#include virtual="/PDF/D-3.4_size.inc" --> Kb]</a></li>
+			<li><a class="statRes" href="/eng/acts/F-11/index.html">Financial Administration Act</a>&nbsp;<a href="/PDF/F-11.pdf">[PDF: <!--#include virtual="/PDF/F-11_size.inc" --> Kb]</a></li>
+			<li><a class="statRes" href="/eng/acts/I-2.5/index.html">Immigration and Refugee Protection Act</a>&nbsp;<a href="/PDF/I-2.5.pdf">[PDF: <!--#include virtual="/PDF/I-2.5_size.inc" --> Kb]</a></li>
+			<li><a class="statRes" href="/eng/acts/I-3.3/index.html">Income Tax Act</a>&nbsp;<a href="/PDF/I-3.3.pdf">[PDF: <!--#include virtual="/PDF/I-3.3_size.inc" --> Kb]</a></li>
+			<li><a class="statRes" href="/eng/acts/P-6/index.html">Pension Act</a>&nbsp;<a href="/PDF/P-6.pdf">[PDF: <!--#include virtual="/PDF/P-6_size.inc" --> Kb]</a></li>
+			<li><a class="statRes" href="/eng/acts/P-21/index.html">Privacy Act</a>&nbsp;<a href="/PDF/P-21.pdf">[PDF: <!--#include virtual="/PDF/P-21_size.inc" --> Kb]</a></li>
+			
+			<li><a class="statRes" href="/eng/acts/Y-1.5/index.html">Youth Criminal Justice Act</a>&nbsp;<a href="/PDF/Y-1.5.pdf">[PDF: <!--#include virtual="/PDF/Y-1.5_size.inc" --> Kb]</a></li></ul>
+ 
+			<h2 class="sectionTitle">Frequently Accessed Regulations</h2>
+ 
+			<ul class="statRes">	
+				<li><a class="statRes" href="/eng/regulations/SOR-86-304/index.html">Canada Occupational Health and Safety Regulations</a>&nbsp;<a href="/PDF/SOR-86-304.pdf">[PDF <!--#include virtual="/PDF/SOR-86-304_size.inc" --> kb]</a></li>
+			<li><a class="statRes" href="/eng/regulations/C.R.C.,_c._870/index.html">Food and Drug Regulations</a>&nbsp;<a href="/PDF/C.R.C.-c.870.pdf">[PDF <!--#include virtual="/PDF/C.R.C.,_c._870_size.inc" --> kb]</a></li>
+			<li><a class="statRes" href="/eng/regulations/C.R.C.,_c._945/index.html">Income Tax Regulations</a>&nbsp;<a href="/PDF/C.R.C.,_c._945.pdf">[PDF <!--#include virtual="/PDF/C.R.C.,_c._945_size.inc" -->]</a></li>
+			<li><a class="statRes" href="/eng/regulations/C.R.C.,_c._1035/index.html">Migratory Birds Regulations</a>&nbsp;<a href="/PDF/C.R.C.,_c._1035.pdf">[PDF <!--#include virtual="/PDF/C.R.C.,_c._1035_size.inc" -->]</a></li>
+			</ul>
+		</div>
+
+   
+
+			</section>
+		</div>
+<!--#include virtual="/includes/gcwu-date-mod-e.inc" -->
+<!-- clf2-nsi2 theme ends / Fin du thème clf2-nsi2 -->
+	</div>
+
+<!--#include virtual="/includes/wb-sec-e.inc" -->
+</div></div><!-- End of wb-core -->
+<!--#include virtual="/includes/wb-foot-e.inc" -->
+</div>
+<!-- ScriptsStart -->
+<script src="/build/theme-gcwu-fegc/js/theme-min.js"></script>
+<script src="/build/js/settings.js"></script>
+<script src="/build/js/pe-ap-min.js"></script>
+<!-- ScriptsEnd -->
+</body></html>

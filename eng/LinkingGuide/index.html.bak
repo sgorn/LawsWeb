@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en" xml:lang="en">
+<head>
+    <meta charset="utf-8" />
+	<link rel="schema.dcterms" href="http://purl.org/dc/terms/" />
+
+	<!-- Web Experience Toolkit (WET) / Bo�te � outils de l'exp�rience Web (BOEW)
+	Terms and conditions of use: http://tbs-sct.ircan.gc.ca/projects/gcwwwtemplates/wiki/Terms
+	Conditions r�gissant l'utilisation : http://tbs-sct.ircan.gc.ca/projects/gcwwwtemplates/wiki/Conditions
+	-->
+
+	<!-- Title begins / D�but du titre -->
+	<title>Statutes and Regulations of Canada linking guide</title>
+	<!-- Title ends / Fin du titre -->
+	
+	<!-- Favicon (optional) begins / D�but du favicon (optionnel) -->
+	 <link rel="shortcut icon" href="/images/favicon.ico" />
+	<!-- Favicon (optional) ends / Find du favicon (optionnel) -->
+	
+	<!-- Meta-data begins / D�but des m�tadonn�es -->
+	<meta name="dcterms.description" content="Consolidated federal laws of canada" />
+	<meta name="description" content="Consolidated federal laws of canada" />
+	<meta name="keywords" content="Consolidated federal laws of canada" />
+	<meta name="dcterms.creator" title="Department of Justice" content="Legislative Services Branch" />
+	<meta name="dcterms.title" content="Consolidated federal laws of canada" />
+	<meta name="dcterms.issued" title="W3CDTF" content="2011-01-01" />
+	<meta name="dcterms.modified" title="W3CDTF" content="2011-01-01" />
+	<meta name="dcterms.subject" title="scheme" content="Consolidated federal laws of canada" />
+	<meta name="dcterms.language" title="ISO639-2" content="eng" />
+	<!-- Meta-data ends / Fin des m�tadonn�es -->
+	
+	<meta name="lawType" content="Help" />
+
+	<!-- WET scripts/CSS begin / D�but des scripts/CSS de la BOEW --><!--[if IE 6]><![endif]-->
+	<link href="/css/base.css" rel="stylesheet" type="text/css" />
+	<!--[if IE 8]><link href="/css/base-ie8.css" rel="stylesheet" type="text/css" /><![endif]-->
+	<!--[if IE 7]><link href="/css/base-ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
+	<!--[if lte IE 6]><link href="/css/base-ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+
+	<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<!-- clf2-nsi2 theme begins / D�but du th�me clf2-nsi2 -->
+	<link href="/css/theme-clf2-nsi2.css" rel="stylesheet" type="text/css" />
+	<!--[if IE 7]><link href="/css/theme-clf2-nsi2-ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
+	<!--[if lte IE 6]><link href="/css/theme-clf2-nsi2-ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+<!-- clf2-nsi2 theme ends / Fin du th�me clf2-nsi2 -->
+	<!-- WET scripts/CSS end / Fin des scripts/CSS de la BOEW -->
+
+	<!-- Progressive enhancement begins / D�but de l'am�lioration progressive -->
+	<script src="/js/lib/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/pe-ap.js" type="text/javascript" id="progressive"></script>
+	<script type="text/javascript">
+	    /* <![CDATA[ */
+	var params = {
+		searchTermHighlighting: { minLength: "2", lookWithin: ".searchable", defaultTerms: "" } 
+	};
+	PE.progress(params);
+	/* ]]> */
+	</script>
+	<!-- Progressive enhancement ends / Fin de l'am�lioration progressive -->
+	<!-- Custom scripts/CSS begin / D�but des scripts/CSS personnalis�s -->
+	<link rel="stylesheet" type="text/css" href="/css/institution.css" />
+    <link rel="stylesheet" type="text/css" href="/css/browse.css" />
+    <link rel="stylesheet" type="text/css" href="/css/commonView.css" />
+    <link rel="stylesheet" type="text/css" href="/css/lawContent.css" />
+    <!-- Custom scripts/CSS end / Fin des scripts/CSS personnalis�s -->
+
+<!-- WET print CSS begins / D�but du CSS de la BOEW pour l'impression -->
+	<link href="/css/pf-if.css" rel="stylesheet" media="print" type="text/css" />
+<!-- clf2-nsi2 theme begins / D�but du th�me clf2-nsi2 -->
+	<link href="/css/pf-if-theme-clf2-nsi2.css" rel="stylesheet" media="print" type="text/css" />
+<!-- clf2-nsi2 theme ends / Fin du th�me clf2-nsi2 -->
+	<!-- WET print CSS ends / Fin du CSS de la BOEW pour l'impression -->
+</head>
+<body>
+<!-- Two column layout begins / D�but de la mise en page de deux colonnes -->
+<div id="cn-body-inner-2col">
+
+	<!--#include virtual="includes/cn-banner-e.inc" -->
+	
+<!-- Breadcrumb begins / D�but du fil d'Ariane -->
+			<div id="cn-bcrumb">
+				<h2>Breadcrumb</h2>
+				<ol><li><a rel="up" class="breadcrumbs" href="http://www.laws-lois.justice.gc.ca">Home</a>&#x00A0;&gt;&#x00A0;</li>
+				<li>How to Create Stable Links</li>
+				</ol>
+			</div>
+			<!-- Breadcrumb ends / Fin du fil d'Ariane -->	
+		</nav>
+<!-- clf2-nsi2 theme ends / Fin du th�me clf2-nsi2 -->
+	</header>
+	</div>
+	</div>
+	<!-- Header ends / Fin de l'en-t�te -->	
+<div id="cn-cols"><!-- Main content begins / Début du contenu principal -->
+<div id="cn-centre-col-gap"></div>
+	<div id="cn-centre-col" role="main">
+		<div id="cn-centre-col-inner">
+			<section>
+<!-- CONTENT TITLE BEGINS | DEBUT DU TITRE DU CONTENU -->
+
+<h1 id="cn-cont">How to Create Stable Links</h1>
+
+<!-- CONTENT TITLE ENDS | FIN DU TITRE DU CONTENU -->
+
+		<div class="lineSeparator">
+		</div>
+<div id="search-term-highlighting-form"></div> 
+
+<div class="searchable">
+
+<p>This online resource of Laws is updated regularly. When creating a link to a particular section within a consolidated Act or regulation, it should be done in such a way as to avoid creating broken links when the site is updated. To create stable links, we encourage you to follow the recommendations below.</p>
+
+<p>Using the Consolidated Acts or Consolidated Regulations listings, navigate to the Table of Contents page for the desired law to find the <abbr title="Uniform Resource Locator">URL</abbr>.  For example the <abbr title="Uniform Resource Locator">URL</abbr> for the <span class="Italic">Access to Information Act</span> is:</p>
+
+<p><a href="/eng/acts/A-1/index.html">http://laws-lois.justice.gc.ca/eng/acts/A-1/index.html</a></p>
+
+<p>You can create a stable link to the Table of Contents page, a particular section or to the full document.</p>
+
+<p>For example to create a link to section 1 of the <span class="Italic">Access to Information Act</span>, replace "index.html" with "section-1.html".</p>
+
+<p><a href="/eng/acts/A-1/section-1.html">http://laws-lois.justice.gc.ca/eng/acts/A-1/section-1.html</a></p>
+
+<p>To create a link to the full document version of the <span class="Italic">Access to Information Act</span>, replace the "index.html" with "FullText.html".</p>
+
+<p><a href="/eng/acts/A-1/FullText.html">http://laws-lois.justice.gc.ca/eng/acts/A-1/FullText.html</a></p>
+
+
+		</div>
+
+			</section>
+<!-- clf2-nsi2 theme ends / Fin du thème clf2-nsi2 -->
+		</div>
+	</div>
+
+<!-- Main content ends / Fin du contenu principal --> 
+<!--#include virtual="/includes/cn-left-e.inc" -->
+</div>
+<!--#include virtual="/includes/cn-footer-e.inc" -->
+</div><!-- Two column layout ends / Fin de la mis en page de deux colonnes -->
+</body></html>

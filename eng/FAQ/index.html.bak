@@ -1,0 +1,357 @@
+﻿<!DOCTYPE html>
+<!--[if IE 7]> <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en" class="no-js">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<!-- Web Experience Toolkit (WET) / Bo?te ? outils de l'exp?rience Web (BOEW)
+www.tbs.gc.ca/ws-nw/wet-boew/terms / www.sct.gc.ca/ws-nw/wet-boew/conditions -->
+	<title>Frequently Asked Questions</title>
+	 <link rel="shortcut icon" href="/build/theme-gcwu-fegc/images/favicon.ico" />
+	<!-- Meta-data begins / D�but des m�tadonn�es -->
+	<meta name="dcterms.description" content="Consolidated federal laws of canada" />
+	<meta name="description" content="Consolidated federal laws of canada" />
+	<meta name="keywords" content="Consolidated federal laws of canada" />
+	<meta name="dcterms.creator" title="Department of Justice" content="Legislative Services Branch" />
+	<meta name="dcterms.title" content="Consolidated federal laws of canada" />
+	<meta name="dcterms.issued" title="W3CDTF" content="2011-01-01" />
+	<meta name="dcterms.modified" title="W3CDTF" content="2012-01-30" />
+	<meta name="dcterms.subject" title="scheme" content="Consolidated federal laws of canada" />
+	<meta name="dcterms.language" title="ISO639-2" content="eng" />
+	<!-- Meta-data ends / Fin des m�tadonn�es -->
+
+
+<script src="/build/js/jquery.min.js"></script>
+<!--[if lte IE 8]>
+<script src="/build/js/polyfills/html5shiv-min.js"></script>
+<link rel="stylesheet" href="/build/grids/css/util-ie-min.css" />
+<link rel="stylesheet" href="/build/js/css/pe-ap-ie-min.css" />
+<link rel="stylesheet" href="/build/theme-gcwu-fegc/css/theme-ie-min.css" />
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="/build/grids/css/util-min.css" />
+<link rel="stylesheet" href="/build/js/css/pe-ap-min.css" />
+<link rel="stylesheet" href="/build/theme-gcwu-fegc/css/theme-min.css" />
+<!--<![endif]-->
+
+<!-- CustomScriptsCSSStart -->
+<link rel="stylesheet" type="text/css" href="/css/browse.css" />
+<link rel="stylesheet" type="text/css" href="/css/commonView.css" />
+<link rel="stylesheet" type="text/css" href="/css/lawContent.css" />
+<!-- CustomScriptsCSSEnd -->
+</head>
+<body>
+<div id="wb-body-sec">
+<div id="wb-skip">
+<ul id="wb-tphp">
+<li id="wb-skip1"><a href="#wb-cont">Skip to main content</a></li>
+<li id="wb-skip2"><a href="#wb-nav">Skip to secondary menu</a></li>
+</ul>
+</div><div id="wb-head"><div id="wb-head-in"><header>
+<!-- HeaderStart -->
+<!--#include virtual="/includes/banner-e.inc" -->
+
+<nav role="navigation">
+<!--#include virtual="/includes/menubar-e.inc" -->
+<div id="gcwu-bc"><h2>Breadcrumb trail</h2><div id="gcwu-bc-in">
+<ol><li><a class="breadcrumbs" href="http://www.justice.gc.ca/eng">Home</a></li>
+<li><a class="breadcrumbs" href="/eng">Laws Website Home</a></li>
+<li>FAQ</li>
+</ol>
+</div></div>
+</nav>
+<!-- HeaderEnd -->
+</header></div></div>
+<div id="wb-core"><div id="wb-core-in" class="equalize">
+<div id="wb-main" role="main"><div id="wb-main-in">
+<!-- MainContentStart -->
+		
+
+<!-- CONTENT TITLE BEGINS | DEBUT DU TITRE DU CONTENU -->
+
+<h1 id="wb-cont">Frequently Asked Questions</h1>
+
+<div class="wet-boew-texthighlight">
+	<div role="navigation">
+	<nav>
+	<h2><a id="FAQGeneral">General</a></h2>
+           <ul>
+		<li><a id="l_g1" href="#g1">What are consolidated Acts and regulations?</a></li>
+		<li><a id="l_g9" href="#g9">Are&nbsp;the consolidated Acts and regulations the official versions?</a></li>
+		<li><a id="l_g5_5" href="#g5_5">How often is the website updated?</a></li>
+		<li><a id="l_g6" href="#g6">How current are the Acts and regulations?</a></li>
+		<li><a id="l_g6-1" href="#g6-1">What does the last amended date mean?</a></li>
+		<li><a id="l_g6-2" href="#g6-2">In what format are dates displayed on the Justice Laws Website?</a></li>
+		<li><a id="l_g10" href="#g10">What does the shading of provisions mean?</a></li>
+		<li><a id="l_g2" href="#g2">What are the citations found at the end of some sections and schedules?</a></li>
+		<li><a id="l_g2_01" href="#g2_01">What do the square brackets mean?</a></li>
+		<li><a id="l_g2_02" href="#g2_02">What are "Related Provisions” in consolidated Acts or regulations?</a></li>
+		<li><a id="l_g2_1" href="#g2_1">What are the Amendments Not in Force?</a></li>
+		<li><a id="l_g4" href="#g4">How can I see previous points in time for consolidated Acts and regulations?</a></li>
+		<li><a id="l_g5" href="#g5">How far back does the point-in-time data go?</a></li>
+		<li><a id="l_g7" href="#g7">What are the Annual Statutes?</a></li>
+		<li><a id="l_g8" href="#g8">Where can I go to find Annual Statutes enacted before 2001?</a></li>
+		<li><a id="l_g11" href="#g11">Where can I go to find the texts of Appropriation Acts?</a></li>
+		<li><a id="l_g3" href="#g3">How do I print a document?</a></li>
+		<li><a id="l_g3-1" href="#g3-1">How do I save an XML version of the current consolidation for an Act or regulation?</a></li>
+		<li><a id="l_g18" href="#g18">What is the list of repealed statutes included on the main page of the <cite><i>Table of Public Statutes and Responsible Ministers</i></cite>?</a></li>
+
+            </ul>
+	<h2><a id="FAQsearch">Search</a></h2>
+
+            <ul>
+		<li><a id="l_s1" href="#s1">How do I search the database?</a></li>
+		<li><a id="l_s3" href="#s3">How do I search in a particular Act, regulation or Annual Statute?</a></li>
+		<li><a id="l_s3-1" href="#s3-1">How do I search previous points in time for consolidated Acts and regulations?</a></li>
+            </ul>
+
+	<h2><a id="FAQNav">Navigation</a></h2>
+    <ul>
+		<li><a id="l_n01" href="#n01">What is the Table of Contents tab?</a></li>
+		<li><a id="l_n1" href="#n1">How do I switch between the English and French versions of a document?</a></li>
+		<li><a id="l_n2" href="#n2">Can I see a side-by-side version of the French and English Acts or regulations?</a></li>
+		<li><a id="l_n02" href="#n02">How can I see a list of provisions and easily navigate to them in <abbr title="Portable Document Format">PDF</abbr> documents of consolidated legislation?</a></li>
+		<li><a id="l_n3" href="#n3">How can I find regulations made pursuant to a particular Act?</a></li>
+		<li><a id="l_n5" href="#n5">Where are the &ldquo;Other Documents&rdquo; that used to be available on the left navigation menu?</a></li>
+		<li><a id="l_n6" href="#n6">How can I create stable links to an Act or regulation on my website?</a></li>
+		<li><a id="l_n7" href="#n7">What are “breadcrumbs” and what are they used for?</a></li>
+
+            </ul>
+		</nav>
+		</div>
+		<div class="lineSeparator"></div>
+
+	<section>	
+	<h2><a id="FAQGeneralSection">General</a></h2>
+            <ul>
+              <li><h3 id="g1" class="FaqTitle">What are consolidated Acts and regulations?</h3>
+
+                <p>When the federal government makes changes to Canadian law, often it will create "amending" Acts or regulations.  These amending documents make changes to existing laws.  For example, if the government wishes to add a new offence to the <span class="Italic">Criminal Code</span>, it will not rewrite the entire document or create a new, separate Code, but will create an amending Act. The amending Act will add new sections or make changes to existing sections of the <span class="Italic">Criminal Code</span>. A consolidated Act or regulation is one that has been updated and incorporates the amendments into the original text.</p>
+
+<p>The Justice Laws Website provides a consolidation, or updated version, of the federal Acts and regulations maintained by the Department of Justice as a convenient way for the public to view the state of the law, without having to carry out research and put together the various amended provisions.</p>
+
+              </li>
+              <li><h3 id="g9" class="FaqTitle">Are the consolidated Acts and regulations&nbsp; the official versions?</h3>
+
+                <p>Yes. As of June 1, 2009, all consolidated Acts and regulations on the Justice Laws Website are "official", meaning that they can be used for evidentiary purposes. This is the result of the coming into force on that date of amendments made to the <i>Statute Revision Act</i>, which has been renamed the <i>Legislation Revision and Consolidation Act</i>.  For more information see the <a href="/eng/ImportantNote">Important Note</a> page and section 31 of the <i>Legislation Revision and Consolidation Act</i>.
+
+</p>
+
+              </li>
+              <li><h3 id="g5_5" class="FaqTitle">How often is the website updated?</h3>
+
+                <p>
+		The Justice Laws Website is generally updated every two weeks.</p>
+              </li>
+              <li><h3 id="g6" class="FaqTitle">How current are the Acts and regulations?</h3>
+
+	      <p>Each Act and regulation in the database store their own consolidation date.&nbsp;The current-to date is displayed in the header area of every
+
+document.&nbsp;In general, most of the Acts will be current to the same date and most of the regulations will be current to the same date,
+
+but the updating system does allow documents to be current to different dates.</p>
+
+</li>
+
+              <li><h3 id="g6-1" class="FaqTitle">What does the last amended date mean?</h3>
+
+	      <p>The last amended date, displayed in the header area of Acts and regulations and on the <abbr title="Portable Document Format">PDF</abbr> cover page where applicable, shows the date on which the Act or regulation was last modified by amendment. This date differs from the current-to date and only changes when an amendment is applied.</p>
+
+</li>
+
+<li><h3 id="g6-2" class="FaqTitle">In what format are dates displayed on the Justice Laws Website?</h3>
+
+	      <p>Dates are displayed in the YYYY-MM-DD format.
+</p>
+
+</li>
+<li><h3 id="g10" class="FaqTitle">What does the shading of provisions mean?</h3>
+
+<p>A new feature has been added to the consolidated Laws on the Justice Laws Website: provisions in <em><span class="underLine">original enactments that are not yet in force</span></em> will be shaded. As those provisions are brought into force, the shading will be removed. This will make it possible to easily identify which provisions of original enactments are or are not yet in force.</p>
+
+<p>Note that this feature is effective only as of November 25, 2009 and therefore does not apply to point-in-time searches before that date.</p>
+
+              </li>
+
+	      <li><h3 id="g2" class="FaqTitle">What are the citations found at the end of some sections and schedules?</h3>
+
+            <p>The citations indicate that the section or schedule has been amended.&nbsp;Each citation refers to an amending Act or regulation. &nbsp;The citations represent the history of the particular provision.</p>
+
+	      </li>
+            </ul>
+            <ul>
+              <li><h3 id="g2_01" class="FaqTitle">What do the square brackets mean?</h3>
+             <p>The square brackets often indicate that the text inside is editorial and not part of the law.&nbsp;We will often add helpful information inside of the editorial notes such as coming in force dates.</p>
+
+              </li>
+              <li><h3 id="g2_02" class="FaqTitle">What are "Related Provisions” in consolidated Acts or regulations?</h3>
+
+<p>The text of a consolidated law may be followed by additional material under the heading RELATED PROVISIONS. These provisions are transitional or application provisions or provisions that are in some other way related to the Act or regulation in which they appear, but they are not part of that Act or regulation.</p> 
+<p>The citation appearing before the provision identifies the Act or statutory instrument (SOR or SI) that is the source of the provision. Source Acts enacted in 2001 or later may be found in the Annual Statutes collection (see left navigation menu).</p>
+              </li>
+              <li><h3 id="g2_1" class="FaqTitle">What are the Amendments Not in Force?</h3>
+
+<p>The Amendments Not in Force link, found in the <strong>Table of Contents</strong> page in some consolidated Acts and regulations,opens a list of provisions taken from enacted "amending" Acts or regulations. &nbsp;These provisions however are not in force (eg. not yet in effect) at the current consolidation date. &nbsp;Therefore the prescribed changes have not yet been made to the consolidated text. &nbsp;These provisions are included for convenience of reference.</p>
+<p>The Amendments Not in Force link can also be accessed in the browse drop-down menu when navigating through an Act or regulation in <a href="/eng/GeneralHelp/#documentView" class="Bold">Document View</a>.</p>
+              </li>
+	      <li><h3 id="g4" class="FaqTitle">How can I see previous points in time for consolidated Acts and regulations?</h3>
+
+	      <p>
+	      The <strong>Previous Versions</strong> link, when found in the header area of consolidated Acts and regulations, opens a list of full documents available for previous versions. Click on the desired time frame from the range of dates to see the legislation in force for the selected period. 
+	      </p>
+<p>
+	      To see previous versions of individual amended sections and schedules, click on the <strong>Previous Version</strong> link when found at the end of the section or schedule while viewing the current consolidation. A new page opens with the content of the previous version and the option to cycle between points in time by using the <strong>Previous Version</strong> and <strong>Next Version</strong> links. The in-force date range for that particular section or schedule can be seen at the top of the page.
+</p>
+              </li>
+              <li><h3 id="g5" class="FaqTitle">How far back does the Point-in-time data go?</h3>
+ <p>Generally, the Point-in-time data is available from <strong>January 1, 2003</strong> onwards for the Acts and <strong>March 22, 2006</strong> onwards for the regulations. </p>
+<p>The Point-in-time data for the&nbsp; Income Tax Act and Regulations is available from&nbsp;August 31, 2004 onwards. </p>
+
+              </li>
+	      <li><h3 id="g7" class="FaqTitle">What are the Annual Statutes?</h3>
+<p>
+The Annual Statutes accessible on the Justice Laws Website are a collection of the Public General Acts in the form in which they were originally enacted by Parliament in a given calendar year. They include new Acts as well as Acts and provisions that amend existing Acts. Please see the <a href="http://www.gazette.gc.ca/rp-pr/p3/index-eng.html">Canada Gazette Part III</a> for the official versions of the individual original Acts.</p>
+              </li>
+
+	      <li><h3 id="g8" class="FaqTitle">Where can I go to find Annual Statutes enacted before 2001?</h3>
+	      <p>
+
+The Justice Laws website does not include Annual Statutes enacted before 2001. Please see the <a href="http://www.gazette.gc.ca/rp-pr/p3/index-eng.html">Canada Gazette Part III</a> for the Annual Statutes published from 1998 to the present. Paper versions of Annual Statutes enacted before 1998 are available in most public libraries.</p>
+
+              </li>
+              <li><h3 id="g11" class="FaqTitle">Where can I go to find the texts of Appropriation Acts?</h3>
+	      <p>Appropriation Acts are not included in the database of consolidated federal legislation. The texts of Appropriation Acts from 1999-2000 to the present can be found on the Treasury Board of Canada Secretariat website at the following address:
+	      </p>
+	      <p><a href="http://www.tbs-sct.gc.ca/est-pre/index-eng.asp">http://www.tbs-sct.gc.ca/est-pre/index-eng.asp</a></p>
+		</li>
+              <li><h3 id="g3" class="FaqTitle">How do I print a document?</h3>
+
+                <p>
+		Print the <strong><abbr title="Portable Document Format">PDF</abbr></strong> version of a document by clicking on the <abbr title="Portable Document Format">PDF</abbr> links provided. 
+		</p>
+<p>
+Print any page on the Justice Laws Website by using the Print option available in the Internet browser being used. The website automatically removes the menus and web-specific items for the purpose of printing a hard copy from the HTML version. Please see the directions outlined in the <a href="/eng/Printing">Printing Help</a> page for detailed printing help.
+</p>
+
+</li>
+              <li><h3 id="g3-1" class="FaqTitle">How do I save an XML version of the current consolidation for an Act or regulation?</h3>
+
+	      <p>An XML (Extensible Markup Language) version of the entire consolidated Act or regulation is available in the top information area on the <strong>Table of Contents</strong> page for Acts and regulations. Right-click on the XML link and choose <strong>Save Target As</strong> to save the file on your computer.
+		</p>
+		<p>Clicking the XML link will open the XML file in the Internet browser. </p>
+
+</li>
+<li><h3 id="g18" class="FaqTitle">What is the list of repealed statutes included on the main page of the <cite><i>Table of Public Statutes and Responsible Ministers</i></cite>?</h3>
+<p>To reduce the size of the <cite><i>Table of Public Statutes and Responsible Ministers</i></cite>, the information concerning statutes that were repealed more than a year ago has been removed from the Table. To keep a record of these repeals, the titles and information about the repeals have been moved to a separate page on the website. Generally speaking, the statutes on the list were repealed after 1984, since statutes repealed before then were omitted from the Table following the enactment of the Revised Statutes of Canada, 1985.
+</p>
+
+</li>
+      </ul>
+	<h2><a id="FAQsearchSection">Search</a></h2>
+            <ul>
+
+              <li><h3 id="s1" class="FaqTitle">How do I search the database?</h3>
+
+<p>
+A search can be performed by using the <strong>Basic</strong> or <strong>Advanced Search</strong> pages which can be accessed on the left navigational menu. The search engine offers a variety of powerful searching techniques which are explained in the <a href="/eng/SearchHelp">Search Help</a> pages.</p>
+
+              </li>
+              <li><h3 id="s3" class="FaqTitle">How do I search in a particular Act, regulation or Annual Statute?</h3>
+
+<p>
+	      In the header area on the Table of Contents page for each Act, regulation or Annual Statute, there is the option to perform a search within that particular document. 
+</p>	      
+<p>
+	      Alternatively, in the Basic and Advanced Search pages, use the&nbsp;<strong>Title</strong> or the&nbsp;<strong>Chapter/Registration #</strong> fields to filter the results of your search query for a particular Act or regulation. See <a href="/eng/SearchHelp">Search Help</a> pages for more details.
+</p>
+              </li>
+              <li><h3 id="s3-1" class="FaqTitle">How do I search previous points in time for consolidated Acts and regulations?</h3>
+
+	      <p>
+	      Point-in-time searches can be done using the <strong>Advanced Search</strong>. Enter the point-in-time date in the <strong>Select point in time</strong> field. Using the <strong>Select point in time</strong> search field together with the other search fields will return search results for previous versions of consolidated legislation. See <a href="/eng/SearchHelp">Search Help</a> for more detailed information
+</p>
+              </li>
+            </ul>
+	<h2><a id="FAQNavSection">Navigation</a></h2>
+            <ul>
+
+		<li><h3 id="n01" class="FaqTitle">What is the Table of Contents tab?</h3>
+<p>
+The Table of Contents tab, found on the right side of document pages, is a slide out menu which offers two methods of navigating through documents by selecting the appropriate tab.  
+</p>
+<p>
+The <strong>Headings</strong> tab displays the Table of Contents for the document which includes a list of headings, and the section number that follows each heading, that link to their exact location in <a href="/eng/GeneralHelp/#documentView" class="Bold">Document View</a>.
+</p>
+<p>
+The <strong>Sections/Schedules</strong> tab opens a drop-down menu that lists section ranges and schedules and allows you to easily navigate all pages of the document.   
+</p>
+
+              </li>
+              <li><h3 id="n1" class="FaqTitle">How do I switch between the English and French versions of a document?</h3>
+
+<p>
+In the top navigation bar at the top of every page on the website, you will see the link <strong>English</strong> or <strong>Français</strong>. These links will take you to the equivalent page in the language specified.  
+</p>
+              </li>
+	      <li><h3 id="n2" class="FaqTitle">Can I see a side-by-side version of the French and English Acts or regulations?</h3>
+	      <p>
+
+Yes. A bilingual side-by-side <abbr title="Portable Document Format">PDF</abbr> version of consolidated Acts and regulations is available on the Justice Laws Website. Just click on the <abbr title="Portable Document Format">PDF</abbr> link provided.</p>
+
+              </li>
+
+			  <li><h3 id="n02" class="FaqTitle">How can I see a list of provisions and easily navigate to them in <abbr title="Portable Document Format">PDF</abbr> documents of consolidated legislation?</h3>
+
+	      <p>
+A Table of Provisions, which lists all provisions and associated section and page numbers, is included at the beginning of <abbr title="Portable Document Format">PDF</abbr> documents. Clicking on a provision will link directly to its location within the document.</p>
+<p>
+Bookmarks, which lists all headings and the section number that follows each heading, are displayed on the left side of the <abbr title="Portable Document Format">PDF</abbr> viewer and allow for easy navigation by linking to provisions within the <abbr title="Portable Document Format">PDF</abbr> document.</p>
+              </li>	  
+              <li><h3 id="n3" class="FaqTitle">How can I find regulations made pursuant to a particular Act?</h3>
+<p>
+In the Table of Contents page of the particular Act, the regulations under the Act, if any, are listed under the heading <strong>Regulations made under this Act</strong>.
+</p>
+<p>
+Alternatively, clicking on the “R” on the <strong>Consolidated Acts</strong> list for a particular Act will also link to the <strong>Regulations made under this Act</strong>.
+
+</p>
+              </li>
+	      <li><h3 id="n5" class="FaqTitle">Where are the &ldquo;Other Documents&rdquo; that used to be available on the left navigation menu?</h3>
+
+<p>
+The&nbsp;<strong>Other Documents</strong> page, that listed the documents published in the Canada Gazette Part II, which are not made pursuant to any statutory authority, has been removed. These documents, that include proclamations and orders in council, are now included in the <strong>Consolidated Regulations</strong> list.
+</p>
+              </li>
+              <li><h3 id="n6" class="FaqTitle">How can I create stable links to an Act or regulation on my website?</h3>
+
+<p>
+You can provide stable links to the content of the Justice Laws Website by using the method outlined on the <a href="/eng/LinkingGuide">How to Create Stable Links</a> page. You can link to the table of contents, the full document or a particular section of any Act or regulation.
+</p>
+              </li>            
+	      <li><h3 id="n7" class="FaqTitle">What are “breadcrumbs” and what are they used for?</h3>
+
+<p>
+Breadcrumbs, located below the main Justice banner at the top of the page, are navigational links that allow you to keep track of where you are on the Justice Laws Website. Breadcrumbs provide links back, in hierarchical order, to previous pages you have navigated through to get to the current page.
+</p>
+              </li>            
+      </ul>
+
+</section>
+</div>
+<!--#include virtual="/includes/gcwu-date-mod-e.inc" -->
+
+</div>
+</div>
+
+<!--#include virtual="/includes/wb-sec-e.inc" -->
+</div></div><!-- End of wb-core -->
+<!--#include virtual="/includes/wb-foot-e.inc" -->
+</div>
+<!-- ScriptsStart -->
+<script src="/build/theme-gcwu-fegc/js/theme-min.js"></script>
+<script src="/build/js/settings.js"></script>
+<script src="/build/js/pe-ap-min.js"></script>
+<!-- ScriptsEnd -->
+</body></html>

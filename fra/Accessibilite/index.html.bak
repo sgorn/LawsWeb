@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="fr" xml:lang="fr">
+<head>
+    <meta charset="utf-8" />
+
+	<!-- Title begins / D�but du titre -->
+	<title>Aide à l'accessibilité</title>
+	<!-- Title ends / Fin du titre -->
+	 <link rel="shortcut icon" href="/images/lawsSiteIcon.ico" />
+	<meta name="dcterms.description" content="Lois codifiés Règlements codifiés" />
+	<meta name="description" content="Lois codifiés Règlements codifiés" />
+	<meta name="keywords" content="Lois codifiés Règlements codifiés" />
+	<meta name="dcterms.creator" title="Ministère de la Justice" content="Ministère de la Justice" />
+	<meta name="dcterms.title" content="Lois codifiés Règlements codifiés" />
+	<meta name="dcterms.issued" title="W3CDTF" content="2011-01-01" />
+	<meta name="dcterms.modified" title="W3CDTF" content="2011-01-01" />
+	<meta name="dcterms.subject" title="scheme" content="Lois codifiés Règlements codifiés" />
+	<meta name="dcterms.language" title="ISO639-2" content="fra" />
+
+	<!-- WET scripts/CSS begin / D�but des scripts/CSS de la BOEW --><!--[if IE 6]><![endif]-->
+	<link href="/css/base.css" rel="stylesheet" type="text/css" />
+	<!--[if IE 8]><link href="/css/base-ie8.css" rel="stylesheet" type="text/css" /><![endif]-->
+	<!--[if IE 7]><link href="/css/base-ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
+	<!--[if lte IE 6]><link href="/css/base-ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+
+	<link href="/css/main.css" rel="stylesheet" type="text/css" />
+ <link href="/css/sm-pe-base.css" rel="stylesheet" type="text/css" />
+	<link href="/css/sm-pe-theme-clf2-nsi2.css" rel="stylesheet" type="text/css" />
+<!-- clf2-nsi2 theme begins / D�but du th�me clf2-nsi2 -->
+	<link href="/css/theme-clf2-nsi2.css" rel="stylesheet" type="text/css" />
+	<!--[if IE 7]><link href="/css/theme-clf2-nsi2-ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
+	<!--[if lte IE 6]><link href="/css/theme-clf2-nsi2-ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+<!-- clf2-nsi2 theme ends / Fin du th�me clf2-nsi2 -->
+	<!-- WET scripts/CSS end / Fin des scripts/CSS de la BOEW -->
+
+	<!-- Progressive enhancement begins / D�but de l'am�lioration progressive -->
+	<script src="/js/lib/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/pe-ap.js" type="text/javascript" id="progressive"></script>
+	<script type="text/javascript">
+	    /* <![CDATA[ */
+	var params = {
+		searchTermHighlighting: { minLength: "2", lookWithin: ".searchable", defaultTerms: "" } 
+	};
+	PE.progress(params);
+	/* ]]> */
+	</script>
+	<!-- Progressive enhancement ends / Fin de l'am�lioration progressive -->
+	<!-- Custom scripts/CSS begin / D�but des scripts/CSS personnalis�s -->
+	<link rel="stylesheet" type="text/css" href="/css/institution.css" />
+    <link rel="stylesheet" type="text/css" href="/css/browse.css" />
+    <link rel="stylesheet" type="text/css" href="/css/commonView.css" />
+    <link rel="stylesheet" type="text/css" href="/css/lawContent.css" />
+    <!-- Custom scripts/CSS end / Fin des scripts/CSS personnalis�s -->
+
+<!-- WET print CSS begins / D�but du CSS de la BOEW pour l'impression -->
+	<link href="/css/pf-if.css" rel="stylesheet" media="print" type="text/css" />
+<!-- clf2-nsi2 theme begins / D�but du th�me clf2-nsi2 -->
+	<link href="/css/pf-if-theme-clf2-nsi2.css" rel="stylesheet" media="print" type="text/css" />
+<!-- clf2-nsi2 theme ends / Fin du th�me clf2-nsi2 -->
+	<!-- WET print CSS ends / Fin du CSS de la BOEW pour l'impression -->
+</head>
+<body>
+<!-- Two column layout begins / D�but de la mise en page de deux colonnes -->
+<div id="cn-body-inner-2col">
+
+	<!--#include virtual="includes/cn-banner-f.inc" -->
+	
+<!-- Breadcrumb begins / D�but du fil d'Ariane -->
+			<div id="cn-bcrumb">
+				<h2>Fil d'Ariane</h2>
+				<ol><li><a class="breadcrumbs" href="/fra/">Page principale</a>&#x00A0;&gt;&#x00A0;</li>
+				<li>Aide à l'accessibilité</li>
+				</ol>
+			</div>
+			<!-- Breadcrumb ends / Fin du fil d'Ariane -->	
+		</nav>
+<!-- clf2-nsi2 theme ends / Fin du th�me clf2-nsi2 -->
+	</header>
+	</div>
+	</div>
+	<!-- Header ends / Fin de l'en-t�te -->	
+<div id="cn-cols"><!-- Main content begins / Début du contenu principal -->
+<div id="cn-centre-col-gap"></div>
+	<div id="cn-centre-col" role="main">
+		<div id="cn-centre-col-inner">
+			<section>
+
+		<!-- Content title begins / Début du titre du contenu -->
+
+		<header>
+
+			<h1 id="cn-cont">Aide à l'accessibilité</h1>
+
+		</header>
+
+		<!-- Content Title ends / Fin du titre du contenu -->
+
+		<div class="lineSeparator">
+		</div>
+<div id="search-term-highlighting-form"></div> 
+
+<div class="searchable">
+
+
+<!-- clf2-nsi2 theme begins / Début du thème clf2-nsi2 -->
+
+<div role="navigation">
+<nav>
+
+<ul class="compress">
+
+<li><a href="#afsecoa">Énoncé concernant les caractéristiques d'accessibilité</a></li>
+
+<li><a href="#itfatt">Augmenter la taille du texte</a>
+
+	<ul class="compress">
+
+	<li><a href="#ie" lang="en">Internet Explorer</a></li>
+
+	<li><a href="#mf" lang="en">Mozilla Firefox</a></li>
+
+	<li><a href="#op" lang="en">Opera</a></li>
+
+	<li><a href="#sf" lang="en">Safari</a></li>
+
+	</ul>
+
+</li>
+
+<li><a href="#accfsc">Feuilles de style en cascade (CSS) côté client visant à accroître l'accessibilité</a></li>
+
+</ul>
+</nav>
+</div>
+
+
+
+<section>
+
+<h2 id="afsecoa">Énoncé concernant les caractéristiques d'accessibilité</h2>
+
+<p>Pour rendre ce site plus accessible, le site Web Justice a employé des modèles qui&#160;:</p>
+
+<ul>
+
+	<li>respecte l'accessibilité (WCAG 2.0 AA et WAI-ARIA), l'utilisabilité et l'interoperabilité;</li>
+
+	<li>utilise les élément sémantique de HTML5 et les point caractéristiques de WAI-ARIA;</li>
+
+	<li>sont conformes à <a href="http://www.w3.org/TR/html5/">HTML5</a>, ce qui améliore la compatibilité avec les technologies d'adaptation, les appareils portatifs, les navigateurs et les moteurs de recherche;</li>
+
+	<li>ont été mis à l'essai avec succès dans un large éventail de technologies d'adaptation et de combinaisons navigateur/plate&#8209;forme;</li>
+
+	<li>associent les éléments importants, comme la barre de menu commune, le menu latéral et la zone de contenu, aux balises d'en&#8209;têtes pertinentes, ce qui simplifie la navigation à l'aide d'un lecteur d'écran;</li>
+
+	<li>emploient une conception et une disposition sans tableau, ce qui simplifie la navigation à l'aide d'un lecteur d'écran en réduisant la complexité structurelle des pages Web;</li>
+
+	<li><a href="#accfsc">améliorent l'accessibilité en permettant aux visiteurs de configurer les éléments visuels en fonction de leurs besoins en matière d'accessibilité</a>;</li>
+
+	<li>utilisent des <a href="#itfatt">polices à échelle variable</a> et des éléments de navigation textuels, ce qui améliore l'accessibilité et simplifie la navigation à l'aide de technologies d'adaptation;</li>
+
+	<li>offrent une fonctionnalité d'impression facile dans les feuilles de style en cascade (CSS), ce qui rend les pages plus compatibles avec les imprimantes et empêche l'impression d'éléments de page inutiles;</li>
+
+	<li>séparent la présentation visuelle de la structure du document;</li>
+
+	<li>évitent les éléments tronqués et les éléments qui entraînait le chevauchement d'autres éléments lors de l'utilisation de gros caractères;</li>
+
+	<li>affichent la valeur de &#171;&#160;<code lang="en">title</code>&#160;&#187; lorsqu'un lien devient la cible du clavier;</li>
+
+	<li>emploient des liens &#171;&#160;saut de navigation&#160;&#187; au début de la page pour passer au contenu ou aux liens institutionnels. Ces liens &#171;&#160;saut de navigation&#160;&#187; deviennent visibles lorsque le pointeur de la souris les survole ou lorsqu'ils sont choisis au moyen d'un clavier ou d'autre périphérique d'entrée.</li>
+
+</ul>
+
+</section>
+
+
+
+<section>
+
+<h2 id="itfatt">Augmenter la taille du texte</h2>
+
+<p>Pour augmenter la taille du texte de nos pages Web, vous pouvez changer les paramètres de votre navigateur. Suivez les instructions ci-dessous pour le navigateur que vous utilisez. Vous pouvez aussi consulter l'outil d'aide de votre navigateur.</p>
+
+
+
+<section>
+
+<h3 lang="en" id="ie">Internet Explorer</h3>
+
+<ol>
+
+<li>Sélectionnez &#171;&#160;Affichage&#160;&#187; dans la barre de menus.</li>
+
+<li>Sélectionnez &#171;&#160;Taille du texte&#160;&#187;.</li>
+
+<li>Sélectionnez &#171;&#160;Plus grande&#160;&#187; ou &#171;&#160;La plus grande&#160;&#187;.</li>
+
+</ol>
+
+</section>
+
+
+
+<section>
+
+<h3 lang="en" id="mf">Mozilla Firefox</h3>
+
+<ol>
+
+<li>Sélectionnez &#171;&#160;Affichage&#160;&#187; dans la barre de menus.</li>
+
+<li>Sélectionnez &#171;&#160;Taille du texte&#160;&#187;.</li>
+
+<li>Sélectionnez &#171;&#160;Plus grande&#160;&#187;.</li>
+
+<li>Au besoin, répétez les étapes-ci dessus.</li>
+
+</ol>
+
+</section>
+
+
+
+<section>
+
+<h3 lang="en" id="op">Opera</h3>
+
+<ol>
+
+<li>Sélectionnez &#171;&#160;Afficher&#160;&#187; dans la barre de menus.</li>
+
+<li>Sélectionnez &#171;&#160;Zoom&#160;&#187;.</li>
+
+<li>À partir du menu, sélectionnez la taille avec laquelle vous voulez visionner le site Web.</li>
+
+<li>Au besoin, répétez les étapes-ci dessus.</li>
+
+</ol>
+
+</section>
+
+
+
+<section>
+
+<h3 id="sf">Safari</h3>
+
+<ol>
+
+<li>Sélectionnez &#171;&#160;View&#160;&#187; dans la barre de menus.</li>
+
+<li>Sélectionnez &#171;&#160;Zoom In&#160;&#187;.</li>
+
+<li>Au besoin, répétez les étapes-ci dessus.</li>
+
+</ol>
+
+</section>
+
+</section>
+
+
+
+<section>
+
+<h2 id="accfsc">Feuilles de style en cascade (CSS) côté client visant à accroître l'accessibilité</h2>
+
+<p>Les mécanismes de conception de pages Web du présent site Web offrent suffisamment de souplesse pour vous permettre de configurer la présentation visuelle de manière à répondre à vos besoins en matière d'accessibilité à l'aide d'un fichier de feuilles de style en cascade (CSS) côté client.</p>
+
+<p>La plupart des navigateurs permettent de définir un fichier CSS côté client, qui peut ensuite être appliqué à chaque page Web que vous consultez. Pour ce faire,veuillez procéder aux étapes suivantes :</p>
+
+<ol>
+
+	<li><a href="http://www.tbs-sct.gc.ca/clf2-nsi2/tb-bo/acch-aacc-fra.asp#cn_ht-ccss">Comment créer un fichier CSS côté client</a></li>
+
+	<li><a href="http://www.tbs-sct.gc.ca/clf2-nsi2/tb-bo/acch-aacc-fra.asp#cn_ht-cbtucss">Comment configurer votre navigateur pour utiliser le fichier CSS côté client</a></li>
+
+</ol>
+
+</section><br />
+
+<!-- clf2-nsi2 theme ends / Fin du thème clf2-nsi2 -->
+
+		</div>
+	</section>
+
+<!-- clf2-nsi2 theme ends / Fin du thème clf2-nsi2 -->
+		</div>
+	</div>
+
+<!-- Main content ends / Fin du contenu principal --> 
+<!--#include virtual="/includes/cn-left-f.inc" -->
+</div>
+<!--#include virtual="/includes/cn-footer-f.inc" -->
+</div><!-- Two column layout ends / Fin de la mis en page de deux colonnes -->
+</body></html>
