@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  CreateArtifacts:
+  build:
     runs-on: windows-latest
 
     steps:
@@ -24,6 +24,7 @@ jobs:
 
   deploy:
     runs-on: windows-latest
+    needs: build
     environment:
       name: 'staging'
       url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
@@ -38,7 +39,7 @@ jobs:
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v2
         with:
-          app-name: 'jusclawsweb(staging)'
+          app-name: 'jusclawsweb'
           slot-name: 'staging'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_90ef37e0740e4cc7b560b988c07edd8c }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A467E4144E414A1BBDD6E3AA170B696C }}
           package: .
